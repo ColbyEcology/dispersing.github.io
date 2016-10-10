@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Christopher Moore, postdoctoral research associate"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Home"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "www.mutualismecology.com"
+baseurl                  : # the subpath of your site, e.g. "/index"
+repository               : "dispersing/dispersing.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Christopher M. Moore"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Postdoctoral ecologist studying mutualism"
+  location         : "Cleveland, Ohio, United States"
+  email            : "life.dispersing@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "github.com/dispersing"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "@dispersing"
   vine             :
   weibo            :
   xing             :
