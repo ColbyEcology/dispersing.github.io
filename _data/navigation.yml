@@ -12,6 +12,9 @@ main:
   - title: "Blog"
     url: /Blog
 
+  - title: "Photos"
+    url: /Photos
+
   - title: "Quotes"
     url: /Quotes
 
