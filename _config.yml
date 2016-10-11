@@ -11,7 +11,7 @@ title                    : "Mutualism ecology"
 title_separator          : "-"
 name                     : "Home"
 description              : "An amazing website."
-url                      : "mutualismecology.com"
+url                      : http://mutualismecology.com
 baseurl                  : # the subpath of your site, e.g. "/index"
 repository               : #"dispersing/dispersing.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
