@@ -5,3 +5,15 @@ main:
 
   - title: "Teaching"
     url: /Teaching
+
+  - title: "Publications"
+    url: /Publications
+
+  - title: "Blog"
+    url: /Blog
+
+  - title: "Quotes"
+    url: /Quotes
+
+  - title: "Contact"
+    url: /Contact
