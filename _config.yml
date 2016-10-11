@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://twitter.com/lifedispersing"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Christopher M. Moore"
   avatar           : "bio-photo.jpg"
-  bio              : "Postdoctoral ecologist studying the population and community ecology of mutualism"
+  bio              : "Postdoc. studying the population and community ecology of mutualism"
   location         : "Cleveland, Ohio, United States"
   email            : life.dispersing@gmail.com
-  uri              :
+  uri              : https://mutualismecology.com
   bitbucket        :
   codepen          :
   dribbble         :
