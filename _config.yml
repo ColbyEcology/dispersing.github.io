@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"github.com/dispersing"
+  github           : "github.com/dispersing"
   google_plus      :
   keybase          :
   instagram        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"@dispersing"
+  twitter          : "@dispersing"
   vine             :
   weibo            :
   xing             :
