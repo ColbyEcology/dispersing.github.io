@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mutualism ecology"
 title_separator          : "|"
 name                     : "Home"
-description              : "An amazing website."
+description              : "Christopher Moore's professional website"
 url                      : http://mutualismecology.com
 baseurl                  : # the subpath of your site, e.g. "/index"
-repository               : https://github.com/dispersing
+repository               : "dispersing/dispersing.github.io"
 teaser                   : "shroom.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -60,9 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
+og_image                 : "shroom.jpg"
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
@@ -70,9 +68,9 @@ social:
     - "https://twitter.com/lifedispersing"
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-68437941-1"
 
 
 # Site Author
@@ -82,7 +80,7 @@ author:
   bio              : "Postdoc. studying the population and community ecology of mutualism"
   location         : "Cleveland, Ohio, United States"
   email            : life.dispersing@gmail.com
-  uri              : https://mutualismecology.com
+  uri              : http://mutualismecology.com
   bitbucket        :
   codepen          :
   dribbble         :
@@ -160,6 +158,18 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
 
 
 # Sass/SCSS
