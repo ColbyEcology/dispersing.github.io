@@ -168,12 +168,10 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
       author_profile: false
       read_time: true
       share: true
       related: true
-      layout: single
 
 # Sass/SCSS
 sass:
