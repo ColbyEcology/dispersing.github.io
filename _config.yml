@@ -13,7 +13,7 @@ name                     : "Home"
 description              : "An amazing website."
 url                      : http://mutualismecology.com
 baseurl                  : # the subpath of your site, e.g. "/index"
-repository               : "dispersing/dispersing.github.io"
+repository               : https://github.com/dispersing
 teaser                   : "shroom.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@dispersing"
+  twitter          : "@life.dispersing"
   vine             :
   weibo            :
   xing             :
