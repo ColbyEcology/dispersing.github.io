@@ -3,11 +3,6 @@ layout: archive
 title: "Blog"
 ---
 {% include base_path %}
-
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-{% for post in paginator.posts %}
+{% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
-
-{% include paginator.html %}
