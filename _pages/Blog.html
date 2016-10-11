@@ -2,6 +2,18 @@
 layout: archive
 title: "Blog"
 permalink: /Blog/
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 ---
 Does this work?
 {% include base_path %}
