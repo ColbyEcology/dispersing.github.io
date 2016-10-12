@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Teaching"
-permalink: /Teaching/
+title: "Treaching"
+permalink: /Treaching/
 author_profile: true
 ---
 # University of Nevada, Reno
