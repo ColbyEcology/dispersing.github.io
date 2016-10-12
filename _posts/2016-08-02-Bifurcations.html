@@ -1,5 +1,4 @@
 ---
-layout: post_entry
 title: Hopf bifurcations in the Rosenzweig-MacArthur consumer-resource model
 ---
 <p>This weekend I revisited Kevin McCann's monograph <a href="http://press.princeton.edu/titles/9642.html"><i>Food Webs</i></a> because I was reminding myself how it is exactly that we scale from 2- to <i>n</i>-species in dynamic models.</p>
@@ -27,7 +26,7 @@ For both of these equations, \( r \) is the growth rate of the prey as it approa
 <p> Below, I've created an animation with two panels---the <b>top</b> being a phase plane and the <b>bottom</b> being a time series representation of the Rosenzweig-MacArthur consumer-resource model when a single parameter, \( a \), is increased from 0.9 to 2.6.  The parameter values in this model are: \( r = 1, K = 2, e = R_0 = m = 0.5 \).</p>
 
 <video width="480" height="480" controls loop>
-  <source src="/img/bifurcation.mp4" type="video/mp4">
+  <source src="/images/bifurcation.mp4" type="video/mp4">
   Your browser does not support the video tag.</video>
 
 <p>The phase plane was created using custom functions that I modified from the R package <a href="https://cran.r-project.org/web/packages/phaseR/index.html">phaseR</a>.  The arrows represent the direction field, which corresponds to the direction that the trajectory of prey and predators will change over time (e.g., the next time step).  The dashed color lines are the zero-growth isoclines (i.e., nullclines), which represent the values for which each of the variables do not change \( \partial X_i / \partial f_i(X_i, Y_i) = 0 \).  Where the zero-growth isoclines intersect is where neither of the variables change, and are hence equilibria.  The black point is a an example trajectory that I began at \( (H = 0.5, P = 0.2) \) and ran for 200 time steps to see the dynamics in phase space.
@@ -37,4 +36,4 @@ For both of these equations, \( r \) is the growth rate of the prey as it approa
 
 <p>Last, to see the eigenvalues of the Jacobian matrix evaluated at the interior equilibrium for each of value of \( a \), I created the biplot below.  As \( a \) increases, the maximum real part of the eigenvalue \( \lambda _{max} \) initially deceases.  Then at 1.38, the eigenvalues become complex; hence the dampening oscillations around the equilibrium.  Lastly, the eigenvalues become positive after \( a > 1.68 \), and hence begin cycling.</p>
 
-<img src="/img/bifurcation_eigen.png" alt="a versus eigenvlue biplot" width="480">
+<img src="/images/bifurcation_eigen.png" alt="a versus eigenvlue biplot" width="480">
