@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /Teaching/
 author_profile: true
 ---
-## University of Nevada, Reno, test
+## University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
 * [BIOL 322, Experimental field ecology, Summer 2013](/Teaching/BIOL322.html)
 * [EECB 752, Principles of evolutionary biology, Spring 2013](/Teaching/Evolution.html)
