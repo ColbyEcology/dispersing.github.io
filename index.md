@@ -13,4 +13,4 @@ Hello, and thank you for visiting my website. Pardon the dust around here, as I 
 * [some photographic experiences in my work as an ecologist (not yet up!),](/Photos)
 * [some fun quotes I've collected over the years, and](/Quotes)
 * [my contact information](/Contact)
-Thanks again, and feel free to contact my with any questions.
+Thanks again, and feel free to contact me with any questions.
