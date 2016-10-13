@@ -4,7 +4,7 @@ layout: splash
 permalink: /Research_1/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.7"
+  overlay_filter: "0.2"
   overlay_image: polychrome.jpg
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
