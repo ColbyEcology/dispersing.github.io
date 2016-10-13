@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /Publications/
 author_profile: true
 ---
-## Accepted or in press
+## Preprint, accepted, or in press
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
