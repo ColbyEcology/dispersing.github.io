@@ -25,7 +25,7 @@ feature_row2:
   - image_path: dispcurves.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'As a simple thoughAnd obviously, we don't see infinitely-large populations in nature.'
+    excerpt: 'As a simple thoughAnd obviously, we don't see infinitely large populations in nature.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
