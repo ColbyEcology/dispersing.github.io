@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Publications_1"
-permalink: /Publications/_1
+permalink: /Publications_1/
 author_profile: true
 ---
 ## Accepted or in press
