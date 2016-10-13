@@ -16,7 +16,7 @@ feature_row1:
   - image_path: lily.jpg
     alt: "placeholder image 1"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'Mutualism describes the phenomenon where two populations gain a fitness benefit as direct result of each other's presence.  '
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
