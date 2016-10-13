@@ -40,6 +40,7 @@ feature_row3:
     btn_class: "btn--inverse"
 
 ---
+{% include base_path %}
 
 {% include feature_row id="feature_row1" type="left" %}
 
