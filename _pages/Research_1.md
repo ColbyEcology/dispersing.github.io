@@ -25,7 +25,7 @@ feature_row2:
   - image_path: dispcurves.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'As a simple thought experiment, consider iterating the effect of mutual benefit between two populations--they would feed off each other's growth and grow without any bounds.  And obviously, we don't see infinitely-large populations in nature.'
+    excerpt: 'As a simple thought experiment, consider iterating the effect of mutual benefit between two populations they would feed off each other's growth and grow without any bounds.  And obviously, we don't see infinitely large populations in nature.'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
