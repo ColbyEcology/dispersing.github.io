@@ -22,7 +22,7 @@ feature_row1:
     btn_class: "btn--inverse"
 
 feature_row2:
-  - image_path: /images/dispcurves.png
+  - image_path: dispcurves.png
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -31,7 +31,7 @@ feature_row2:
     btn_class: "btn--inverse"
 
 feature_row3:
-  - image_path: /images/dispcurves.png
+  - image_path: dispcurves.png
     alt: "placeholder image 3"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
