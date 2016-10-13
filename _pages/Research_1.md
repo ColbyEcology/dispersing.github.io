@@ -14,7 +14,7 @@ intro:
 
 feature_row1:
   - image_path: /images/popint.png
-    alt: "placeholder image 2"
+    alt: "placeholder image 1"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
     url: "#test-link"
