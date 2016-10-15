@@ -5,7 +5,7 @@ permalink: /Research_1/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: bluebeetles.jpg
+  overlay_image: bistort.jpg
   cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
