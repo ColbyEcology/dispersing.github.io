@@ -6,15 +6,10 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: bistort.jpg
-  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+excerpt: "I am broadly interested in between-species interactions, with a fond eye for positive species interactions and the consequence of interactions in space ..."
 
 feature_row1:
   - image_path: lily.jpg
-
 
 feature_row2:
   - image_path: dispcurves.png
