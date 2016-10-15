@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: single
-permalink: /Research_1/
+permalink: /Research/
 author_profile: true
 
 header:
@@ -16,7 +16,7 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 My research can largely be broken into three areas, which I describe in some more detail below.
 1. I first describe my main focus on the population and community ecology of [mutualistic interactions](#mutualism)&mdash;interactions where two or more species have enhanced survival or reproduction in each others' presence. It turns our that these interactions are incredibly important and but are still not well-integrated in conceptual or theoretical frameworks in  ecology.
 2. Second, I describe my interests in [spatial ecology](#space).
-3. Last, I describe my interests in [The R environment as a tool for ecological problems](#REnv).
+3. Last, I describe my interests in [The R environment as a tool](#REnv) for ecological problems.
 
 
 ## Mutualism&#58; positive species interactions shape communities <a name="mutualism"></a>
