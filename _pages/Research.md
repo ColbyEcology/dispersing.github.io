@@ -13,7 +13,7 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 ---
 {% include base_path %}
 
-My research can generally be categorized into three areas, [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
+My research can generally be categorized into three areas (follow the link to a section below)&#58; [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
 
 ## Mutualism&#58; how positive species interactions shape populations and communities <a name="mutualism"></a>
 
