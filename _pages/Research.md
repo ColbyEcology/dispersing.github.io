@@ -40,10 +40,6 @@ I have a [GitHub](https://github.com/dispersing) site where I try to openly deve
 
 I am currently working on a spatial modeling project and in the process of creating R's first library for creating hexagonal lattices and spatial modeling.  Below is a spatially structured, two-host disease model, with each host a different color and the brightness of the color being the relative density of infection. For more information, here's a short blog post on the inspiration and process: [link](/Hexagons.html).
 
-<!-- [![Hex video](/images/HexImg.png)](/images/hex_r5.mp4) -->
-
 <video width="320" height="320" controls>
     <source src="/images/hex_r5.mp4" type="video/mp4">
 </video>
-
-<iframe width="320" height="320" src="/images/hex_r5.mp4" frameborder="0" allowfullscreen></iframe>
