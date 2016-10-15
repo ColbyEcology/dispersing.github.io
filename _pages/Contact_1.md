@@ -4,9 +4,9 @@ author_profile: true
 title: "Contact_1"
 permalink: /Contact_1/
 ---
-| Email        | life.dispersing [ this is a prefix for a gmail address]		  |
+| Email        | life.dispersing [the appropriate ending for a gmail address]<br/>cmm225 [the appropriate ending for a Case Western Reserve University email address]		  |
 |Snail mail    | Case Western Reserve University<br/>Department of Biology<br/>DeGrace Hall<br/>2080 Adelbert Road<br/>Cleveland, Ohio 44106, United States |
-| ResearchGate | [<img src="https://www.researchgate.net/apple-touch-icon-57x57.png">](https://www.researchgate.net/profile/Christopher_Moore17) |
+| ResearchGate | [<img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px>](https://www.researchgate.net/profile/Christopher_Moore17) |
 | Academia.edu | [Link](https://case.academia.edu/ChristopherMoore)        		  |
 
 
