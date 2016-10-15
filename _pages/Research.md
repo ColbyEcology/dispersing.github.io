@@ -15,11 +15,6 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 
 My research can generally be categorized into three areas, [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
 
-1. I first describe my main focus on the population and community ecology of [mutualistic interactions](#mutualism)&mdash;interactions where two or more species have enhanced survival or reproduction in each others' presence. It turns our that these interactions are incredibly important and but are still not well-integrated in conceptual or theoretical frameworks in  ecology.
-2. Second, I describe my interests in [spatial ecology](#space).
-3. Last, I describe my interests in the [R environment as a tool](#REnv) for ecological problems.
-
-
 ## Mutualism&#58; how positive species interactions shape populations and communities <a name="mutualism"></a>
 
 Mutualism has been considered by many to be the most common type of ecological interaction.  For example, forests are rife with mycorrhizal mutualisms between trees and the fungi that live between their roots (listen to the amazing Radiolab piece on these interactions&#58; [*From Tree to Shining Tree*](http://www.radiolab.org/story/from-tree-to-shining-tree/)), the bustling and biodiverse oceanic reefs' foundation is built upon mutualisms between coral and zooxanthellae, and over 90% of the foods we eat are the result of pollination mutualisms between plants and insects.  Despite mutualisms' obvious importance, however, it has been somewhat of a nuisance to study for both experimental and theoretical biologists.
