@@ -21,7 +21,6 @@ permalink: /Contact/
 | Google Scholar  | [<i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en) |
 | iNaturalist  | [<i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/arctostaphylophilus) |
 
-
 ## Chris and Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
 <img src="/images/Morro.png" alt="Chris and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
