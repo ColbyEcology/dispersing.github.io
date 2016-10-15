@@ -1,12 +1,12 @@
 ---
-title: "Research_1"
+title: "Research"
 layout: splash
 permalink: /Research_1/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.5"
   overlay_image: bluebeetles.jpg
-excerpt: "I am broadly interested in between-species interactions, with a fond eye for positive species interactions and the consequence of interactions in space ..."
+excerpt: "I am broadly interested in between-species interactions, with a fondness for positive species interactions and spatial ecology . . ."
 
 feature_row1:
   - image_path: lily.jpg
