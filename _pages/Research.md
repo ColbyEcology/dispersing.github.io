@@ -16,6 +16,7 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 My research can generally be categorized into three areas (follow the link to a section below)&#58; [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
 
 <a name="mutualism"></a>
+
 ## Mutualism&#58; how positive species interactions shape populations and communities
 Mutualism has been considered by many to be the most common type of ecological interaction.  For example, forests are rife with mycorrhizal mutualisms between trees and the fungi that live between their roots (listen to the amazing Radiolab piece on these interactions&#58; [*From Tree to Shining Tree*](http://www.radiolab.org/story/from-tree-to-shining-tree/)), the bustling and biodiverse oceanic reefs' foundation is built upon mutualisms between coral and zooxanthellae, and over 90% of the foods we eat are the result of pollination mutualisms between plants and insects.  Despite mutualisms' obvious importance, however, it has been somewhat of a nuisance to study for both experimental and theoretical biologists.
 
@@ -24,8 +25,8 @@ As an over-simplified thought experiment to understand why mutualism presents a 
 For the past two years I have been working with [Karen Abbott](http://www.case.edu/artsci/biol/abbottlab/CWRU/Home.html) at Case Western Reserve University trying to better understand the problem of mutualistic feedback and develop a theoretical framework that doesn't result in unrealistic, infinite population sizes.  Our two main approaches have both included expanding on classic Lotka-Volterra mutualism models to include (1) **biologically realistic intraspecific density dependence** and (2) **creating a new, synthetic framework for understanding and modeling mutualisms**.  Our work is ready for publication, so be sure to keep a lookout!
 
 <a name="space"></a>
-## Dispersal and spatial ecology&#58; the consequences ecology happening in two dimensions
 
+## Dispersal and spatial ecology&#58; the consequences ecology happening in two dimensions
 Dispersal describes the spatial or temporal displacement of organisms.  All life as we know it disperses: some organisms actively seek new habitats, some organisms are passively dispersed to new habitats, and some organisms remain inactive or suspended until conditions are right, which is dispersal through time.  A major part of my research interests is understanding **how dispersal effects ecological and evolutionary dynamics**.  For my dissertation, I described a mechanism for dispersal for a species of plant that was previously unknown ([Moore and Vander Wall, *Plant Eco.*, 2015](/Publications)).  This made me become more interested in the relationship between disperser behaviour and patterns of seed deposition.
 
 I also co-developed the North American Seed Dispersal Project, where we quantified range and distributional characteristics of plant species across the continent by different vectors of dispersal ([Vander Wall and Moore, <i>Global Eco. and Biogeog.</i>, early view](/Publications)) and how that relates to the animals that disperse them (Dittel, Moore, and Vander Wall, in prep.).
