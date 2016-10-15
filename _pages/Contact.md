@@ -19,7 +19,7 @@ permalink: /Contact/
 
 | GitHub	        | [dispersing](http://github.com/dispersing) |
 | Google Scholar  | [<i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en) |
-| iNaturalist  | [<i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/{{ author.inaturalist }}) |
+| iNaturalist  | [<i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/arctostaphylophilus) |
 
 
 ## Chris and Morro manzanita (*Actrostaphylos morroensis*) in 2011
