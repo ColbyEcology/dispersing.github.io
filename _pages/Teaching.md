@@ -26,4 +26,4 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 
 <br>
 ---
-<sup>1</sup>bell hooks, *Teaching to transgress: education as the practice of freedom*, 1994
+<sup>1</sup>bell hooks, *Teaching to Transgress: Education as the Practice of Freedom*, 1994
