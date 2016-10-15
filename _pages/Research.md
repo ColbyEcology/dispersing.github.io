@@ -42,4 +42,8 @@ I am currently working on a spatial modeling project and in the process of creat
 
 <!-- [![Hex video](/images/HexImg.png)](/images/hex_r5.mp4) -->
 
-<iframe width="320" height="320" src="/images/hex_r5.mp4?autoplay=0" frameborder="0" allowfullscreen></iframe>
+<video width="320" height="320" controls>
+    <source src="/images/hex_r5.mp4" type="video/mp4">
+</video>
+
+<iframe width="320" height="320" src="/images/hex_r5.mp4" frameborder="0" allowfullscreen></iframe>
