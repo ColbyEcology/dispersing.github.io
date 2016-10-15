@@ -19,6 +19,6 @@ permalink: /Contact_1/
 
 | GitHub	   | [dispersing](http://github.com/dispersing) |
 
-### Playing with Morro manzanita (*Actrostaphylos morroensis*) in 2011
+## Playing with Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
 <img src="/images/Morro.png" alt="Chris_i and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
