@@ -168,7 +168,6 @@ defaults:
       type: posts
     values:
       author_profile: true
-      layout: single
 
 # Sass/SCSS
 sass:
