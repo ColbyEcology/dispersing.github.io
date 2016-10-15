@@ -2,11 +2,12 @@
 title: "Research"
 layout: splash
 permalink: /Research_1/
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: bluebeetles.jpg
-excerpt: "I am broadly interested in between-species interactions, with a fondness for positive species interactions and spatial ecology . . ."
+excerpt: "I'm interested in the ecology of species interactions, with a fondness of both  positive species interactions and species interactions across space and time . . ."
 
 feature_row1:
   - image_path: lily.jpg
