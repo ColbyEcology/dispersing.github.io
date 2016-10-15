@@ -24,7 +24,8 @@ As an over-simplified thought experiment to understand why mutualism presents a 
 For the past two years I have been working with [Karen Abbott](http://www.case.edu/artsci/biol/abbottlab/CWRU/Home.html) at Case Western Reserve University trying to better understand the problem of mutualistic feedback and develop a theoretical framework that doesn't result in unrealistic, infinite population sizes.  Our two main approaches have both included expanding on classic Lotka-Volterra mutualism models to include (1) **biologically realistic intraspecific density dependence** and (2) **creating a new, synthetic framework for understanding and modeling mutualisms**.  Our work is ready for publication, so be sure to keep a lookout!
 
 <a name="space"></a>
-## Dispersal and spatial ecology&#58; the consequences ecology happening in two dimensions 
+## Dispersal and spatial ecology&#58; the consequences ecology happening in two dimensions
+
 Dispersal describes the spatial or temporal displacement of organisms.  All life as we know it disperses: some organisms actively seek new habitats, some organisms are passively dispersed to new habitats, and some organisms remain inactive or suspended until conditions are right, which is dispersal through time.  A major part of my research interests is understanding **how dispersal effects ecological and evolutionary dynamics**.  For my dissertation, I described a mechanism for dispersal for a species of plant that was previously unknown ([Moore and Vander Wall, *Plant Eco.*, 2015](/Publications)).  This made me become more interested in the relationship between disperser behaviour and patterns of seed deposition.
 
 I also co-developed the North American Seed Dispersal Project, where we quantified range and distributional characteristics of plant species across the continent by different vectors of dispersal ([Vander Wall and Moore, <i>Global Eco. and Biogeog.</i>, early view](/Publications)) and how that relates to the animals that disperse them (Dittel, Moore, and Vander Wall, in prep.).
@@ -32,6 +33,7 @@ I also co-developed the North American Seed Dispersal Project, where we quantifi
 I have also pursued several modeling projects to look at population dynamics and disease in a spatial-modeling context.
 
 <a name="REnv"></a>
+
 ## The R environment as a tool for ecological problems
 I have become increasingly interested in the use of computational tools to better understand ecology.  Whether its for statistical tests, mathematical analysis, or simulation, I am interested in using computers to help us understand complex ecological systems.
 
