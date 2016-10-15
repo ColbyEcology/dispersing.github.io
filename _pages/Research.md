@@ -13,7 +13,7 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 ---
 {% include base_path %}
 
-My research can generally be categorized into three areas, which I describe in some more detail below.
+My research can generally be categorized into three areas, [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
 
 1. I first describe my main focus on the population and community ecology of [mutualistic interactions](#mutualism)&mdash;interactions where two or more species have enhanced survival or reproduction in each others' presence. It turns our that these interactions are incredibly important and but are still not well-integrated in conceptual or theoretical frameworks in  ecology.
 2. Second, I describe my interests in [spatial ecology](#space).
@@ -24,7 +24,7 @@ My research can generally be categorized into three areas, which I describe in s
 
 Mutualism has been considered by many to be the most common type of ecological interaction.  For example, forests are rife with mycorrhizal mutualisms between trees and the fungi that live between their roots (listen to the amazing Radiolab piece on these interactions&#58; [*From Tree to Shining Tree*](http://www.radiolab.org/story/from-tree-to-shining-tree/)), the bustling and biodiverse oceanic reefs' foundation is built upon mutualisms between coral and zooxanthellae, and over 90% of the foods we eat are the result of pollination mutualisms between plants and insects.  Despite mutualisms' obvious importance, however, it has been somewhat of a nuisance to study for both experimental and theoretical biologists.
 
-As an over-simplified thought experiment to understand why mutualism presents a theoretical problem, first consider iterating the effect of mutual benefit between two species.  Imagine one species benefits the other, the second species received benefits and benefits the first, the first species received the benefits and benefits the second, and so on.  What this ultimately leads to is [positive feedback](https://en.wikipedia.org/wiki/Positive_feedback).  This is just like the positive feedback between a microphone and amplifier in [NIRVANA's music](https://youtu.be/zagAeZ5eH94?t=6).
+As an over-simplified thought experiment to understand why mutualism presents a theoretical problem, first consider iterating the effect of mutual benefit between two species.  Imagine one species benefits the other, the second species received benefits and benefits the first, the first species received the benefits and benefits the second, and so on.  What this ultimately leads to is [positive feedback](https://en.wikipedia.org/wiki/Positive_feedback).  (Yes, this is just like the positive feedback between a microphone and amplifier in [NIRVANA's music](https://youtu.be/i0g8toTz-ek?t=14).)
 
 What would happen is that they would feed off each other's growth and grow infinitely large!  And obviously, we don't see infinitely-large populations in nature.  
 
