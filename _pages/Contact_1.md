@@ -4,17 +4,11 @@ author_profile: true
 title: "Contact_1"
 permalink: /Contact_1/
 ---
-| Email        | life.dispersing [the appropriate ending for a gmail address]<br/>cmm225 [the appropriate ending for a Case Western Reserve University email address]		  |
+| Email        | life.dispersing [the appropriate ending for a gmail address]<br/>cmm225 [the appropriate ending for a CWRU email address]		  |
 |Snail mail    | Case Western Reserve University<br/>Department of Biology<br/>DeGrace Hall<br/>2080 Adelbert Road<br/>Cleveland, Ohio 44106, United States |
-| ResearchGate | [<img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px>](https://www.researchgate.net/profile/Christopher_Moore17) |
+| GitHub	   | [<i class="fa fa-github" aria-hidden="true"></i>](http://github.com/dispersing) |
+| ResearchGate | [<img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px;">](https://www.researchgate.net/profile/Christopher_Moore17) |
 | Academia.edu | [<img src="https://a.academia-assets.com/images/favicons/apple-touch-icon-57x57.png" style="width:20px;height:20px;">](https://case.academia.edu/ChristopherMoore)        		  |
-
-
-	<td>ResearchGate:</td>
-	<td><a href="https://www.researchgate.net/profile/Christopher_Moore17"><img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px;"></a></td>
-	<td>Academia.edu:</td>
-	<td><a href="https://case.academia.edu/ChristopherMoore"><img src="https://a.academia-assets.com/images/favicons/apple-touch-icon-57x57.png" style="width:20px;height:20px;"></a></td>
-</tr>
 
 
 <tr>
