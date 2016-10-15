@@ -24,5 +24,6 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 * BIOL 171, Biodiversity and evolution, Fall 2006-Spring 2008
 * BIOL 100, Introduction to biology, Fall 2006
 
+<br>
 ---
 <sup>1</sup>bell hooks, *Teaching to transgress: education as the practice of freedom*, 1994
