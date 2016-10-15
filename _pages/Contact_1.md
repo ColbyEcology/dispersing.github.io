@@ -5,7 +5,7 @@ title: "Contact_1"
 permalink: /Contact_1/
 ---
 | Email        | life.dispersing [ this is a prefix for a gmail address]		  |
-|Snail mail    | Case Western Reserve University 					     		  ||
+|Snail mail    | Case Western Reserve University <br/> stuff					     		  ||
 |              | Department of Biology								     		  ||
 |              | DeGrace Hall										     		  ||
 |              | 2080 Adelbert Road									     		  ||
@@ -36,6 +36,5 @@ permalink: /Contact_1/
 	<td><a href="https://twitter.com/lifedispersing">@lifedispersing</a></td>
 </tr>
 
-</table>
 <img src="/images/Morro.png" alt="Chris_i and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
 </section>
