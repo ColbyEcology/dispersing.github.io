@@ -3,6 +3,12 @@ layout: single
 title: "Teaching"
 permalink: /Teaching/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: fieldeco.png
+excerpt: ""
+
 ---
 ## University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
