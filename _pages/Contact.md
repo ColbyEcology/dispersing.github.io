@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-title: "Contact_1"
-permalink: /Contact_1/
+title: "Contact"
+permalink: /Contact/
 ---
 ## Mail
 
@@ -21,4 +21,4 @@ permalink: /Contact_1/
 
 ## Playing with Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
-<img src="/images/Morro.png" alt="Chris_i and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
+<img src="/images/Morro.png" alt="Chris and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
