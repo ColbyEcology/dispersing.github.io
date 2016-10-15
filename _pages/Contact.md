@@ -18,6 +18,9 @@ permalink: /Contact/
 ## Other
 
 | GitHub	   | [dispersing](http://github.com/dispersing) |
+| Google Sholar	   | [<i class="fa fa-google" aria-hidden="true"></i>
+](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en&authuser=1) |
+
 
 ## Playing with Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
