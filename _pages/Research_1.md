@@ -5,7 +5,7 @@ permalink: /Research_1/
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: bistort.jpg
+  overlay_image: bluebeetles.jpg
 excerpt: "I am broadly interested in between-species interactions, with a fond eye for positive species interactions and the consequence of interactions in space ..."
 
 feature_row1:
