@@ -14,6 +14,7 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 {% include base_path %}
 
 My research can largely be broken into three areas, which I describe in some more detail below.
+
 1. I first describe my main focus on the population and community ecology of [mutualistic interactions](#mutualism)&mdash;interactions where two or more species have enhanced survival or reproduction in each others' presence. It turns our that these interactions are incredibly important and but are still not well-integrated in conceptual or theoretical frameworks in  ecology.
 2. Second, I describe my interests in [spatial ecology](#space).
 3. Last, I describe my interests in the [R environment as a tool](#REnv) for ecological problems.
@@ -40,8 +41,3 @@ I am currently working on a spatial modeling project and in the process of creat
 <!-- [![Hex video](/images/HexImg.png)](/images/hex_r5.mp4) -->
 
 <iframe width="320" height="320" src="/images/hex_r5.mp4" frameborder="0" allowfullscreen></iframe>
-
-
-	<video width="320" height="320" controls loop>
-  <source src="/images/hex_r5.mp4" type="video/mp4">
-Your browser does not support the video tag.</video>
