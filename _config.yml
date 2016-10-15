@@ -161,13 +161,14 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-#defaults:
-#  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      author_profile: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+      layout: single
 
 # Sass/SCSS
 sass:
