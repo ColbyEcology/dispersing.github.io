@@ -5,11 +5,7 @@ title: "Contact_1"
 permalink: /Contact_1/
 ---
 | Email        | life.dispersing [ this is a prefix for a gmail address]		  |
-|Snail mail    | Case Western Reserve University <br/> stuff					     		  ||
-|              | Department of Biology								     		  ||
-|              | DeGrace Hall										     		  ||
-|              | 2080 Adelbert Road									     		  ||
-|              | Cleveland, Ohio 44106, United States				     	   	  ||
+|Snail mail    | Case Western Reserve University<br/>Department of Biology<br/>DeGrace Hall<br/>2080 Adelbert Road<br/>Cleveland, Ohio 44106, United States |
 | ResearchGate | [Link](https://www.researchgate.net/profile/Christopher_Moore17) |
 | Academia.edu | [Link](https://case.academia.edu/ChristopherMoore)        		  |
 
