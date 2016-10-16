@@ -15,7 +15,7 @@ gallery_p:
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
     alt: "*Heliotropium curassavicum* in the Mojave Desert 2008"
-    title: "Heliotropium curassavicum off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States in late spring, 2008"
+    title: "Heliotropium curassavicum off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
@@ -378,6 +378,18 @@ gallery_fw:
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_accession.jpeg
+    image_path: WebsitePhotos/fw_accession-th.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_snake.jpeg
+    image_path: WebsitePhotos/fw_snake-th.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_merriam.jpeg
+    image_path: WebsitePhotos/fw_merriam-th.jpeg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
