@@ -100,6 +100,14 @@ gallery_p:
     image_path: WebsitePhotos/p_mim.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/p_pop.jpg
+    image_path: WebsitePhotos/p_pop.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_desmim.jpg
+    image_path: WebsitePhotos/p_desmim.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 gallery_a:
   - url: WebsitePhotos/a_coachwhip.jpg
@@ -176,6 +184,30 @@ gallery_a:
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_hyla.jpg
     image_path: WebsitePhotos/a_hyla.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_hemiegg.jpg
+    image_path: WebsitePhotos/a_hemiegg.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_blue.jpg
+    image_path: WebsitePhotos/a_blue.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_bluemate.jpg
+    image_path: WebsitePhotos/a_bluemate.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_sheepmoth.jpg
+    image_path: WebsitePhotos/a_sheepmoth.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_2tail.jpg
+    image_path: WebsitePhotos/a_2tail.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_fairies.jpg
+    image_path: WebsitePhotos/a_fairies.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -286,6 +318,10 @@ gallery_s:
     image_path: WebsitePhotos/s_dsky.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/s_tahoe.jpg
+    image_path: WebsitePhotos/s_tahoe.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
@@ -333,7 +369,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_holland.jpg
-    image_path: WebsitePhotos/jpg
+    image_path: WebsitePhotos/fw_holland.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_burn.jpg
@@ -360,10 +396,29 @@ gallery_fw:
     image_path: WebsitePhotos/fw_beet.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_trans.jpg
+    image_path: WebsitePhotos/fw_trans.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_sue.jpg
+    image_path: WebsitePhotos/fw_trans.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
+gallery_m:
+  - url: WebsitePhotos/m_fruit.jpg
+    image_path: WebsitePhotos/m_fruit.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/m_scat.jpg
+    image_path: WebsitePhotos/m_scat.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
 ---
 Did this work? Coming soon!  (What's here is just for testing for now.)
 
-Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), or [Field Work](#fw).
+Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
 <a name="plants"></a>
 
@@ -389,3 +444,8 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 
 ## Fieldwork
 {% include gallery id="gallery_fw" caption="This is a sample gallery with **Markdown support**." %}
+
+<a name="manz"></a>
+
+## Fieldwork
+{% include gallery id="gallery_m" caption="This is a sample gallery with **Markdown support**." %}
