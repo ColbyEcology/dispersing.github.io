@@ -5,83 +5,83 @@ permalink: /Photos/
 author_profile: true
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
-    image_path: WebsitePhotos/p_datura.jpg
+    image_path: WebsitePhotos/p_datura-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_coralroot.jpg
-    image_path: WebsitePhotos/p_coralroot.jpg
+    image_path: WebsitePhotos/p_coralroot-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_helio.jpg
-    image_path: WebsitePhotos/p_helio.jpg
+    image_path: WebsitePhotos/p_helio-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_jack.jpg
-    image_path: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_amsink.jpg
-    image_path: WebsitePhotos/p_amsink.jpg
+    image_path: WebsitePhotos/p_amsink-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_monk.jpg
-    image_path: WebsitePhotos/p_monk.jpg
+    image_path: WebsitePhotos/p_monk-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_prim.jpg
-    image_path: WebsitePhotos/p_prim.jpg
+    image_path: WebsitePhotos/p_prim-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_king.jpg
-    image_path: WebsitePhotos/p_king.jpg
+    image_path: WebsitePhotos/p_king-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_colum.jpg
-    image_path: WebsitePhotos/p_colum.jpg
+    image_path: WebsitePhotos/p_colum-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_tulipop.jpg
-    image_path: WebsitePhotos/p_tulipop.jpg
+    image_path: WebsitePhotos/p_tulipop-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_jtree.jpg
-    image_path: WebsitePhotos/p_jtree.jpg
+    image_path: WebsitePhotos/p_jtree-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_astrag.jpg
-    image_path: WebsitePhotos/p_astrag.jpg
+    image_path: WebsitePhotos/p_astrag-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_lily.jpg
-    image_path: WebsitePhotos/p_lily.jpg
+    image_path: WebsitePhotos/p_lily-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_mari.jpg
-    image_path: WebsitePhotos/p_mari.jpg
+    image_path: WebsitePhotos/p_mari-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_tlily.jpg
-    image_path: WebsitePhotos/p_tlily.jpg
+    image_path: WebsitePhotos/p_tlily-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_prim2.jpg
-    image_path: WebsitePhotos/p_prim2.jpg
+    image_path: WebsitePhotos/p_prim2-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_frit.jpg
-    image_path: WebsitePhotos/p_frit.jpg
+    image_path: WebsitePhotos/p_frit-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_mim.jpg
-    image_path: WebsitePhotos/p_mim.jpg
+    image_path: WebsitePhotos/p_mim-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_pop.jpg
-    image_path: WebsitePhotos/p_pop.jpg
+    image_path: WebsitePhotos/p_pop-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_desmim.jpg
-    image_path: WebsitePhotos/p_desmim.jpg
+    image_path: WebsitePhotos/p_desmim-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
