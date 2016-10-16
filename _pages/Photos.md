@@ -101,6 +101,84 @@ gallery_p:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
+gallery_a:
+  - url: WebsitePhotos/a_coachwhip.jpg
+    image_path: WebsitePhotos/a_coachwhip.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_bison.jpg
+    image_path: WebsitePhotos/a_bison.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_sloth.jpg
+    image_path: WebsitePhotos/a_sloth.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_destort.jpg
+    image_path: WebsitePhotos/a_destort.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_bat.jpg
+    image_path: WebsitePhotos/a_bat.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_hemi.jpg
+    image_path: WebsitePhotos/a_hemi.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_krat.jpg
+    image_path: WebsitePhotos/a_krat.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_frog.jpg
+    image_path: WebsitePhotos/a_frog.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_tama.jpg
+    image_path: WebsitePhotos/a_tama.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_whoop.jpg
+    image_path: WebsitePhotos/a_whoop.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_sageliz.jpg
+    image_path: WebsitePhotos/a_sageliz.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_uta.jpg
+    image_path: WebsitePhotos/a_uta.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_owl.jpg
+    image_path: WebsitePhotos/a_owl.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_garter.jpg
+    image_path: WebsitePhotos/a_garter.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_tigermoth.jpg
+    image_path: WebsitePhotos/a_tigermoth.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_bslug.jpg
+    image_path: WebsitePhotos/a_bslug.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_lepliz.jpg
+    image_path: WebsitePhotos/a_lepliz.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_tigerbutt.jpg
+    image_path: WebsitePhotos/a_tigerbutt.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_hyla.jpg
+    image_path: WebsitePhotos/a_hyla.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
 ---
 Coming soon!  (What's here is just for testing for now.)
 
