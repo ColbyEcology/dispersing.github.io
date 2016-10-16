@@ -39,11 +39,12 @@ gallery2:
     title: "Image 4 title caption"
 ---
 Coming soon!  (What's here is just for testing for now.)
-Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), or [Field Work](#fw)
+
+Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), or [Field Work](#fw).
 
 <a name="plants"></a>
 
-## Plants
+### Plants
 {% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="animals"></a>
