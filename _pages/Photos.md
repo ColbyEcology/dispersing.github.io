@@ -143,7 +143,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_tigermoth.jpg
-    image_path: WebsitePhotos/a_tigermoth.jpg
+    image_path: WebsitePhotos/a_tigermoth-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bslug.jpg
@@ -301,11 +301,11 @@ gallery_s:
 
 gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
-    image_path: WebsitePhotos/fw_exclosure.jpg
+    image_path: WebsitePhotos/fw_exclosure-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_data.jpg
-    image_path: WebsitePhotos/fw_data.jpg
+    image_path: WebsitePhotos/fw_data-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/jpgw_plot.p
@@ -313,11 +313,11 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_cave.jpg
-    image_path: WebsitePhotos/fw_cave.jpg
+    image_path: WebsitePhotos/fw_cave-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_bowl.jpg
-    image_path: WebsitePhotos/fw_bowl.jpg
+    image_path: WebsitePhotos/fw_bowl-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_snow.jpg
@@ -341,7 +341,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_geiger.jpg
-    image_path: WebsitePhotos/fw_geiger.jpg
+    image_path: WebsitePhotos/fw_geiger-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_holland.jpg
@@ -349,11 +349,11 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_burn.jpg
-    image_path: WebsitePhotos/fw_burn.jpg
+    image_path: WebsitePhotos/fw_burn-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_crane.jpg
-    image_path: WebsitePhotos/fw_crane.jpg
+    image_path: WebsitePhotos/fw_crane-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_kratseeds.jpg
@@ -361,15 +361,15 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_fluor.jpg
-    image_path: WebsitePhotos/fw_fluor.jpg
+    image_path: WebsitePhotos/fw_fluor-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_coldes.jpg
-    image_path: WebsitePhotos/fw_coldes.jpg
+    image_path: WebsitePhotos/fw_coldes-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_beet.jpg
-    image_path: WebsitePhotos/fw_beet.jpg
+    image_path: WebsitePhotos/fw_beet-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_trans.jpg
