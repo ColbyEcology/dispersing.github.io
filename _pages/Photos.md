@@ -6,16 +6,16 @@ author_profile: true
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "*Datura* in the Mojave Desert, 2011"
+    title: "*Datura* sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, June 2011, at sunrise."
   - url: WebsitePhotos/p_coralroot.jpg
     image_path: WebsitePhotos/p_coralroot-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Spotted coralroot *Corallorhiza maculata* in California"
+    title: "Spotted coralroot *Corallorhiza maculata* in California, United States"
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "*Heliotropium curassavicum* in the Mojave Desert 2008"
+    title: "Heliotropium curassavicum off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States in late spring, 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
@@ -420,7 +420,7 @@ gallery_m:
     title: "Image 1 title caption"
 ---
 
-Coming soon!  (What's here is just for testing for now.)
+(Under construction)
 
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
