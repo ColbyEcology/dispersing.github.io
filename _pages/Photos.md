@@ -99,7 +99,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_destort.jpg
-    image_path: WebsitePhotos/a_destort.jpg
+    image_path: WebsitePhotos/a_destort-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bat.jpg
@@ -107,7 +107,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_hemi.jpg
-    image_path: WebsitePhotos/a_hemi.jpg
+    image_path: WebsitePhotos/a_hemi-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_krat.jpg
@@ -115,7 +115,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_frog.jpg
-    image_path: WebsitePhotos/a_frog.jpg
+    image_path: WebsitePhotos/a_frog-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_tama.jpg
@@ -139,7 +139,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_garter.jpg
-    image_path: WebsitePhotos/a_garter.jpg
+    image_path: WebsitePhotos/a_garter-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_tigermoth.jpg
@@ -179,11 +179,11 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_fairies.jpg
-    image_path: WebsitePhotos/a_fairies.jpg
+    image_path: WebsitePhotos/a_fairies-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_greenbeet.jpg
-    image_path: WebsitePhotos/a_greenbeet.jpg
+    image_path: WebsitePhotos/a_greenbeet-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_butt.jpg
@@ -191,7 +191,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_dragon.jpg
-    image_path: WebsitePhotos/a_dragon.jpg
+    image_path: WebsitePhotos/a_dragon-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
