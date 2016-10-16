@@ -4,39 +4,35 @@ title: "Photos"
 permalink: /Photos/
 author_profile: true
 gallery1:
-  - url: WebsitePhotos/datura.jpg
-    image_path: WebsitePhotos/datura.jpg
+  - url: WebsitePhotos/p_datura.jpg
+    image_path: WebsitePhotos/p_datura.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/KenaiLake.jpg
     image_path: WebsitePhotos/KenaiLake.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: 5by5.png
-    image_path: 5by5.png
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: 5by5.png
-    image_path: 5by5.png
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
 gallery2:
-  - url: WebsitePhotos/datura.jpg
-    image_path: WebsitePhotos/datura.jpg
+  - url: WebsitePhotos/a_coachwhip.jpg
+    image_path: WebsitePhotos/a_coachwhip.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/KenaiLake.jpg
-    image_path: WebsitePhotos/KenaiLake.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: 5by5.png
-    image_path: unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
-  - url: 5by5.png
-    image_path: unsplash-gallery-image-4-th.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+gallery3:
+  - url: WebsitePhotos/o_lichen.jpg
+    image_path: WebsitePhotos/o_lichen.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+gallery4:
+  - url: WebsitePhotos/s_morro.jpg
+    image_path: WebsitePhotos/s_morro.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+gallery5:
+  - url: WebsitePhotos/fw_exclosure.jpg
+    image_path: WebsitePhotos/fw_exclosure.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+
 ---
 Coming soon!  (What's here is just for testing for now.)
 
@@ -55,14 +51,14 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 <a name="orgs"></a>
 
 ## Other and multiple organisms
-{% include gallery id="gallery2" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery3" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="scapes"></a>
 
 ## Landscapes
-{% include gallery id="gallery2" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery4" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="fw"></a>
 
 ## Fieldwork
-{% include gallery id="gallery2" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery5" caption="This is a sample gallery with **Markdown support**." %}
