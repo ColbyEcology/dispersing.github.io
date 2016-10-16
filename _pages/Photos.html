@@ -3,7 +3,25 @@ layout: single
 title: "Photos"
 permalink: /Photos/
 author_profile: true
-gallery:
+gallery1:
+  - url: WebsitePhotos/datura.jpg
+    image_path: WebsitePhotos/datura.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/KenaiLake.jpg
+    image_path: WebsitePhotos/KenaiLake.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: 5by5.png
+    image_path: unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+  - url: 5by5.png
+    image_path: unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Image 4 title caption"
+
+gallery2:
   - url: WebsitePhotos/datura.jpg
     image_path: WebsitePhotos/datura.jpg
     alt: "placeholder image 1"
@@ -21,6 +39,6 @@ gallery:
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 ---
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
+{% include gallery1 caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery2 caption="This is a sample gallery with **Markdown support** as well." %}
 Coming soon!
