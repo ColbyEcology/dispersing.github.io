@@ -188,7 +188,11 @@ gallery_o:
     image_path: WebsitePhotos/o_pollination.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
+  - url: WebsitePhotos/o_herbs.jpg
+    image_path: WebsitePhotos/o_herbs.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_antaphids.jpg
 ---
 Coming soon!  (What's here is just for testing for now.)
 
