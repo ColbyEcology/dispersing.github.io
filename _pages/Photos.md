@@ -309,7 +309,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/jpgw_plot.p
-    image_path: WebsitePhotos/fw_plot.jpg
+    image_path: WebsitePhotos/fw_plot-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_cave.jpg
@@ -321,23 +321,23 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_snow.jpg
-    image_path: WebsitePhotos/fw_snow.jpg
+    image_path: WebsitePhotos/fw_snow-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_nathist.jpg
-    image_path: WebsitePhotos/fw_nathist.jpg
+    image_path: WebsitePhotos/fw_nathist-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_SSPM.jpg
-    image_path: WebsitePhotos/fw_SSPM.jpg
+    image_path: WebsitePhotos/fw_SSPM-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_scelop.jpg
-    image_path: WebsitePhotos/fw_scelop.jpg
+    image_path: WebsitePhotos/fw_scelop-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_seeds.jpg
-    image_path: WebsitePhotos/fw_seeds.jpg
+    image_path: WebsitePhotos/fw_seeds-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_geiger.jpg
@@ -345,7 +345,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_holland.jpg
-    image_path: WebsitePhotos/fw_holland.jpg
+    image_path: WebsitePhotos/fw_holland-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_burn.jpg
@@ -357,7 +357,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_kratseeds.jpg
-    image_path: WebsitePhotos/fw_kratseeds.jpg
+    image_path: WebsitePhotos/fw_kratseeds-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_fluor.jpg
@@ -373,11 +373,11 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_trans.jpg
-    image_path: WebsitePhotos/fw_trans.jpg
+    image_path: WebsitePhotos/fw_trans-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_sue.jpg
-    image_path: WebsitePhotos/fw_sue.jpg
+    image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
