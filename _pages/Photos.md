@@ -216,9 +216,12 @@ gallery_o:
     image_path: WebsitePhotos/o_comma.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
+   - url: WebsitePhotos/o_fun.jpg
+    image_path: WebsitePhotos/o_fun.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
-Coming soon!  (What's here is just for testing for now.)
+Did this work? Coming soon!  (What's here is just for testing for now.)
 
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), or [Field Work](#fw).
 
