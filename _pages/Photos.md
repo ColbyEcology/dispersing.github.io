@@ -204,6 +204,10 @@ gallery_o:
     image_path: WebsitePhotos/o_AKmush.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/o_bistort.jpg
+    image_path: WebsitePhotos/o_bistort.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 ---
 Coming soon!  (What's here is just for testing for now.)
