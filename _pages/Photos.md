@@ -226,66 +226,7 @@ gallery_s:
     image_path: WebsitePhotos/s_morro.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/s_poppies.jpg
-    image_path: WebsitePhotos/s_poppies.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_half.jpg
-    image_path: WebsitePhotos/s_half.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_crater.jpg
-    image_path: WebsitePhotos/s_crater.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_ploy.jpg
-    image_path: WebsitePhotos/s_poly.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_manz.jpg
-    image_path: WebsitePhotos/s_manz.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_meadow.jpg
-    image_path: WebsitePhotos/s_meadow.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_capitan.jpg
-    image_path: WebsitePhotos/s_capitan.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_tetons.jpg
-    image_path: WebsitePhotos/s_tetons.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_sunset.jpg
-    image_path: WebsitePhotos/s_sunset.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_kenai.jpg
-    image_path: WebsitePhotos/s_kenai.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_manzSF.jpg
-    image_path: WebsitePhotos/s_manzSFjpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_gb.jpg
-    image_path: WebsitePhotos/s_gb.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_gbset.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_concep.jpg
-    image_path: WebsitePhotos/s_concep.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_dsky.jpg
-    image_path: WebsitePhotos/s_dsky.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+ 
 
 ---
 Coming soon!  (What's here is just for testing for now.)
