@@ -48,7 +48,27 @@ gallery_p:
     image_path: WebsitePhotos/p_tulipop.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jtree.jpg
+    image_path: WebsitePhotos/p_jree.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 
+  - url: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack.jpg
     alt: "placeholder image 2"
@@ -83,11 +103,11 @@ gallery_a:
     image_path: WebsitePhotos/a_krat.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/a_destort.jpg
-    image_path: WebsitePhotos/a_destort.jpg
+  - url: WebsitePhotos/a_frog.jpg
+    image_path: WebsitePhotos/a_frog.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+
   - url: WebsitePhotos/a_destort.jpg
     image_path: WebsitePhotos/a_destort.jpg
     alt: "placeholder image 1"
@@ -114,15 +134,15 @@ gallery_o:
     image_path: WebsitePhotos/o_antaphids.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/o_nohead.jpg
+    image_path: WebsitePhotos/o_nohead.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_AKmush.jpg
+    image_path: WebsitePhotos/o_AKmush.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
-  - url: WebsitePhotos/o_antaphids.jpg
-    image_path: WebsitePhotos/o_antaphids.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/o_antaphids.jpg
-    image_path: WebsitePhotos/o_antaphids.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/o_antaphids.jpg
     image_path: WebsitePhotos/o_antaphids.jpg
     alt: "placeholder image 1"
@@ -161,11 +181,11 @@ gallery_s:
     image_path: WebsitePhotos/s_poly.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/s_crater.jpg
-    image_path: WebsitePhotos/s_crater.jpg
+  - url: WebsitePhotos/s_manz.jpg
+    image_path: WebsitePhotos/s_manz.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater.jpg
     alt: "placeholder image 1"
@@ -208,15 +228,15 @@ gallery_fw:
     image_path: WebsitePhotos/fw_snow.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_nathist.jpg
+    image_path: WebsitePhotos/fw_nathist.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_SSPM.jpg
+    image_path: WebsitePhotos/fw_SSPM.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
-  - url: WebsitePhotos/fw_cave.jpg
-    image_path: WebsitePhotos/fw_cave.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/fw_cave.jpg
-    image_path: WebsitePhotos/fw_cave.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/fw_cave.jpg
     image_path: WebsitePhotos/fw_cave.jpg
     alt: "placeholder image 1"
