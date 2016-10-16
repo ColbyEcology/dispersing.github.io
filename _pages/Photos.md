@@ -179,6 +179,47 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
+gallery_o:
+  - url: WebsitePhotos/o_lichen.jpg
+    image_path: WebsitePhotos/o_lichen.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_pollination.jpg
+    image_path: WebsitePhotos/o_pollination.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_herbs.jpg
+    image_path: WebsitePhotos/o_herbs.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_antaphids.jpg
+    image_path: WebsitePhotos/o_antaphids.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_nohead.jpg
+    image_path: WebsitePhotos/o_nohead.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_AKmush.jpg
+    image_path: WebsitePhotos/o_AKmush.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_bistort.jpg
+    image_path: WebsitePhotos/o_bistort.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_lady.jpg
+    image_path: WebsitePhotos/o_lady.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_comma.jpg
+    image_path: WebsitePhotos/o_comma.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+   - url: WebsitePhotos/o_fun.jpg
+    image_path: WebsitePhotos/o_fun.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 Coming soon!  (What's here is just for testing for now.)
 
