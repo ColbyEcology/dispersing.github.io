@@ -119,11 +119,11 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_tama.jpg
-    image_path: WebsitePhotos/a_tama.jpg
+    image_path: WebsitePhotos/a_tama-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_whoop.jpg
-    image_path: WebsitePhotos/a_whoop.jpg
+    image_path: WebsitePhotos/a_whoop-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_sageliz.jpg
@@ -131,7 +131,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_uta.jpg
-    image_path: WebsitePhotos/a_uta.jpg
+    image_path: WebsitePhotos/a_uta-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_owl.jpg
@@ -155,7 +155,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_tigerbutt.jpg
-    image_path: WebsitePhotos/a_tigerbutt.jpg
+    image_path: WebsitePhotos/a_tigerbutt-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_hyla.jpg
