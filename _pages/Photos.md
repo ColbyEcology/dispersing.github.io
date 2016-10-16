@@ -267,7 +267,7 @@ gallery_s:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_manzSF.jpg
-    image_path: WebsitePhotos/s_manzSFjpg
+    image_path: WebsitePhotos/s_manzSF.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_gb.jpg
@@ -275,7 +275,7 @@ gallery_s:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_gbset.jpg
-    image_path: WebsitePhotos/jpg
+    image_path: WebsitePhotos/s_gbset.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_concep.jpg
@@ -287,6 +287,79 @@ gallery_s:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
+gallery_fw:
+  - url: WebsitePhotos/fw_exclosure.jpg
+    image_path: WebsitePhotos/fw_exclosure.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_data.jpg
+    image_path: WebsitePhotos/fw_data.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/jpgw_plot.p
+    image_path: WebsitePhotos/fw_plot.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_cave.jpg
+    image_path: WebsitePhotos/fw_cave.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_bowl.jpg
+    image_path: WebsitePhotos/fw_bowl.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_snow.jpg
+    image_path: WebsitePhotos/fw_snow.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_nathist.jpg
+    image_path: WebsitePhotos/fw_nathist.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_SSPM.jpg
+    image_path: WebsitePhotos/fw_SSPM.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_scelop.jpg
+    image_path: WebsitePhotos/fw_scelop.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_seeds.jpg
+    image_path: WebsitePhotos/fw_seeds.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_geiger.jpg
+    image_path: WebsitePhotos/fw_geiger.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_holland.jpg
+    image_path: WebsitePhotos/jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_burn.jpg
+    image_path: WebsitePhotos/fw_burn.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_crane.jpg
+    image_path: WebsitePhotos/fw_crane.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_kratseeds.jpg
+    image_path: WebsitePhotos/fw_kratseeds.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_fluor.jpg
+    image_path: WebsitePhotos/fw_fluor.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_coldes.jpg
+    image_path: WebsitePhotos/fw_coldes.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_beet.jpg
+    image_path: WebsitePhotos/fw_beet.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
 Did this work? Coming soon!  (What's here is just for testing for now.)
 
