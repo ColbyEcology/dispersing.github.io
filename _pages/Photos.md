@@ -87,11 +87,11 @@ gallery_p:
 
 gallery_a:
   - url: WebsitePhotos/a_coachwhip.jpg
-    image_path: WebsitePhotos/a_coachwhip.jpg
+    image_path: WebsitePhotos/a_coachwhip-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bison.jpg
-    image_path: WebsitePhotos/a_bison.jpg
+    image_path: WebsitePhotos/a_bison-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_sloth.jpg
@@ -103,7 +103,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bat.jpg
-    image_path: WebsitePhotos/a_bat.jpg
+    image_path: WebsitePhotos/a_bat-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_hemi.jpg
@@ -147,7 +147,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bslug.jpg
-    image_path: WebsitePhotos/a_bslug.jpg
+    image_path: WebsitePhotos/a_bslug-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_lepliz.jpg
@@ -163,11 +163,11 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_blue.jpg
-    image_path: WebsitePhotos/a_blue-th_300.jpg
+    image_path: WebsitePhotos/a_blue-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bluemate.jpg
-    image_path: WebsitePhotos/a_bluemate-th_200.jpg
+    image_path: WebsitePhotos/a_bluemate-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_sheepmoth.jpg
@@ -175,7 +175,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_2tail.jpg
-    image_path: WebsitePhotos/a_2tail.jpg
+    image_path: WebsitePhotos/a_2tail-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_fairies.jpg
@@ -187,7 +187,7 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_butt.jpg
-    image_path: WebsitePhotos/a_butt.jpg
+    image_path: WebsitePhotos/a_butt-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_dragon.jpg
