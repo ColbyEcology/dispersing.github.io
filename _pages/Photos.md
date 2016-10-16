@@ -6,15 +6,15 @@ author_profile: true
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
-    alt: "*Datura* in the Mojave Desert, 2011"
-    title: "*Datura* sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, June 2011, at sunrise."
+    alt: "<i>Datura</i> in the Mojave Desert, 2011"
+    title: "<i>Datura</i> sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, June 2011, at sunrise."
   - url: WebsitePhotos/p_coralroot.jpg
     image_path: WebsitePhotos/p_coralroot-th.jpg
-    alt: "Spotted coralroot *Corallorhiza maculata* in California"
-    title: "Spotted coralroot *Corallorhiza maculata* in California, United States"
+    alt: "Spotted coralroot <i>Corallorhiza maculata</i> in California"
+    title: "Spotted coralroot <i>Corallorhiza maculata</i> in California, United States"
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
-    alt: "*Heliotropium curassavicum* in the Mojave Desert 2008"
+    alt: "<i>Heliotropium curassavicum</i> in the Mojave Desert 2008"
     title: "<i>Heliotropium curassavicum</i> off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
