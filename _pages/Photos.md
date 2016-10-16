@@ -239,63 +239,63 @@ gallery_o:
 
 gallery_s:
   - url: WebsitePhotos/s_morro.jpg
-    image_path: WebsitePhotos/s_morro.jpg
+    image_path: WebsitePhotos/s_morro-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_poppies.jpg
-    image_path: WebsitePhotos/s_poppies.jpg
+    image_path: WebsitePhotos/s_poppies-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_crater.jpg
-    image_path: WebsitePhotos/s_crater.jpg
+    image_path: WebsitePhotos/s_crater-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_poly.jpg
-    image_path: WebsitePhotos/s_poly.jpg
+    image_path: WebsitePhotos/s_poly-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_meadow.jpg
-    image_path: WebsitePhotos/s_meadow.jpg
+    image_path: WebsitePhotos/s_meadow-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_capitan.jpg
-    image_path: WebsitePhotos/s_capitan.jpg
+    image_path: WebsitePhotos/s_capitan-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_tetons.jpg
-    image_path: WebsitePhotos/s_tetons.jpg
+    image_path: WebsitePhotos/s_tetons-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_sunset.jpg
-    image_path: WebsitePhotos/s_sunset.jpg
+    image_path: WebsitePhotos/s_sunset-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_kenai.jpg
-    image_path: WebsitePhotos/s_kenai.jpg
+    image_path: WebsitePhotos/s_kenai-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_gb.jpg
-    image_path: WebsitePhotos/s_gb.jpg
+    image_path: WebsitePhotos/s_gb-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_gbset.jpg
-    image_path: WebsitePhotos/s_gbset.jpg
+    image_path: WebsitePhotos/s_gbset-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_concep.jpg
-    image_path: WebsitePhotos/s_concep.jpg
+    image_path: WebsitePhotos/s_concep-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_dsky.jpg
-    image_path: WebsitePhotos/s_dsky.jpg
+    image_path: WebsitePhotos/s_dsky-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_tahoe.jpg
-    image_path: WebsitePhotos/s_tahoe.jpg
+    image_path: WebsitePhotos/s_tahoe-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_bigpine.jpg
-    image_path: WebsitePhotos/s_bigpine.jpg
+    image_path: WebsitePhotos/s_bigpine-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
