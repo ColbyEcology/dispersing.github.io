@@ -3,6 +3,7 @@ layout: single
 title: "Photos"
 permalink: /Photos/
 author_profile: true
+<!-- 
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura.jpg
@@ -360,7 +361,7 @@ gallery_fw:
     image_path: WebsitePhotos/fw_beet.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
+ -->
 ---
 Coming soon!  (What's here is just for testing for now.)
 
