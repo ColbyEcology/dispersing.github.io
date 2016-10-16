@@ -197,43 +197,43 @@ gallery_a:
 
 gallery_o:
   - url: WebsitePhotos/o_lichen.jpg
-    image_path: WebsitePhotos/o_lichen.jpg
+    image_path: WebsitePhotos/o_lichen-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_pollination.jpg
-    image_path: WebsitePhotos/o_pollination.jpg
+    image_path: WebsitePhotos/o_pollination-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_herbs.jpg
-    image_path: WebsitePhotos/o_herbs.jpg
+    image_path: WebsitePhotos/o_herbs-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_antaphids.jpg
-    image_path: WebsitePhotos/o_antaphids.jpg
+    image_path: WebsitePhotos/o_antaphids-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_nohead.jpg
-    image_path: WebsitePhotos/o_nohead.jpg
+    image_path: WebsitePhotos/o_nohead-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_AKmush.jpg
-    image_path: WebsitePhotos/o_AKmush.jpg
+    image_path: WebsitePhotos/o_AKmush-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_bistort.jpg
-    image_path: WebsitePhotos/o_bistort.jpg
+    image_path: WebsitePhotos/o_bistort-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_lady.jpg
-    image_path: WebsitePhotos/o_lady.jpg
+    image_path: WebsitePhotos/o_lady-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_comma.jpg
-    image_path: WebsitePhotos/o_comma.jpg
+    image_path: WebsitePhotos/o_comma-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_fungi.jpg
-    image_path: WebsitePhotos/o_fungi.jpg
+    image_path: WebsitePhotos/o_fungi-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -415,7 +415,7 @@ gallery_m:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_half.jpg
-    image_path: WebsitePhotos/m_half.jpg
+    image_path: WebsitePhotos/m_half-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
