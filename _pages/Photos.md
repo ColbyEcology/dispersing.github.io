@@ -163,11 +163,11 @@ gallery_a:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_blue.jpg
-    image_path: WebsitePhotos/a_blue.jpg
+    image_path: WebsitePhotos/a_blue-th_300.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_bluemate.jpg
-    image_path: WebsitePhotos/a_bluemate.jpg
+    image_path: WebsitePhotos/a_bluemate-th_200.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_sheepmoth.jpg
@@ -383,7 +383,7 @@ gallery_fw:
 
 gallery_m:
   - url: WebsitePhotos/m_manz.jpg
-    image_path: WebsitePhotos/s_manz.jpg
+    image_path: WebsitePhotos/m_manz.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_pringlei.jpg
