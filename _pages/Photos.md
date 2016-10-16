@@ -226,7 +226,7 @@ gallery_s:
     image_path: WebsitePhotos/s_morro.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
- - url: WebsitePhotos/s_poppies.jpg
+  - url: WebsitePhotos/s_poppies.jpg
     image_path: WebsitePhotos/s_poppies.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
