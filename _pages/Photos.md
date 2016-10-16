@@ -216,8 +216,8 @@ gallery_o:
     image_path: WebsitePhotos/o_comma.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-   - url: WebsitePhotos/o_fun.jpg
-    image_path: WebsitePhotos/o_fun.jpg
+  - url: WebsitePhotos/o_fungi.jpg
+    image_path: WebsitePhotos/o_fungi.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
