@@ -455,29 +455,29 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 <a name="plants"></a>
 
 ## Plants
-{% include gallery id="gallery_p" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_p" caption="" %}
 
 <a name="animals"></a>
 
 ## Animals
-{% include gallery id="gallery_a" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_a" %}
 
 <a name="orgs"></a>
 
 ## Other and multiple organisms
-{% include gallery id="gallery_o" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_o" %}
 
 <a name="scapes"></a>
 
 ## Landscapes
-{% include gallery id="gallery_s" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_s" %}
 
 <a name="fw"></a>
 
 ## Fieldwork
-{% include gallery id="gallery_fw" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_fw" %}
 
 <a name="manz"></a>
 
 ## Manzanitas
-{% include gallery id="gallery_m" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_m" %}
