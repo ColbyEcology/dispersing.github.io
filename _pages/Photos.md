@@ -82,7 +82,7 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_data.jpg
-    image_path: WebsitePhotos/fw_exclosure.jpg
+    image_path: WebsitePhotos/fw_data.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/jpgw_plot.p
@@ -102,12 +102,12 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 <a name="plants"></a>
 
 ## Plants
-{% include gallery id="gallery_a" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_p" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="animals"></a>
 
 ## Animals
-{% include gallery id="gallery+p" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery_a" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="orgs"></a>
 
