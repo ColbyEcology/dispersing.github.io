@@ -15,7 +15,7 @@ gallery_p:
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
     alt: "*Heliotropium curassavicum* in the Mojave Desert 2008"
-    title: "Heliotropium curassavicum off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, May 2008"
+    title: "<i>Heliotropium curassavicum</i> off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
@@ -82,6 +82,10 @@ gallery_p:
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_desmim.jpg
     image_path: WebsitePhotos/p_desmim-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_peony.jpg
+    image_path: WebsitePhotos/p_peony-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -236,6 +240,14 @@ gallery_o:
     image_path: WebsitePhotos/o_fungi-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/o_puff.jpg
+    image_path: WebsitePhotos/o_puff-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/o_beechamise.jpg
+    image_path: WebsitePhotos/o_beechamise-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 gallery_s:
   - url: WebsitePhotos/s_morro.jpg
@@ -388,8 +400,12 @@ gallery_fw:
     image_path: WebsitePhotos/fw_snake-th.jpeg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/fw_merriam.jpeg
-    image_path: WebsitePhotos/fw_merriam-th.jpeg
+  - url: WebsitePhotos/fw_merriam.jpg
+    image_path: WebsitePhotos/fw_merriam-th.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_bear.jpg
+    image_path: WebsitePhotos/fw_bear-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
