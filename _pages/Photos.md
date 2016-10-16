@@ -13,11 +13,11 @@ gallery1:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: 5by5.png
-    image_path: unsplash-gallery-image-3-th.jpg
+    image_path: 5by5.png
     alt: "placeholder image 3"
     title: "Image 3 title caption"
   - url: 5by5.png
-    image_path: unsplash-gallery-image-4-th.jpg
+    image_path: 5by5.png
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 gallery2:
@@ -44,7 +44,7 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 
 <a name="plants"></a>
 
-### Plants
+## Plants
 {% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
 
 <a name="animals"></a>
