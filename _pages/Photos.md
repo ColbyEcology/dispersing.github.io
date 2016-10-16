@@ -84,13 +84,20 @@ gallery_p:
     image_path: WebsitePhotos/p_prim2.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+  - url: WebsitePhotos/p_frit.jpg
+    image_path: WebsitePhotos/p_frit.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+  - url: WebsitePhotos/p_pringlei.jpg
+    image_path: WebsitePhotos/p_pringlei.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_gland.jpg
+    image_path: WebsitePhotos/p_gland.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_mim.jpg
+    image_path: WebsitePhotos/p_mim.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -147,13 +154,28 @@ gallery_a:
     image_path: WebsitePhotos/a_owl.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
+  - url: WebsitePhotos/a_garter.jpg
+    image_path: WebsitePhotos/a_garter.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
+  - url: WebsitePhotos/a_tigermoth.jpg
+    image_path: WebsitePhotos/a_tigermoth.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_bslug.jpg
+    image_path: WebsitePhotos/a_bslug.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_lepliz.jpg
+    image_path: WebsitePhotos/a_lepliz.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_tigerbutt.jpg
+    image_path: WebsitePhotos/a_tigerbutt.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_hyla.jpg
+    image_path: WebsitePhotos/a_hyla.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -196,23 +218,6 @@ gallery_o:
     title: "Image 1 title caption"
    - url: WebsitePhotos/o_fun.jpg
     image_path: WebsitePhotos/o_fun.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -273,9 +278,12 @@ gallery_s:
     image_path: WebsitePhotos/jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
+  - url: WebsitePhotos/s_concep.jpg
+    image_path: WebsitePhotos/s_concep.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/s_dsky.jpg
+    image_path: WebsitePhotos/s_dsky.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -348,9 +356,8 @@ gallery_fw:
     image_path: WebsitePhotos/fw_coldes.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
+  - url: WebsitePhotos/fw_beet.jpg
+    image_path: WebsitePhotos/fw_beet.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
