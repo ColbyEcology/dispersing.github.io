@@ -250,20 +250,12 @@ gallery_s:
     image_path: WebsitePhotos/s_poppies.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/s_half.jpg
-    image_path: WebsitePhotos/s_half.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/s_ploy.jpg
+  - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_manz.jpg
-    image_path: WebsitePhotos/s_manz.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_meadow.jpg
@@ -284,10 +276,6 @@ gallery_s:
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_kenai.jpg
     image_path: WebsitePhotos/s_kenai.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/s_manzSF.jpg
-    image_path: WebsitePhotos/s_manzSF.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_gb.jpg
@@ -398,6 +386,10 @@ gallery_fw:
     title: "Image 1 title caption"
 
 gallery_m:
+  - url: WebsitePhotos/m_manz.jpg
+    image_path: WebsitePhotos/s_manz.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
   - url: WebsitePhotos/m_pringlei.jpg
     image_path: WebsitePhotos/m_pringlei.jpg
     alt: "placeholder image 1"
@@ -418,9 +410,17 @@ gallery_m:
     image_path: WebsitePhotos/m_seedling.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-
+  - url: WebsitePhotos/m_manzSF.jpg
+    image_path: WebsitePhotos/m_manzSF.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/m_half.jpg
+    image_path: WebsitePhotos/m_half.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 ---
-Did this work? Coming soon!  (What's here is just for testing for now.)
+
+Coming soon!  (What's here is just for testing for now.)
 
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
