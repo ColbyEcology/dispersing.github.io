@@ -61,21 +61,9 @@ gallery_p:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_tlily.jpg
-    image_path: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_tlily.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: WebsitePhotos/a_greenbeet.jpg
-    image_path: WebsitePhotos/a_greenbeet.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/a_butt.jpg
-    image_path: WebsitePhotos/a_butt.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/a_dragon.jpg
-    image_path: WebsitePhotos/a_dragon.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/p_prim2.jpg
     image_path: WebsitePhotos/p_prim2.jpg
     alt: "placeholder image 1"
@@ -174,10 +162,6 @@ gallery_a:
     image_path: WebsitePhotos/a_hyla.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: WebsitePhotos/a_hemiegg.jpg
-    image_path: WebsitePhotos/a_hemiegg.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/a_blue.jpg
     image_path: WebsitePhotos/a_blue.jpg
     alt: "placeholder image 1"
@@ -196,6 +180,18 @@ gallery_a:
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_fairies.jpg
     image_path: WebsitePhotos/a_fairies.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_greenbeet.jpg
+    image_path: WebsitePhotos/a_greenbeet.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_butt.jpg
+    image_path: WebsitePhotos/a_butt.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_dragon.jpg
+    image_path: WebsitePhotos/a_dragon.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -412,6 +408,10 @@ gallery_m:
     title: "Image 2 title caption"
   - url: WebsitePhotos/m_manzSF.jpg
     image_path: WebsitePhotos/m_manzSF.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/m_hemiegg.jpg
+    image_path: WebsitePhotos/m_hemiegg.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_half.jpg
