@@ -32,10 +32,6 @@ gallery_p:
     image_path: WebsitePhotos/p_prim.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: WebsitePhotos/p_seedling.jpg
-    image_path: WebsitePhotos/p_seedling.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
   - url: WebsitePhotos/p_king.jpg
     image_path: WebsitePhotos/p_king.jpg
     alt: "placeholder image 2"
@@ -86,14 +82,6 @@ gallery_p:
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_frit.jpg
     image_path: WebsitePhotos/p_frit.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/p_pringlei.jpg
-    image_path: WebsitePhotos/p_pringlei.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/p_gland.jpg
-    image_path: WebsitePhotos/p_gland.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/p_mim.jpg
@@ -322,6 +310,10 @@ gallery_s:
     image_path: WebsitePhotos/s_tahoe.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/s_bigpine.jpg
+    image_path: WebsitePhotos/s_bigpine.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
@@ -401,11 +393,19 @@ gallery_fw:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_sue.jpg
-    image_path: WebsitePhotos/fw_trans.jpg
+    image_path: WebsitePhotos/fw_sue.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
 gallery_m:
+  - url: WebsitePhotos/m_pringlei.jpg
+    image_path: WebsitePhotos/m_pringlei.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/m_gland.jpg
+    image_path: WebsitePhotos/m_gland.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
   - url: WebsitePhotos/m_fruit.jpg
     image_path: WebsitePhotos/m_fruit.jpg
     alt: "placeholder image 1"
@@ -414,6 +414,10 @@ gallery_m:
     image_path: WebsitePhotos/m_scat.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/m_seedling.jpg
+    image_path: WebsitePhotos/m_seedling.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 
 ---
 Did this work? Coming soon!  (What's here is just for testing for now.)
@@ -447,5 +451,5 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 
 <a name="manz"></a>
 
-## Fieldwork
+## Manzanitas
 {% include gallery id="gallery_m" caption="This is a sample gallery with **Markdown support**." %}
