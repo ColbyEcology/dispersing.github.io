@@ -383,35 +383,35 @@ gallery_fw:
 
 gallery_m:
   - url: WebsitePhotos/m_manz.jpg
-    image_path: WebsitePhotos/m_manz.jpg
+    image_path: WebsitePhotos/m_manz-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_pringlei.jpg
-    image_path: WebsitePhotos/m_pringlei.jpg
+    image_path: WebsitePhotos/m_pringlei-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_gland.jpg
-    image_path: WebsitePhotos/m_gland.jpg
+    image_path: WebsitePhotos/m_gland-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_fruit.jpg
-    image_path: WebsitePhotos/m_fruit.jpg
+    image_path: WebsitePhotos/m_fruit-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_scat.jpg
-    image_path: WebsitePhotos/m_scat.jpg
+    image_path: WebsitePhotos/m_scat-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_seedling.jpg
-    image_path: WebsitePhotos/m_seedling.jpg
+    image_path: WebsitePhotos/m_seedling-th.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: WebsitePhotos/m_manzSF.jpg
-    image_path: WebsitePhotos/m_manzSF.jpg
+    image_path: WebsitePhotos/m_manzSF-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_hemiegg.jpg
-    image_path: WebsitePhotos/m_hemiegg.jpg
+    image_path: WebsitePhotos/m_hemiegg-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/m_half.jpg
