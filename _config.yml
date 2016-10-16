@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Mutualism ecology"
-title_separator          : " | "
+title_separator          : "-"
 name                     : "Mutualism ecology"
 description              : "Christopher Moore's professional website"
 url                      : http://mutualismecology.com
