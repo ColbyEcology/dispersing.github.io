@@ -76,15 +76,15 @@ gallery_p:
     image_path: WebsitePhotos/a_butt.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/a_dragon.jpg
+    image_path: WebsitePhotos/a_dragon.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_prim2.jpg
+    image_path: WebsitePhotos/p_prim2.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/.jpg
     image_path: WebsitePhotos/jpg
     alt: "placeholder image 1"
@@ -139,21 +139,21 @@ gallery_a:
     image_path: WebsitePhotos/a_sageliz.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/a_uta.jpg
+    image_path: WebsitePhotos/a_uta.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_owl.jpg
+    image_path: WebsitePhotos/a_owl.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
   - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+    image_path: WebsitePhotos/.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+    image_path: WebsitePhotos/.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -194,11 +194,11 @@ gallery_o:
     image_path: WebsitePhotos/o_comma.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-   - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+   - url: WebsitePhotos/o_fun.jpg
+    image_path: WebsitePhotos/o_fun.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+
   - url: WebsitePhotos/.jpg
     image_path: WebsitePhotos/jpg
     alt: "placeholder image 1"
@@ -257,13 +257,25 @@ gallery_s:
     image_path: WebsitePhotos/s_sunset.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-
-  - url: WebsitePhotos/.jpg
+  - url: WebsitePhotos/s_kenai.jpg
+    image_path: WebsitePhotos/s_kenai.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/s_manzSF.jpg
+    image_path: WebsitePhotos/s_manzSFjpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/s_gb.jpg
+    image_path: WebsitePhotos/s_gb.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/s_gbset.jpg
     image_path: WebsitePhotos/jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+
   - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/jpg
+    image_path: WebsitePhotos/.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 
@@ -328,15 +340,15 @@ gallery_fw:
     image_path: WebsitePhotos/fw_kratseeds.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_fluor.jpg
+    image_path: WebsitePhotos/fw_fluor.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/fw_coldes.jpg
+    image_path: WebsitePhotos/fw_coldes.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: WebsitePhotos/.jpg
-    image_path: WebsitePhotos/.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
   - url: WebsitePhotos/.jpg
     image_path: WebsitePhotos/.jpg
     alt: "placeholder image 1"
