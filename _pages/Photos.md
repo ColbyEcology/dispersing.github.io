@@ -196,6 +196,10 @@ gallery_o:
     image_path: WebsitePhotos/o_antaphids.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/o_nohead.jpg
+    image_path: WebsitePhotos/o_nohead.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 ---
 Coming soon!  (What's here is just for testing for now.)
