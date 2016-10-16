@@ -8,6 +8,98 @@ gallery_p:
     image_path: WebsitePhotos/p_datura.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
+  - url: WebsitePhotos/p_coralroot.jpg
+    image_path: WebsitePhotos/p_coralroot.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_helio.jpg
+    image_path: WebsitePhotos/p_helio.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jack.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_amsink.jpg
+    image_path: WebsitePhotos/p_amsink.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_monk.jpg
+    image_path: WebsitePhotos/p_monk.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_prim.jpg
+    image_path: WebsitePhotos/p_prim.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_seedling.jpg
+    image_path: WebsitePhotos/p_seedling.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_king.jpg
+    image_path: WebsitePhotos/p_king.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_colum.jpg
+    image_path: WebsitePhotos/p_colum.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_tulipop.jpg
+    image_path: WebsitePhotos/p_tulipop.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_jtree.jpg
+    image_path: WebsitePhotos/p_jtree.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_astrag.jpg
+    image_path: WebsitePhotos/p_astrag.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_lily.jpg
+    image_path: WebsitePhotos/p_lily.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_mari.jpg
+    image_path: WebsitePhotos/p_mari.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/p_tlily.jpg
+    image_path: WebsitePhotos/p_jack.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: WebsitePhotos/a_greenbeet.jpg
+    image_path: WebsitePhotos/a_greenbeet.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_butt.jpg
+    image_path: WebsitePhotos/a_butt.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/a_dragon.jpg
+    image_path: WebsitePhotos/a_dragon.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_prim2.jpg
+    image_path: WebsitePhotos/p_prim2.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_frit.jpg
+    image_path: WebsitePhotos/p_frit.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_pringlei.jpg
+    image_path: WebsitePhotos/p_pringlei.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_gland.jpg
+    image_path: WebsitePhotos/p_gland.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: WebsitePhotos/p_mim.jpg
+    image_path: WebsitePhotos/p_mim.jpg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
 
 ---
 Coming soon!  (What's here is just for testing for now.)
