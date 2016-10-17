@@ -451,6 +451,7 @@ gallery_m:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 ---
+<a name="top"></a>
 
 This page is under construction.  None of the images have alt. text nor do they have captions.  Some of the full-size images are too large and 
 
@@ -459,7 +460,7 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 <a name="plants"></a>
 
 ## Plants
-{% include gallery id="gallery_p" caption="" %}
+{% include gallery id="gallery_p" caption="[Back to top](#top)" %}
 
 <a name="animals"></a>
 
