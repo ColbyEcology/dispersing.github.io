@@ -161,7 +161,7 @@ gallery_a:
   - url: WebsitePhotos/a_lepliz.jpg
     image_path: WebsitePhotos/a_lepliz-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Long-nosed leopard lizard, <i>Gambelia wislizenii</i>, Highway 6, central Nevada, United States 26 May 2013"
   - url: WebsitePhotos/a_tigerbutt.jpg
     image_path: WebsitePhotos/a_tigerbutt-th.jpg
     alt: "placeholder image 1"
@@ -185,11 +185,11 @@ gallery_a:
   - url: WebsitePhotos/a_2tail.jpg
     image_path: WebsitePhotos/a_2tail-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "TWo-tailed swallowtail, <i>Papilio multicaudata</i>, Austin, Nevada, United States, 25 May 2013"
   - url: WebsitePhotos/a_fairies.jpg
     image_path: WebsitePhotos/a_fairies-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Flies or fairies, whatever were buzzing around our headlights while we were making camp near a lake in Idaho, United States, 02 August 2013"
   - url: WebsitePhotos/a_greenbeet.jpg
     image_path: WebsitePhotos/a_greenbeet-th.jpg
     alt: "placeholder image 1"
@@ -243,7 +243,7 @@ gallery_o:
   - url: WebsitePhotos/o_fungi.jpg
     image_path: WebsitePhotos/o_fungi-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Fungi, Hinckley Reservation, Ohio, United States, 25 October 2014"
   - url: WebsitePhotos/o_puff.jpg
     image_path: WebsitePhotos/o_puff-th.jpg
     alt: "placeholder image 1"
@@ -265,7 +265,7 @@ gallery_s:
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Lunar Crater, Palisade Mesa Wilderness Study Area, Nevada, United States, 26 May 2013"
   - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly-th.jpg
     alt: "placeholder image 1"
@@ -289,7 +289,7 @@ gallery_s:
   - url: WebsitePhotos/s_kenai.jpg
     image_path: WebsitePhotos/s_kenai-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Kenai Lake, near Cooper Landing, Kenai Penninsula, Alaska, United States, 14 May 2016"
   - url: WebsitePhotos/s_gb.jpg
     image_path: WebsitePhotos/s_gb-th.jpg
     alt: "placeholder image 1"
@@ -313,7 +313,7 @@ gallery_s:
   - url: WebsitePhotos/s_bigpine.jpg
     image_path: WebsitePhotos/s_bigpine-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Big Pine Lakes, Eastern Sierra, California, United States, 18 August 2013"
 
 gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
@@ -417,7 +417,7 @@ gallery_m:
   - url: WebsitePhotos/m_manz.jpg
     image_path: WebsitePhotos/m_manz-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Kinnikinnick, <i>Arctostaphylos uva-ursi</i>, near Cooper Landing, Kenai Penninsula, Alaska, United States, 14 May 2016"
   - url: WebsitePhotos/m_pringlei.jpg
     image_path: WebsitePhotos/m_pringlei-th.jpg
     alt: "placeholder image 1"
