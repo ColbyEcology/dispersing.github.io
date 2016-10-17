@@ -465,24 +465,24 @@ Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organis
 <a name="animals"></a>
 
 ## Animals
-{% include gallery id="gallery_a" %}
+{% include gallery id="gallery_a" caption="[Back to top](#top)" %}
 
 <a name="orgs"></a>
 
 ## Other and multiple organisms
-{% include gallery id="gallery_o" %}
+{% include gallery id="gallery_o" caption="[Back to top](#top)" %}
 
 <a name="scapes"></a>
 
 ## Landscapes
-{% include gallery id="gallery_s" %}
+{% include gallery id="gallery_s" caption="[Back to top](#top)" %}
 
 <a name="fw"></a>
 
 ## Fieldwork
-{% include gallery id="gallery_fw" %}
+{% include gallery id="gallery_fw" caption="[Back to top](#top)" %}
 
 <a name="manz"></a>
 
 ## Manzanitas
-{% include gallery id="gallery_m" %}
+{% include gallery id="gallery_m" caption="[Back to top](#top)" %}
