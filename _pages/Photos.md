@@ -18,15 +18,15 @@ gallery_p:
     title: "<i>Heliotropium curassavicum</i> off Kelbaker Road in the Mojave Desert, Mojave National Preserve, California, United States, 24 May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
-    alt: "placeholder image 2"
+    alt: "Jack-in-the-pulpit"
     title: "Jack-in-the-pulpit, <i>Arisaema triphyllum</i>, Upper Peninsula of Michigan, United States, 29 May 2011"
   - url: WebsitePhotos/p_amsink.jpg
     image_path: WebsitePhotos/p_amsink-th.jpg
-    alt: "placeholder image 2"
+    alt: "Fiddlehead"
     title: "Fiddlehead, <i>Amsinkia</i> sp., near Anza-Borrego Desert State Park, California, United States, 16 March 2011"
   - url: WebsitePhotos/p_monk.jpg
     image_path: WebsitePhotos/p_monk-th.jpg
-    alt: "placeholder image 2"
+    alt: "Monkshood"
     title: "Monkshood, <i>Acontium columbianum</i>, Spooner Lake, Nevada, United States, 21 July 2009"
   - url: WebsitePhotos/p_prim.jpg
     image_path: WebsitePhotos/p_prim-th.jpg
@@ -256,7 +256,7 @@ gallery_o:
 gallery_s:
   - url: WebsitePhotos/s_morro.jpg
     image_path: WebsitePhotos/s_morro-th.jpg
-    alt: "placeholder image 1"
+    alt: "Morro Rock"
     title: "Morro Rock, Morro Bay, Calfifornia, United Staes, "
   - url: WebsitePhotos/s_poppies.jpg
     image_path: WebsitePhotos/s_poppies-th.jpg
@@ -268,8 +268,8 @@ gallery_s:
     title: "Lunar Crater, Palisade Mesa Wilderness Study Area, Nevada, United States, 26 May 2013"
   - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly-th.jpg
-    alt: "placeholder image 1"
-    title: "Polychrome Pass, Denali National Park, Alaska, United States"
+    alt: "Alaska Range from Polychrome Pass"
+    title: "A view of the Alaska Range from Polychrome Pass, Denali National Park, Alaska, United States"
   - url: WebsitePhotos/s_meadow.jpg
     image_path: WebsitePhotos/s_meadow-th.jpg
     alt: "placeholder image 1"
@@ -288,7 +288,7 @@ gallery_s:
     title: "Sunset, Mid Hills, California, United States, 09 January 2009"
   - url: WebsitePhotos/s_kenai.jpg
     image_path: WebsitePhotos/s_kenai-th.jpg
-    alt: "placeholder image 1"
+    alt: "Kenai Lake panorama"
     title: "Kenai Lake, near Cooper Landing, Kenai Penninsula, Alaska, United States, 14 May 2016"
   - url: WebsitePhotos/s_gb.jpg
     image_path: WebsitePhotos/s_gb-th.jpg
@@ -304,15 +304,15 @@ gallery_s:
     title: "23 March 2012"
   - url: WebsitePhotos/s_dsky.jpg
     image_path: WebsitePhotos/s_dsky-th.jpg
-    alt: "placeholder image 1"
+    alt: "Highway 50 sky"
     title: "Somewhere off Highway 50, &#34;The lonliest Highway,&#34; Central Nevada, United States, 22 April 2012"
   - url: WebsitePhotos/s_tahoe.jpg
     image_path: WebsitePhotos/s_tahoe-th.jpg
-    alt: "placeholder image 1"
+    alt: "Lake Tahoe"
     title: "A view of Lake Tahoe after hiking out of Little Valley, Nevada, United States, 10 June 2012"
   - url: WebsitePhotos/s_bigpine.jpg
     image_path: WebsitePhotos/s_bigpine-th.jpg
-    alt: "placeholder image 1"
+    alt: "Big Pine Lakes"
     title: "Big Pine Lakes, Eastern Sierra, California, United States, 18 August 2013"
 
 gallery_fw:
@@ -326,27 +326,27 @@ gallery_fw:
     title: "28 March 2012"
   - url: WebsitePhotos/jpgw_plot.p
     image_path: WebsitePhotos/fw_plot-th.jpg
-    alt: "placeholder image 1"
+    alt: "Toothpick fieldwork"
     title: "Toothpicks denoting where seeds will be buried for a burn experiment I ran, Little Valley, Nevada, United States, 20 October 2012"
   - url: WebsitePhotos/fw_cave.jpg
     image_path: WebsitePhotos/fw_cave-th.jpg
-    alt: "placeholder image 1"
+    alt: "Lava tube in the Mohave National Preserve"
     title: "Lava tube, Kelbaker Road, Mojave National Preserve, California, United States, 04 May 2008"
   - url: WebsitePhotos/fw_bowl.jpg
     image_path: WebsitePhotos/fw_bowl-th.jpg
-    alt: "placeholder image 1"
+    alt: "Diana's Punch Bowl"
     title: "Diana's Punch Bowl, Nevada, United Sates, 12 December 2010"
   - url: WebsitePhotos/fw_snow.jpg
     image_path: WebsitePhotos/fw_snow-th.jpg
-    alt: "placeholder image 1"
+    alt: "Mount Rose fieldwork"
     title: "Mount Rose, Nevada, United States, 06 March 2009"
   - url: WebsitePhotos/fw_nathist.jpg
     image_path: WebsitePhotos/fw_nathist-th.jpg
-    alt: "placeholder image 1"
-    title: "Los Angeles County Museum of Natural History, 19 March 2011"
+    alt: "Dire wolf skulls at La Brea Tar Pits"
+    title: "In from of Dire wolf, <i>Canis dirus</i>, skulls excavated from tar, La Brea Tar Pits &amp; Museum, Los Angeles, California, United States, 19 March 2011"
   - url: WebsitePhotos/fw_SSPM.jpg
     image_path: WebsitePhotos/fw_SSPM-th.jpg
-    alt: "placeholder image 1"
+    alt: "Sierra San Pedro Martir"
     title: "Lab field work with Scott Stephen's research group in the Sierra San Pedro M&aacute;rtir, Mexico"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
@@ -354,16 +354,16 @@ gallery_fw:
     title: "Desert spiny lizard, <i>Sceloperus magister</i>, Nye County, Nevada, United States, in 24 April 2010 "
   - url: WebsitePhotos/fw_seeds.jpg
     image_path: WebsitePhotos/fw_seeds-th.jpg
-    alt: "placeholder image 1"
+    alt: "Radioactively-labeled seeds"
     title: "Radioactively-labeled seeds for my research at the University of Nevada, Reno, Nevada, United States, 30 September 2011"
   - url: WebsitePhotos/fw_geiger.jpg
     image_path: WebsitePhotos/fw_geiger-th.jpg
     alt: "placeholder image 1"
-    title: "17 October 2010"
+    title: "Locating dispersed radioactively-labeled seeds using a Geiger counter, Little Valley, Nevada, United States, 17 October 2010"
   - url: WebsitePhotos/fw_holland.jpg
     image_path: WebsitePhotos/fw_holland-th.jpg
     alt: "placeholder image 1"
-    title: "22 December 2008"
+    title: "Processing a captured wood mouse, <i>Apodemus sylvaticus</i>, Schiermonnikoog, Netherlands, 22 December 2008"
   - url: WebsitePhotos/fw_burn.jpg
     image_path: WebsitePhotos/fw_burn-th.jpg
     alt: "placeholder image 1"
@@ -378,7 +378,7 @@ gallery_fw:
     title: "28 June 2006"
   - url: WebsitePhotos/fw_fluor.jpg
     image_path: WebsitePhotos/fw_fluor-th.jpg
-    alt: "placeholder image 1"
+    alt: "Fluorescent powder to track seeds"
     title: "Using fluorescent powder to track seeds dispersed by rodents in the Sierra San Pedro M&aacute;rtir, Mexico, 14 July 2009"
   - url: WebsitePhotos/fw_coldes.jpg
     image_path: WebsitePhotos/fw_coldes-th.jpg
@@ -386,15 +386,15 @@ gallery_fw:
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_beet.jpg
     image_path: WebsitePhotos/fw_beet-th.jpg
-    alt: "placeholder image 1"
+    alt: "Beetle and Josh"
     title: "Member of the insect order Coleoptera, with Dr. Josh Jahner in the background, Franktown Creek Road, west slope of Washoe Valley, Nevada, 02 June 2012"
   - url: WebsitePhotos/fw_trans.jpg
     image_path: WebsitePhotos/fw_trans-th.jpg
-    alt: "placeholder image 1"
+    alt: "Line-intercept in chaparral"
     title: "Line-intercept transect through chaparral (mostly greenleaf manzanita, <i>Arctostaphylos patula</i>, and snowbrush, <i>Ceanothus velutinus</i>), Franktown Creek Road, west slope of Washoe Valley, Nevada, United States, 09 June 2012"
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
-    alt: "placeholder image 1"
+    alt: "Chris and T. rex"
     title: "Chris with Sue, the the largest, most complete, and best preserved <i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
@@ -410,13 +410,13 @@ gallery_fw:
     title: "A captured Merriam's kangaro rat, <i>Dipodomys merriami</i>, with external fur-lined cheek pouches filled with the seeds we used to bait the trap, Mid Hills, California, United States, 05 July 2007"
   - url: WebsitePhotos/fw_bear.jpg
     image_path: WebsitePhotos/fw_bear-th.jpg
-    alt: "placeholder image 1"
-    title: "05 June 2009"
+    alt: "Processing a black bear"
+    title: "Processing a captured female black bear, <i>Ursus americanus</i>, with the Nevada Division of Wildlife, Little Valley, Nevada, United States, 05 June 2009"
 
 gallery_m:
   - url: WebsitePhotos/m_manz.jpg
     image_path: WebsitePhotos/m_manz-th.jpg
-    alt: "placeholder image 1"
+    alt: "Kinnikinnick and Kenai Lake"
     title: "Kinnikinnick, <i>Arctostaphylos uva-ursi</i>, near Cooper Landing, Kenai Penninsula, Alaska, United States, 14 May 2016"
   - url: WebsitePhotos/m_pringlei.jpg
     image_path: WebsitePhotos/m_pringlei-th.jpg
@@ -428,28 +428,28 @@ gallery_m:
     title: "31 March 2012"
   - url: WebsitePhotos/m_fruit.jpg
     image_path: WebsitePhotos/m_fruit-th.jpg
-    alt: "placeholder image 1"
-    title: "Bonny Dune manzanita, <i>Arctostaphylos silvicola</i>, fruit, Mt. Hermon, California, United States, 23 July 2012"
+    alt: "Bonny Doon manzanita fruits"
+    title: "Bonny Doon manzanita, <i>Arctostaphylos silvicola</i>, fruit, Mt. Hermon, California, United States, 23 July 2012"
   - url: WebsitePhotos/m_scat.jpg
     image_path: WebsitePhotos/m_scat-th.jpg
-    alt: "placeholder image 1"
+    alt: "Common manzanita"
     title: "Common manzanita, <i>Arctostaphylos manzanita</i>, in coyote, <i>Canis latrans</i>, scat, Mt. Diablo, California, United States, 25 July 2012"
   - url: WebsitePhotos/m_seedling.jpg
     image_path: WebsitePhotos/m_seedling-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Greenleaf anzanita seedlings"
+    title: "A cluster of greenleaf manzanita, <i>Arctostaphylos patula</i> seedlings emerging following a fire, Little Valley, Nevada, United States"
   - url: WebsitePhotos/m_manzSF.jpg
     image_path: WebsitePhotos/m_manzSF-th.jpg
-    alt: "placeholder image 1"
-    title: "S. imbricata 21 March 2012"
+    alt: "San Bruno Mountain manzanita"
+    title: "San Bruno Mountain manzanita, <i>Arctostaphylos imbricata</i>, with the city of San Francisco in the backgroud, San Mateo County, California, United States, 21 March 2012"
   - url: WebsitePhotos/m_hemiegg.jpg
     image_path: WebsitePhotos/m_hemiegg-th.jpg
-    alt: "placeholder image 1"
+    alt: "Eggs on greenleaf manzanita leaf"
     title: "Eggs of a member of the insect order Hemiptera, Little Valley, Nevada, United States, 08 June 2012"
   - url: WebsitePhotos/m_half.jpg
     image_path: WebsitePhotos/m_half-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Manzanita and Half Dome"
+    title: "Whiteleaf manzanita, <i>Arctostaphylos viscida</i>, in the foreground with Half Dome in the background, Yosemite National Park, California, United States"
 ---
 <a name="top"></a>
 
