@@ -339,15 +339,15 @@ gallery_fw:
   - url: WebsitePhotos/fw_snow.jpg
     image_path: WebsitePhotos/fw_snow-th.jpg
     alt: "placeholder image 1"
-    title: "06 March 2009"
+    title: "Mount Rose, Nevada, United States, 06 March 2009"
   - url: WebsitePhotos/fw_nathist.jpg
     image_path: WebsitePhotos/fw_nathist-th.jpg
     alt: "placeholder image 1"
-    title: "19 March 2011"
+    title: "Los Angeles County Museum of Natural History, 19 March 2011"
   - url: WebsitePhotos/fw_SSPM.jpg
     image_path: WebsitePhotos/fw_SSPM-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Lab field work with <a href="http://nature.berkeley.edu/stephenslab/">Scott Stephen's research group</a> in the Sierra San Pedro M&aacute;rtir, Mexico"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
     alt: "Desert spiny lizard"
@@ -355,7 +355,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_seeds.jpg
     image_path: WebsitePhotos/fw_seeds-th.jpg
     alt: "placeholder image 1"
-    title: "30 September 2011"
+    title: "Radioactively-labeled seeds for my research at the University of Nevada, Reno, Nevada, United States, 30 September 2011"
   - url: WebsitePhotos/fw_geiger.jpg
     image_path: WebsitePhotos/fw_geiger-th.jpg
     alt: "placeholder image 1"
@@ -379,7 +379,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_fluor.jpg
     image_path: WebsitePhotos/fw_fluor-th.jpg
     alt: "placeholder image 1"
-    title: "14 July 2009"
+    title: "Using fluorescent powder to track seeds dispersed by rodents in the Sierra San Pedro M&aacute;rtir, Mexico, 14 July 2009"
   - url: WebsitePhotos/fw_coldes.jpg
     image_path: WebsitePhotos/fw_coldes-th.jpg
     alt: "placeholder image 1"
@@ -395,7 +395,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Chris with Sue, the the largest, most complete, and best preserved <a href="http://www.fieldmuseum.org/about/traveling-exhibitions/t-rex-named-sue"><i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
     alt: "placeholder image 1"
