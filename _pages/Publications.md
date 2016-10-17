@@ -13,14 +13,14 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Reprint**  | **Link**  | **Code**  | **Data**  |
+| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint**  | **Code**  | **Data**  |
 |-----------|------------|----------------|--------------|--------------|-----------|-----------|-----------|
 | 2105  | Scatter-hoarding rodents disperse seeds to safe sites in a fire-prone ecosystem	| C.M. Moore and S.B. Vander Wall	 | Plant Ecology	 | [Link](http://link.springer.com/article/10.1007/s11258-015-0497-1)  | [Reprint](/Publications/reprints/Moore_and_Vander_Wall_2015.pdf)  | [Link](https://github.com/dispersing/2DKernSim)  |   |
 | 2102  | Jeffrey Pine Seed Dispersal in the Sierra San Pedro M&aacute;rtir, Baja California, Mexico	  | S.B. Vander Wall, M.S. Enders, S. Barga, C.M. Moore, A. Seaman, and R. Perea	  | Western North American Naturalist	  | [Link](https://ojs.lib.byu.edu/spc/index.php/wnan/article/view/27233)  | [Reprint](/Publications/reprints/Vander_Wall_et_al._2012.pdf)  |   |   |
 
 ## Other publications
 
-| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Reprint**  | **Link** | **Data**  |
+| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Data**  |
 |-----------|------------|----------------|--------------|--------------|----------|-----------|
 | 2014 | Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants	 | C.M. Moore	 | University of Nevada, Reno	 | [Link](http://gradworks.umi.com/36/26/3626102.html) | [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf) | Dissertation |
 | 2014 | The Jepson Manual: Vascular Plants of California	 | C.M. Moore	 | Western North American Naturalist	 | [Link](https://journals.lib.byu.edu/spc/index.php/wnan/article/view/31707) | [Reprint](/Publications/reprints/Moore_2014.pdf) | Book review |
