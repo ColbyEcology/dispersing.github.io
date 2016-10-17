@@ -75,7 +75,7 @@ gallery_p:
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
     alt: "placeholder image 1"
-    title: "Primrose monkeyflower<i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
+    title: "Primrose monkeyflower <i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/p_pop.jpg
     image_path: WebsitePhotos/p_pop-th.jpg
     alt: "placeholder image 1"
@@ -169,7 +169,7 @@ gallery_a:
   - url: WebsitePhotos/a_hyla.jpg
     image_path: WebsitePhotos/a_hyla-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Sierran Treefrog, <i>Pseudacris sierra</i>, Little Valley, Nevada, United States, 15 June 2012"
   - url: WebsitePhotos/a_blue.jpg
     image_path: WebsitePhotos/a_blue-th.jpg
     alt: "placeholder image 1"
@@ -181,7 +181,7 @@ gallery_a:
   - url: WebsitePhotos/a_sheepmoth.jpg
     image_path: WebsitePhotos/a_sheepmoth-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Western sheepmoth, <i>Hemileuca eglanterina</i>, Little Valley, Nevada, United States, 22 June 2012"
   - url: WebsitePhotos/a_2tail.jpg
     image_path: WebsitePhotos/a_2tail-th.jpg
     alt: "placeholder image 1"
@@ -305,7 +305,7 @@ gallery_s:
   - url: WebsitePhotos/s_dsky.jpg
     image_path: WebsitePhotos/s_dsky-th.jpg
     alt: "placeholder image 1"
-    title: "Somewhere off Highway 50, "The lonliest Highway," Central Nevada, United States, 22 April 2012"
+    title: "Somewhere off Highway 50, &#34;The lonliest Highway,&#34; Central Nevada, United States, 22 April 2012"
   - url: WebsitePhotos/s_tahoe.jpg
     image_path: WebsitePhotos/s_tahoe-th.jpg
     alt: "placeholder image 1"
