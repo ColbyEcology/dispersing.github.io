@@ -30,24 +30,24 @@ gallery_p:
     title: "Monkshood, <i>Acontium columbianum</i>, Spooner Lake, Nevada, United States, 21 July 2009"
   - url: WebsitePhotos/p_prim.jpg
     image_path: WebsitePhotos/p_prim-th.jpg
-    alt: "placeholder image 2"
-    title: "Evening primrose, <i>Oenethera</i> sp., west of Ridgecrest, California, United States, "
+    alt: "Evening primrose"
+    title: "Evening primrose, <i>Oenethera</i> sp., west of Ridgecrest, California, United States, 17 April 2010"
   - url: WebsitePhotos/p_king.jpg
     image_path: WebsitePhotos/p_king-th.jpg
     alt: "Kingcup cactus"
-    title: "Kingcup cactus, <i>Ecachinocereus triglochidiatus</i>, near Mid Hills, Mojave National Preserve, California, United States, "
+    title: "Kingcup cactus, <i>Ecachinocereus triglochidiatus</i>, near Mid Hills, Mojave National Preserve, California, United States, 15 April 2007"
   - url: WebsitePhotos/p_colum.jpg
     image_path: WebsitePhotos/p_colum-th.jpg
-    alt: "placeholder image 2"
-    title: "Crimson columbine, Aquilegia formosa</i>, Little Valley, Nevada, United States, 13 July 2011"
+    alt: "Crimson columbine"
+    title: "Crimson columbine, <i>Aquilegia formosa</i>, Little Valley, Nevada, United States, 13 July 2011"
   - url: WebsitePhotos/p_tulipop.jpg
     image_path: WebsitePhotos/p_tulipop-th.jpg
-    alt: "placeholder image 2"
-    title: "Tulip popular, <i>Liriodendron tulipifera</i>, leaf on the sidewalk resembles a snarky cat, Cleveland Heights, Ohio, United States"
+    alt: "Tulip popular leaf"
+    title: "Tulip popular, <i>Liriodendron tulipifera</i>, leaf on the sidewalk resembles a snarky cat, Cleveland Heights, Ohio, United States, 10 October 2015"
   - url: WebsitePhotos/p_jtree.jpg
     image_path: WebsitePhotos/p_jtree-th.jpg
-    alt: "placeholder image 2"
-    title: "Joshua trees, <i>Yucca brevifolia</i>, on Macedonia Canyon Road, Mojave National Preserve, California, United States"
+    alt: "Joshua trees"
+    title: "Joshua trees, <i>Yucca brevifolia</i>, on Macedonia Canyon Road, Mojave National Preserve, California, United States, 21 June 2006"
   - url: WebsitePhotos/p_astrag.jpg
     image_path: WebsitePhotos/p_astrag-th.jpg
     alt: "Scarlet milkvetch"
@@ -62,36 +62,32 @@ gallery_p:
     title: "Sego lily, <i>Calochortus nuttallii</i>, Little Valley, Nevada, United States, 11 July 2011"
   - url: WebsitePhotos/p_tlily.jpg
     image_path: WebsitePhotos/p_tlily-th.jpg
-    alt: "placeholder image 2"
-    title: "20 August 2011"
+    alt: "Sierra tiger lily"
+    title: "Sierra tiger lily, <i>Lilium parvum</i>, Loch Leven Lakes, Sierra Nevada, California, United States, 20 August 2011"
   - url: WebsitePhotos/p_prim2.jpg
     image_path: WebsitePhotos/p_prim2-th.jpg
-    alt: "15 April 2007"
-    title: "Image 1 title caption"
+    alt: "Dune evening primrose"
+    title: "Dune evening primrose, <i>Oenethera deltoides</i>, Mid Hills, Mojave National Preserve, California, United States, 15 April 2007"
   - url: WebsitePhotos/p_frit.jpg
     image_path: WebsitePhotos/p_frit-th.jpg
-    alt: "placeholder image 1"
+    alt: "Checker lily on San Bruno Mountain"
     title: "Checker lily, <i>Fritillaria affinis</i>, San Bruno Mountain, California, United States, 21 March 2012"
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
-    alt: "placeholder image 1"
+    alt: "Primrose monkeyflower"
     title: "Primrose monkeyflower <i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/p_pop.jpg
     image_path: WebsitePhotos/p_pop-th.jpg
-    alt: "placeholder image 1"
+    alt: "Quaking aspen forest floor"
     title: "Quaking aspen, <i>Populus tremuloides</i>, leaves on the forest floor in autumn, Little Valley, Nevada, United States, 07 November 2012"
   - url: WebsitePhotos/p_desmim.jpg
     image_path: WebsitePhotos/p_desmim-th.jpg
-    alt: "placeholder image 1"
+    alt: "Monkeyflower"
     title: "Monkeyflower, <i>Mimulus</i> sp., along Highway 6, central Nevada, United States, 25 May 2013"
   - url: WebsitePhotos/p_peony.jpg
     image_path: WebsitePhotos/p_peony-th.jpg
-    alt: "placeholder image 1"
-    title: "29 June 2011"
-  - url: WebsitePhotos/p_cactus.jpg
-    image_path: WebsitePhotos/p_cactus-th.jpg
-    alt: "18 July 2009"
-    title: "Image 1 title caption"
+    alt: "Brown's peony"
+    title: "Brown's peony, <i>Paeonia brownii</i>, Little Valley, Nevada, United States, 29 June 2011"
 
 gallery_a:
   - url: WebsitePhotos/a_coachwhip.jpg
@@ -347,7 +343,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_SSPM.jpg
     image_path: WebsitePhotos/fw_SSPM-th.jpg
     alt: "Sierra San Pedro Martir"
-    title: "Lab field work with Scott Stephen's research group in the Sierra San Pedro M&aacute;rtir, Mexico"
+    title: "Lab field work with Scott Stephen's research group in the Sierra San Pedro M&aacute;rtir, Mexico, 18 July 2009"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
     alt: "Desert spiny lizard"
