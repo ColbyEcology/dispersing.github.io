@@ -6,16 +6,16 @@ author_profile: true
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
-    alt: "<i>Datura</i> in the Mojave Desert, 2011"
-    title: "<i>Datura</i> sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, June 2011, at sunrise."
+    alt: "Datura"
+    title: "<i>Datura</i> sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, June 2011, at sunrise"
   - url: WebsitePhotos/p_coralroot.jpg
     image_path: WebsitePhotos/p_coralroot-th.jpg
-    alt: "Spotted coralroot <i>Corallorhiza maculata</i> in California"
-    title: "Spotted coralroot <i>Corallorhiza maculata</i> in California, United States"
+    alt: "Spotted coralroot"
+    title: "Spotted coralroot, <i>Corallorhiza maculata</i>, in California, United States, 06 June 2009"
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
-    alt: "<i>Heliotropium curassavicum</i> in the Mojave Desert 2008"
-    title: "<i>Heliotropium curassavicum</i> off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, May 2008"
+    alt: "Heliotropium curassavicum"
+    title: "<i>Heliotropium curassavicum</i> off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, 24 May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
@@ -50,8 +50,8 @@ gallery_p:
     title: "Image 2 title caption"
   - url: WebsitePhotos/p_astrag.jpg
     image_path: WebsitePhotos/p_astrag-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Scarlet milkvetch"
+    title: "Scarlet milkvetch, <i>Astragalus coccineus</i>, Mid Hills, California, United States, on 17 April 2010"
   - url: WebsitePhotos/p_lily.jpg
     image_path: WebsitePhotos/p_lily-th.jpg
     alt: "placeholder image 2"
@@ -280,8 +280,8 @@ gallery_s:
     title: "Image 1 title caption"
   - url: WebsitePhotos/s_sunset.jpg
     image_path: WebsitePhotos/s_sunset-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Mid Hills sunset"
+    title: "Sunset, Mid Hills, California, United States, 09 January 2009"
   - url: WebsitePhotos/s_kenai.jpg
     image_path: WebsitePhotos/s_kenai-th.jpg
     alt: "placeholder image 1"
@@ -346,8 +346,8 @@ gallery_fw:
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Desert spiny lizard"
+    title: "Desert spiny lizard, <i>Sceloperus magister</i>, Nye County, Nevada, United States, in 24 April 2010 "
   - url: WebsitePhotos/fw_seeds.jpg
     image_path: WebsitePhotos/fw_seeds-th.jpg
     alt: "placeholder image 1"
@@ -402,7 +402,7 @@ gallery_fw:
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_merriam.jpg
     image_path: WebsitePhotos/fw_merriam-th.jpg
-    alt: "placeholder image 1"
+    alt: "Captured Merriam's kangaroo rat"
     title: "Image 1 title caption"
   - url: WebsitePhotos/fw_bear.jpg
     image_path: WebsitePhotos/fw_bear-th.jpg
@@ -448,7 +448,7 @@ gallery_m:
     title: "Image 1 title caption"
 ---
 
-(Under construction)
+This page is under construction.  None of the images have alt. text nor do they have captions.  Some of the full-size images are too large and 
 
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
