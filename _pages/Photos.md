@@ -71,7 +71,7 @@ gallery_p:
   - url: WebsitePhotos/p_frit.jpg
     image_path: WebsitePhotos/p_frit-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "21 March 2012"
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
     alt: "placeholder image 1"
@@ -301,11 +301,11 @@ gallery_s:
   - url: WebsitePhotos/s_concep.jpg
     image_path: WebsitePhotos/s_concep-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "23 March 2012"
   - url: WebsitePhotos/s_dsky.jpg
     image_path: WebsitePhotos/s_dsky-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "22 April 2012"
   - url: WebsitePhotos/s_tahoe.jpg
     image_path: WebsitePhotos/s_tahoe-th.jpg
     alt: "placeholder image 1"
@@ -323,7 +323,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_data.jpg
     image_path: WebsitePhotos/fw_data-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "28 March 2012"
   - url: WebsitePhotos/jpgw_plot.p
     image_path: WebsitePhotos/fw_plot-th.jpg
     alt: "placeholder image 1"
@@ -421,11 +421,11 @@ gallery_m:
   - url: WebsitePhotos/m_pringlei.jpg
     image_path: WebsitePhotos/m_pringlei-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "31 March 2012"
   - url: WebsitePhotos/m_gland.jpg
     image_path: WebsitePhotos/m_gland-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "31 March 2012"
   - url: WebsitePhotos/m_fruit.jpg
     image_path: WebsitePhotos/m_fruit-th.jpg
     alt: "placeholder image 1"
@@ -441,7 +441,7 @@ gallery_m:
   - url: WebsitePhotos/m_manzSF.jpg
     image_path: WebsitePhotos/m_manzSF-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "S. imbricata 21 March 2012"
   - url: WebsitePhotos/m_hemiegg.jpg
     image_path: WebsitePhotos/m_hemiegg-th.jpg
     alt: "placeholder image 1"
