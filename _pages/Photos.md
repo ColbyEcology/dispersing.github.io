@@ -79,11 +79,11 @@ gallery_p:
   - url: WebsitePhotos/p_pop.jpg
     image_path: WebsitePhotos/p_pop-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Quaking aspen, <i>Populus tremuloides</i>, leaves on the forest floor in autumn, Little Valley, Nevada, United States, 07 November 2012"
   - url: WebsitePhotos/p_desmim.jpg
     image_path: WebsitePhotos/p_desmim-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Monkeyflower, <i>Mimulus</i> sp., along Highway 6, central Nevada, United States, 25 May 2013"
   - url: WebsitePhotos/p_peony.jpg
     image_path: WebsitePhotos/p_peony-th.jpg
     alt: "placeholder image 1"
@@ -157,7 +157,7 @@ gallery_a:
   - url: WebsitePhotos/a_bslug.jpg
     image_path: WebsitePhotos/a_bslug-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Banana slug, <i>Ariolimax</i> sp., Santa Cruz, California, United States, 23 June 2012"
   - url: WebsitePhotos/a_lepliz.jpg
     image_path: WebsitePhotos/a_lepliz-th.jpg
     alt: "placeholder image 1"
@@ -197,7 +197,7 @@ gallery_a:
   - url: WebsitePhotos/a_butt.jpg
     image_path: WebsitePhotos/a_butt-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Matt Forister's butterfly collection, Reno, Nevada, United States 29 January 2013"
   - url: WebsitePhotos/a_dragon.jpg
     image_path: WebsitePhotos/a_dragon-th.jpg
     alt: "placeholder image 1"
@@ -327,7 +327,7 @@ gallery_fw:
   - url: WebsitePhotos/jpgw_plot.p
     image_path: WebsitePhotos/fw_plot-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Toothpicks denoting where seeds will be buried for a burn experiment I ran, Little Valley, Nevada, United States, 20 October 2012"
   - url: WebsitePhotos/fw_cave.jpg
     image_path: WebsitePhotos/fw_cave-th.jpg
     alt: "placeholder image 1"
@@ -429,11 +429,11 @@ gallery_m:
   - url: WebsitePhotos/m_fruit.jpg
     image_path: WebsitePhotos/m_fruit-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Bonny Dune manzanita, <i>Arctostaphylos silvicola</i>, fruit, Mt. Hermon, California, United States, 23 July 2012"
   - url: WebsitePhotos/m_scat.jpg
     image_path: WebsitePhotos/m_scat-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Common manzanita, <i>Arctostaphylos manzanita</i>, in coyote, <i>Canis latrans</i>, scat, Mt. Diablo, California, United States, 25 July 2012"
   - url: WebsitePhotos/m_seedling.jpg
     image_path: WebsitePhotos/m_seedling-th.jpg
     alt: "placeholder image 2"
