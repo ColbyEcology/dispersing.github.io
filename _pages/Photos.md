@@ -395,7 +395,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "placeholder image 1"
-    title: "Chris with Sue, the the largest, most complete, and best preserved <a href="http://www.fieldmuseum.org/about/traveling-exhibitions/t-rex-named-sue"><i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
+    title: "Chris with Sue, the the largest, most complete, and best preserved <a href="http://www.fieldmuseum.org/about/traveling-exhibitions/t-rex-named-sue"><i>Tyrannosaurus rex</i></a> ever discovered, Field Museum, Chicago, Illinois, United States"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
     alt: "placeholder image 1"
