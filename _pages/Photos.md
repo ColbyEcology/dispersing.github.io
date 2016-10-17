@@ -19,11 +19,11 @@ gallery_p:
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
-    title: "29 May 2011"
+    title: "Jack-in-the-pulpit, <i>Arisaema triphyllum</i>, Upper Peninsula of Michigan, United States, 29 May 2011"
   - url: WebsitePhotos/p_amsink.jpg
     image_path: WebsitePhotos/p_amsink-th.jpg
     alt: "placeholder image 2"
-    title: "16 March 2011"
+    title: "Fiddlehead, <i>Amsinkia</i> sp., near Anza-Borrego Desert State Park, California, United States, 16 March 2011"
   - url: WebsitePhotos/p_monk.jpg
     image_path: WebsitePhotos/p_monk-th.jpg
     alt: "placeholder image 2"
