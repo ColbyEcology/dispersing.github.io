@@ -31,35 +31,35 @@ gallery_p:
   - url: WebsitePhotos/p_prim.jpg
     image_path: WebsitePhotos/p_prim-th.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Evening primrose, <i>Oenethera</i> sp., west of Ridgecrest, California, United States, "
   - url: WebsitePhotos/p_king.jpg
     image_path: WebsitePhotos/p_king-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    alt: "Kingcup cactus"
+    title: "Kingcup cactus, <i>Ecachinocereus triglochidiatus</i>, near Mid Hills, Mojave National Preserve, California, United States, "
   - url: WebsitePhotos/p_colum.jpg
     image_path: WebsitePhotos/p_colum-th.jpg
     alt: "placeholder image 2"
-    title: "13 July 2011"
+    title: "Crimson columbine, Aquilegia formosa</i>, Little Valley, Nevada, United States, 13 July 2011"
   - url: WebsitePhotos/p_tulipop.jpg
     image_path: WebsitePhotos/p_tulipop-th.jpg
     alt: "placeholder image 2"
-    title: "Tulip popular, <i>Liriodendron tulipifera</i>, Cleveland Heights, Ohio, United States"
+    title: "Tulip popular, <i>Liriodendron tulipifera</i>, leaf on the sidewalk resembles a snarky cat, Cleveland Heights, Ohio, United States"
   - url: WebsitePhotos/p_jtree.jpg
     image_path: WebsitePhotos/p_jtree-th.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Joshua trees, <i>Yucca brevifolia</i>, on Macedonia Canyon Road, Mojave National Preserve, California, United States"
   - url: WebsitePhotos/p_astrag.jpg
     image_path: WebsitePhotos/p_astrag-th.jpg
     alt: "Scarlet milkvetch"
-    title: "Scarlet milkvetch, <i>Astragalus coccineus</i>, Mid Hills, California, United States, on 17 April 2010"
+    title: "Scarlet milkvetch, <i>Astragalus coccineus</i>, Alabama Hills, California, United States, on 17 April 2010"
   - url: WebsitePhotos/p_lily.jpg
     image_path: WebsitePhotos/p_lily-th.jpg
-    alt: "placeholder image 2"
-    title: "11 July 2011"
+    alt: "Sierra tiger lily"
+    title: "Sierra tiger lily, <i>Lilium parvum</i>, Little Valley, Nevada, United States, 11 July 2011"
   - url: WebsitePhotos/p_mari.jpg
     image_path: WebsitePhotos/p_mari-th.jpg
-    alt: "placeholder image 2"
-    title: "11 July 2011"
+    alt: "Sego lily"
+    title: "Sego lily, <i>Calochortus nuttallii</i>, Little Valley, Nevada, United States, 11 July 2011"
   - url: WebsitePhotos/p_tlily.jpg
     image_path: WebsitePhotos/p_tlily-th.jpg
     alt: "placeholder image 2"
@@ -137,7 +137,7 @@ gallery_a:
   - url: WebsitePhotos/a_sageliz.jpg
     image_path: WebsitePhotos/a_sageliz-th.jpg
     alt: "Alt <i>Alt</i>"
-    title: "Title <i>Title</i>"
+    title: "Sagebrush lizard, <i>Sceloporus graciosus</i>, "
   - url: WebsitePhotos/a_uta.jpg
     image_path: WebsitePhotos/a_uta-th.jpg
     alt: "placeholder image 1"
@@ -387,11 +387,11 @@ gallery_fw:
   - url: WebsitePhotos/fw_beet.jpg
     image_path: WebsitePhotos/fw_beet-th.jpg
     alt: "Beetle and Josh"
-    title: "Member of the insect order Coleoptera, with Dr. Josh Jahner in the background, Franktown Creek Road, west slope of Washoe Valley, Nevada, 02 June 2012"
+    title: "Member of the insect order Coleoptera, with Dr. Josh Jahner in the background, Franktown Road, west slope of Washoe Valley, Nevada, 02 June 2012"
   - url: WebsitePhotos/fw_trans.jpg
     image_path: WebsitePhotos/fw_trans-th.jpg
     alt: "Line-intercept in chaparral"
-    title: "Line-intercept transect through chaparral (mostly greenleaf manzanita, <i>Arctostaphylos patula</i>, and snowbrush, <i>Ceanothus velutinus</i>), Franktown Creek Road, west slope of Washoe Valley, Nevada, United States, 09 June 2012"
+    title: "Line-intercept transect through chaparral (mostly greenleaf manzanita, <i>Arctostaphylos patula</i>, and snowbrush, <i>Ceanothus velutinus</i>), Franktown Road, west slope of Washoe Valley, Nevada, United States, 09 June 2012"
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "Chris and T. rex"
