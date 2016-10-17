@@ -347,7 +347,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_SSPM.jpg
     image_path: WebsitePhotos/fw_SSPM-th.jpg
     alt: "placeholder image 1"
-    title: ""
+    title: "Lab field work with <a href="http://nature.berkeley.edu/stephenslab/">Scott Stephen's research group</a> in the Sierra San Pedro M&aacute;rtir, Mexico"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
     alt: "Desert spiny lizard"
@@ -454,7 +454,6 @@ gallery_m:
 
 This page is under construction.  None of the images have alt. text nor do they have captions.  Some of the full-size images are too large and 
 
-Lab field work with <a href="http://nature.berkeley.edu/stephenslab/">Scott Stephen's research group</a> in the Sierra San Pedro M&aacute;rtir, Mexico
 
 <a href="http://www.fieldmuseum.org/about/traveling-exhibitions/t-rex-named-sue"><i>Tyrannosaurus rex</i></a>
 
