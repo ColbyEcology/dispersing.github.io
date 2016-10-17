@@ -347,7 +347,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_SSPM.jpg
     image_path: WebsitePhotos/fw_SSPM-th.jpg
     alt: "placeholder image 1"
-    title: "Lab field work with <a href="http://nature.berkeley.edu/stephenslab/">Scott Stephen's research group</a> in the Sierra San Pedro M&aacute;rtir, Mexico"
+    title: "Lab field work with Scott Stephen's research group in the Sierra San Pedro M&aacute;rtir, Mexico"
   - url: WebsitePhotos/fw_scelop.jpg
     image_path: WebsitePhotos/fw_scelop-th.jpg
     alt: "Desert spiny lizard"
@@ -395,7 +395,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "placeholder image 1"
-    title: "Chris with Sue, the the largest, most complete, and best preserved  ever discovered, Field Museum, Chicago, Illinois, United States"
+    title: "Chris with Sue, the the largest, most complete, and best preserved <i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
     alt: "placeholder image 1"
@@ -453,9 +453,6 @@ gallery_m:
 ---
 
 This page is under construction.  None of the images have alt. text nor do they have captions.  Some of the full-size images are too large and 
-
-
-<a href="http://www.fieldmuseum.org/about/traveling-exhibitions/t-rex-named-sue"><i>Tyrannosaurus rex</i></a>
 
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
