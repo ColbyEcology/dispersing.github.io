@@ -136,8 +136,8 @@ gallery_a:
     title: "Image 1 title caption"
   - url: WebsitePhotos/a_sageliz.jpg
     image_path: WebsitePhotos/a_sageliz-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Alt <i>Alt</i>"
+    title: "Title <i>Title</i>"
   - url: WebsitePhotos/a_uta.jpg
     image_path: WebsitePhotos/a_uta-th.jpg
     alt: "placeholder image 1"
@@ -145,7 +145,7 @@ gallery_a:
   - url: WebsitePhotos/a_owl.jpg
     image_path: WebsitePhotos/a_owl-th.jpg
     alt: "placeholder image 1"
-    title: "Owl, Twinlakes Road, Bridgeport, California, United States, 14 December 2011"
+    title: "Short-earde Owl, <i>Asio flammeus</i>, Twinlakes Road, Bridgeport, California, United States, 14 December 2011"
   - url: WebsitePhotos/a_garter.jpg
     image_path: WebsitePhotos/a_garter-th.jpg
     alt: "placeholder image 1"
@@ -215,7 +215,7 @@ gallery_o:
   - url: WebsitePhotos/o_herbs.jpg
     image_path: WebsitePhotos/o_herbs-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama"
   - url: WebsitePhotos/o_antaphids.jpg
     image_path: WebsitePhotos/o_antaphids-th.jpg
     alt: "placeholder image 1"
@@ -257,7 +257,7 @@ gallery_s:
   - url: WebsitePhotos/s_morro.jpg
     image_path: WebsitePhotos/s_morro-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Morro Rock, Morro Bay, Calfifornia, United Staes, "
   - url: WebsitePhotos/s_poppies.jpg
     image_path: WebsitePhotos/s_poppies-th.jpg
     alt: "placeholder image 1"
@@ -269,7 +269,7 @@ gallery_s:
   - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Polychrome Pass, Denali National Park, Alaska, United States"
   - url: WebsitePhotos/s_meadow.jpg
     image_path: WebsitePhotos/s_meadow-th.jpg
     alt: "placeholder image 1"
@@ -331,11 +331,11 @@ gallery_fw:
   - url: WebsitePhotos/fw_cave.jpg
     image_path: WebsitePhotos/fw_cave-th.jpg
     alt: "placeholder image 1"
-    title: "04 May 2008"
+    title: "Lava tube, Kelbaker Road, Mojave National Preserve, California, United States, 04 May 2008"
   - url: WebsitePhotos/fw_bowl.jpg
     image_path: WebsitePhotos/fw_bowl-th.jpg
     alt: "placeholder image 1"
-    title: "12 December 2010"
+    title: "Diana's Punch Bowl, Nevada, United Sates, 12 December 2010"
   - url: WebsitePhotos/fw_snow.jpg
     image_path: WebsitePhotos/fw_snow-th.jpg
     alt: "placeholder image 1"
