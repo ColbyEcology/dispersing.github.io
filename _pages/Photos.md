@@ -7,7 +7,7 @@ gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
     alt: "Datura"
-    title: "<i>Datura</i> sp. on Kelso Road in the Mojave National Preserve, Mojave Desert, California, United States, 23 May 2011, at sunrise"
+    title: "<i>Datura</i> sp. on Kelbaker Road in the Mojave National Preserve, Mojave Desert, California, United States, 23 May 2011, at sunrise"
   - url: WebsitePhotos/p_coralroot.jpg
     image_path: WebsitePhotos/p_coralroot-th.jpg
     alt: "Spotted coralroot"
@@ -15,7 +15,7 @@ gallery_p:
   - url: WebsitePhotos/p_helio.jpg
     image_path: WebsitePhotos/p_helio-th.jpg
     alt: "Heliotropium curassavicum"
-    title: "<i>Heliotropium curassavicum</i> off Kelso Road in the Mojave Desert, Mojave National Preserve, California, United States, 24 May 2008"
+    title: "<i>Heliotropium curassavicum</i> off Kelbaker Road in the Mojave Desert, Mojave National Preserve, California, United States, 24 May 2008"
   - url: WebsitePhotos/p_jack.jpg
     image_path: WebsitePhotos/p_jack-th.jpg
     alt: "placeholder image 2"
@@ -27,7 +27,7 @@ gallery_p:
   - url: WebsitePhotos/p_monk.jpg
     image_path: WebsitePhotos/p_monk-th.jpg
     alt: "placeholder image 2"
-    title: "21 July 2009"
+    title: "Monkshood, <i>Acontium columbianum</i>, Spooner Lake, Nevada, United States, 21 July 2009"
   - url: WebsitePhotos/p_prim.jpg
     image_path: WebsitePhotos/p_prim-th.jpg
     alt: "placeholder image 2"
@@ -43,7 +43,7 @@ gallery_p:
   - url: WebsitePhotos/p_tulipop.jpg
     image_path: WebsitePhotos/p_tulipop-th.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
+    title: "Tulip popular, <i>Liriodendron tulipifera</i>, Cleveland Heights, Ohio, United States"
   - url: WebsitePhotos/p_jtree.jpg
     image_path: WebsitePhotos/p_jtree-th.jpg
     alt: "placeholder image 2"
@@ -71,7 +71,7 @@ gallery_p:
   - url: WebsitePhotos/p_frit.jpg
     image_path: WebsitePhotos/p_frit-th.jpg
     alt: "placeholder image 1"
-    title: "21 March 2012"
+    title: "Checker lily, <i>Fritillaria affinis</i>, San Bruno Mountain, California, United States, 21 March 2012"
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
     alt: "placeholder image 1"
@@ -97,27 +97,27 @@ gallery_a:
   - url: WebsitePhotos/a_coachwhip.jpg
     image_path: WebsitePhotos/a_coachwhip-th.jpg
     alt: "placeholder image 1"
-    title: "22 September 2007"
+    title: "Coahwhip, <i>Masticophis flagellum</i>, Zzyzx, California, United Staes, 22 September 2007"
   - url: WebsitePhotos/a_bison.jpg
     image_path: WebsitePhotos/a_bison-th.jpg
     alt: "placeholder image 1"
-    title: "25 May 2011"
+    title: "American Bison, <i>Bison bison</i>, Yellowstone National Park, Wyoming, United States, 25 May 2011"
   - url: WebsitePhotos/a_sloth.jpg
     image_path: WebsitePhotos/a_sloth-th.jpg
     alt: "placeholder image 1"
-    title: "09 June 2008"
+    title: "Brown-throated sloth, <i>Bradypus variegatus</i>, Parque Nacional San Lorenzo, Panama, 09 June 2008"
   - url: WebsitePhotos/a_destort.jpg
     image_path: WebsitePhotos/a_destort-th.jpg
     alt: "placeholder image 1"
-    title: "16 March 2011"
+    title: "Desert tortoise, <i>Gopherus agassizii</i>, Kelbaker Road, Mojave National Preserve, California, United States, 16 March 2011"
   - url: WebsitePhotos/a_bat.jpg
     image_path: WebsitePhotos/a_bat-th.jpg
     alt: "placeholder image 1"
-    title: "29 May 2007"
+    title: "Pallid bat, <i>Antrozous pallidus</i>, Desert Studies Center, Zzyzx, California, United States, 29 May 2007"
   - url: WebsitePhotos/a_hemi.jpg
     image_path: WebsitePhotos/a_hemi-th.jpg
     alt: "placeholder image 1"
-    title: "13 July 2008"
+    title: "A member of the insect order Hemiptera, Parque Nacional San Lorenzo, Panama, 13 July 2008"
   - url: WebsitePhotos/a_krat.jpg
     image_path: WebsitePhotos/a_krat-th.jpg
     alt: "placeholder image 1"
@@ -145,7 +145,7 @@ gallery_a:
   - url: WebsitePhotos/a_owl.jpg
     image_path: WebsitePhotos/a_owl-th.jpg
     alt: "placeholder image 1"
-    title: "14 December 2011"
+    title: "Owl, Twinlakes Road, Bridgeport, California, United States, 14 December 2011"
   - url: WebsitePhotos/a_garter.jpg
     image_path: WebsitePhotos/a_garter-th.jpg
     alt: "placeholder image 1"
@@ -201,7 +201,7 @@ gallery_a:
   - url: WebsitePhotos/a_dragon.jpg
     image_path: WebsitePhotos/a_dragon-th.jpg
     alt: "placeholder image 1"
-    title: "28 September 2007"
+    title: "A member of the insect order Odonata attracted with a Mercury vapor lamp, Desert Studies Center, Zzyzx, California, United States, 28 September 2007"
 
 gallery_o:
   - url: WebsitePhotos/o_lichen.jpg
