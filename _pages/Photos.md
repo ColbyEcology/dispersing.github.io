@@ -7,7 +7,7 @@ gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
     alt: "Datura"
-    title: "<i>Datura</i> sp. on Kelbaker Road in the Mojave National Preserve, Mojave Desert, California, United States, 23 May 2011, at sunrise"
+    title: "<i>Datura</i> sp. at sunrise on Kelbaker Road in the Mojave National Preserve, Mojave Desert, California, United States, 23 May 2011"
   - url: WebsitePhotos/p_coralroot.jpg
     image_path: WebsitePhotos/p_coralroot-th.jpg
     alt: "Spotted coralroot"
@@ -75,7 +75,7 @@ gallery_p:
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Primrose monkeyflower<i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/p_pop.jpg
     image_path: WebsitePhotos/p_pop-th.jpg
     alt: "placeholder image 1"
@@ -97,7 +97,7 @@ gallery_a:
   - url: WebsitePhotos/a_coachwhip.jpg
     image_path: WebsitePhotos/a_coachwhip-th.jpg
     alt: "placeholder image 1"
-    title: "Coahwhip, <i>Masticophis flagellum</i>, Zzyzx, California, United Staes, 22 September 2007"
+    title: "Coahwhip, <i>Masticophis flagellum</i>, Zzyzx, California, United States, 22 September 2007"
   - url: WebsitePhotos/a_bison.jpg
     image_path: WebsitePhotos/a_bison-th.jpg
     alt: "placeholder image 1"
@@ -149,11 +149,11 @@ gallery_a:
   - url: WebsitePhotos/a_garter.jpg
     image_path: WebsitePhotos/a_garter-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Mountain gartersnake, <i>Thamnophis elegans</i>, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/a_tigermoth.jpg
     image_path: WebsitePhotos/a_tigermoth-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Tiger moth in the Arctiidae family, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/a_bslug.jpg
     image_path: WebsitePhotos/a_bslug-th.jpg
     alt: "placeholder image 1"
@@ -165,7 +165,7 @@ gallery_a:
   - url: WebsitePhotos/a_tigerbutt.jpg
     image_path: WebsitePhotos/a_tigerbutt-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Pale swallowtail, <i>Papilio eurymedon</i>, Little Valley, Nevada, United States, 15 June 2012"
   - url: WebsitePhotos/a_hyla.jpg
     image_path: WebsitePhotos/a_hyla-th.jpg
     alt: "placeholder image 1"
@@ -173,11 +173,11 @@ gallery_a:
   - url: WebsitePhotos/a_blue.jpg
     image_path: WebsitePhotos/a_blue-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Male greenish blue, <i>Plebejus saepiolus</i>, Little Valley, Nevada, United States, 15 June 2012"
   - url: WebsitePhotos/a_bluemate.jpg
     image_path: WebsitePhotos/a_bluemate-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Mating greenish blue, <i>Plebejus saepiolus</i>, Little Valley, Nevada, United States, 15 June 2012"
   - url: WebsitePhotos/a_sheepmoth.jpg
     image_path: WebsitePhotos/a_sheepmoth-th.jpg
     alt: "placeholder image 1"
@@ -305,11 +305,11 @@ gallery_s:
   - url: WebsitePhotos/s_dsky.jpg
     image_path: WebsitePhotos/s_dsky-th.jpg
     alt: "placeholder image 1"
-    title: "22 April 2012"
+    title: "Somewhere off Highway 50, "The lonliest Highway," Central Nevada, United States, 22 April 2012"
   - url: WebsitePhotos/s_tahoe.jpg
     image_path: WebsitePhotos/s_tahoe-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "A view of Lake Tahoe after hiking out of Little Valley, Nevada, United States, 10 June 2012"
   - url: WebsitePhotos/s_bigpine.jpg
     image_path: WebsitePhotos/s_bigpine-th.jpg
     alt: "placeholder image 1"
@@ -387,11 +387,11 @@ gallery_fw:
   - url: WebsitePhotos/fw_beet.jpg
     image_path: WebsitePhotos/fw_beet-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Member of the insect order Coleoptera, with Dr. Josh Jahner in the background, Franktown Creek Road, west slope of Washoe Valley, Nevada, 02 June 2012"
   - url: WebsitePhotos/fw_trans.jpg
     image_path: WebsitePhotos/fw_trans-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Line-intercept transect through chaparral (mostly greenleaf manzanita, <i>Arctostaphylos patula</i>, and snowbrush, <i>Ceanothus velutinus</i>), Franktown Creek Road, west slope of Washoe Valley, Nevada, United States, 09 June 2012"
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "placeholder image 1"
@@ -407,7 +407,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_merriam.jpg
     image_path: WebsitePhotos/fw_merriam-th.jpg
     alt: "Captured Merriam's kangaroo rat"
-    title: "A captured Merriam's kangaro rat, <i>Dipodomys merriami</i>, with external fur-lined cheek pouches filled with the seeds we used to bait the trat, 05 July 2007"
+    title: "A captured Merriam's kangaro rat, <i>Dipodomys merriami</i>, with external fur-lined cheek pouches filled with the seeds we used to bait the trap, Mid Hills, California, United States, 05 July 2007"
   - url: WebsitePhotos/fw_bear.jpg
     image_path: WebsitePhotos/fw_bear-th.jpg
     alt: "placeholder image 1"
@@ -445,7 +445,7 @@ gallery_m:
   - url: WebsitePhotos/m_hemiegg.jpg
     image_path: WebsitePhotos/m_hemiegg-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Eggs of a member of the insect order Hemiptera, Little Valley, Nevada, United States, 08 June 2012"
   - url: WebsitePhotos/m_half.jpg
     image_path: WebsitePhotos/m_half-th.jpg
     alt: "placeholder image 1"
