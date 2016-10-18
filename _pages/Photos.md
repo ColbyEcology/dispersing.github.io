@@ -203,14 +203,14 @@ gallery_o:
   - url: WebsitePhotos/o_lichen.jpg
     image_path: WebsitePhotos/o_lichen-th.jpg
     alt: "Lichen"
-    title: "Lichen, Fallon, Nevada, United States, 16 May 2013"
+    title: "Lichens are a makeup of two or more mutualistic symbiotic organisms, Fallon, Nevada, United States, 16 May 2013"
   - url: WebsitePhotos/o_pollination.jpg
     image_path: WebsitePhotos/o_pollination-th.jpg
-    alt: "placeholder image 1"
-    title: "16 July 2009"
+    alt: "Purple sage pollination"
+    title: "A member of the insect order Hymenoptera ostensibly pollinating a purple sage, <i>Salvia dorrii</>, Sierra San Pedro M&aacute;rtir, Mexico, 16 July 2009"
   - url: WebsitePhotos/o_herbs.jpg
     image_path: WebsitePhotos/o_herbs-th.jpg
-    alt: "placeholder image 1"
+    alt: "Blue beetles as herbivores"
     title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama"
   - url: WebsitePhotos/o_antaphids.jpg
     image_path: WebsitePhotos/o_antaphids-th.jpg
@@ -218,24 +218,24 @@ gallery_o:
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_nohead.jpg
     image_path: WebsitePhotos/o_nohead-th.jpg
-    alt: "placeholder image 1"
-    title: "30 September 2007"
+    alt: "Souther grasshopper mouse eats beetke"
+    title: "Post-predeation event by the southern grasshopper mouse, <i>Onychomys torridus</i>, where it placed the abdomen of a pinacate beetle, <i>Eleodes</i> sp., into the ground so it would not release malodorous secretion and the mouse can just eat its head and thorax, Zzyzx, California, United States, 30 September 2007"
   - url: WebsitePhotos/o_AKmush.jpg
     image_path: WebsitePhotos/o_AKmush-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_bistort.jpg
     image_path: WebsitePhotos/o_bistort-th.jpg
-    alt: "placeholder image 1"
-    title: "13 July 2011"
+    alt: "Beetle and bistort"
+    title: "A member of the insect order Coleoptera interacting with a flower of an American bistort, <i>Polygonum bistortoides</i>, Little Valley, Nevada, United States, 13 July 2011"
   - url: WebsitePhotos/o_lady.jpg
     image_path: WebsitePhotos/o_lady-th.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: WebsitePhotos/o_comma.jpg
     image_path: WebsitePhotos/o_comma-th.jpg
-    alt: "placeholder image 1"
-    title: "17 July 2011"
+    alt: "comma butterfly and bigleaf lupine"
+    title: "A comma butterfly, <i>Polygonia comma</i>, on a bigleaf lupine, <i>Lupinus polyphyllus</i>, Little Valley, Nevada, United States, 17 July 2011"
   - url: WebsitePhotos/o_fungi.jpg
     image_path: WebsitePhotos/o_fungi-th.jpg
     alt: "placeholder image 1"
