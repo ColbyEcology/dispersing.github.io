@@ -11,6 +11,8 @@ header:
 excerpt: "I study the ecology of species interactions, with a focus on both  positive species interactions and species interactions across space . . ."
 
 ---
+<a name="top"></a>
+
 {% include base_path %}
 
 My research can generally be categorized into three areas (follow the link to a section below)&#58; [mutualistic interactions](#mutualism), [spatial ecology](#space), and the [R environment as a tool for ecological problems](#REnv).
@@ -23,6 +25,8 @@ Mutualism has been considered by many to be the most common type of ecological i
 As an over-simplified thought experiment to understand why mutualism presents a theoretical problem, first consider iterating the effect of mutual benefit between two species.  Imagine one species benefits the other, the second species received benefits and benefits the first, the first species received the benefits and benefits the second, and so on.  What this ultimately leads to is [positive feedback](https://en.wikipedia.org/wiki/Positive_feedback).  (Yes, this is just like the positive feedback between guitar pickups and amplifiers in [NIRVANA](https://youtu.be/i0g8toTz-ek?t=14)'s music.)
 
 For the past two years I have been working with [Karen Abbott](http://www.case.edu/artsci/biol/abbottlab/CWRU/Home.html) at Case Western Reserve University trying to better understand the problem of mutualistic feedback and develop a theoretical framework that doesn't result in unrealistic, infinite population sizes.  Our two main approaches have both included expanding on classic Lotka-Volterra mutualism models to include (1) **biologically realistic intraspecific density dependence** and (2) **creating a new, synthetic framework for understanding and modeling mutualisms**.  Our work is ready for publication, so be sure to keep a lookout!
+
+[Back to top](#top)
 
 <a name="space"></a>
 
