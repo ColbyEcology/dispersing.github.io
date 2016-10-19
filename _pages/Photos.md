@@ -75,7 +75,7 @@ gallery_p:
   - url: WebsitePhotos/p_mim.jpg
     image_path: WebsitePhotos/p_mim-th.jpg
     alt: "Primrose monkeyflower"
-    title: "Primrose monkeyflower <i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
+    title: "Primrose monkeyflower, <i>Mimulus primuloides</i>, meadow, Little Valley, Nevada, United States, 02 June 2012"
   - url: WebsitePhotos/p_pop.jpg
     image_path: WebsitePhotos/p_pop-th.jpg
     alt: "Quaking aspen forest floor"
@@ -137,7 +137,7 @@ gallery_a:
   - url: WebsitePhotos/a_uta.jpg
     image_path: WebsitePhotos/a_uta-th.jpg
     alt: "Western side-blotched lizard"
-    title: "Western side-blotched lizard, <i>Uta stansburiana<.i>, Zzyzx, California, United States, 26 April 2008"
+    title: "Western side-blotched lizard, <i>Uta stansburiana</i>, Zzyzx, California, United States, 26 April 2008"
   - url: WebsitePhotos/a_owl.jpg
     image_path: WebsitePhotos/a_owl-th.jpg
     alt: "Short-earde Owl"
@@ -157,7 +157,7 @@ gallery_a:
   - url: WebsitePhotos/a_lepliz.jpg
     image_path: WebsitePhotos/a_lepliz-th.jpg
     alt: "Long-nosed leopard lizard"
-    title: "Long-nosed leopard lizard, <i>Gambelia wislizenii</i>, Highway 6, central Nevada, United States 26 May 2013"
+    title: "Long-nosed leopard lizard, <i>Gambelia wislizenii</i>, Highway 6, central Nevada, United States, 26 May 2013"
   - url: WebsitePhotos/a_tigerbutt.jpg
     image_path: WebsitePhotos/a_tigerbutt-th.jpg
     alt: "Pale swallowtail"
@@ -231,7 +231,7 @@ gallery_o:
   - url: WebsitePhotos/o_lady.jpg
     image_path: WebsitePhotos/o_lady-th.jpg
     alt: "placeholder image 1"
-    title: "Common Buckeye, <i>Junonia coenia</i>, on a meadow penstemon, <i>Penstemon rydbergii</i>, 16 July 2-11"
+    title: "Common Buckeye, <i>Junonia coenia</i>, on a meadow penstemon, <i>Penstemon rydbergii</i>, Little Valley, Nevada, United States, 16 July 2011"
   - url: WebsitePhotos/o_comma.jpg
     image_path: WebsitePhotos/o_comma-th.jpg
     alt: "comma butterfly and bigleaf lupine"
@@ -269,11 +269,11 @@ gallery_s:
   - url: WebsitePhotos/s_meadow.jpg
     image_path: WebsitePhotos/s_meadow-th.jpg
     alt: "placeholder image 1"
-    title: "17 July 2011"
+    title: "Sierra bog orchid, <i>Platanthera dilatata</i>, America bistort, <i>Polygonum bistortoides</i>, Indian paintbrush, <i>Castilleja</i> sp., in a meadow, Little Valley, Nevada, United States, 17 July 2011"
   - url: WebsitePhotos/s_capitan.jpg
     image_path: WebsitePhotos/s_capitan-th.jpg
     alt: "placeholder image 1"
-    title: "14 January 2012"
+    title: "El Capitan at dusk, Yosemite National Park, California, United States, 14 January 2012"
   - url: WebsitePhotos/s_tetons.jpg
     image_path: WebsitePhotos/s_tetons-th.jpg
     alt: "placeholder image 1"
