@@ -37,6 +37,8 @@ I also co-developed the North American Seed Dispersal Project, where we quantifi
 
 I have also pursued several modeling projects to look at population dynamics and disease in a spatial-modeling context.
 
+[Back to top](#top)
+
 <a name="REnv"></a>
 
 ## The R environment as a tool for ecological problems
@@ -49,3 +51,5 @@ I am currently working on a spatial modeling project and in the process of creat
 <video width="320" height="320" controls>
     <source src="/images/hex_r5.mp4" type="video/mp4">
 </video>
+
+[Back to top](#top)
