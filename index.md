@@ -11,8 +11,8 @@ Hello, and thank you for visiting my website. Pardon the dust around here, as I 
 * [links to courses I have taught and / or organized,](/Teaching)
 * [publications, with links to the papers, reprints, code, and data,](/Publications)
 * [a blog/news feed,](/Blog)
-* [some photographic experiences in my work as an ecologist (not yet up!),](/Photos)
-* [some fun quotes I've collected over the years, and](/Quotes)
-* [my contact information](/Contact)
+* [some photography from my experiences as an ecologist,](/Photos)
+* [some fun scientific quotes I've collected over the years, and](/Quotes)
+* [more detailed contact information](/Contact)
 
 Thanks again, and feel free to contact me with any questions.
