@@ -113,7 +113,7 @@ gallery_a:
   - url: WebsitePhotos/a_hemi.jpg
     image_path: WebsitePhotos/a_hemi-th.jpg
     alt: "Hemiptera, Parque Nacional San Lorenzo"
-    title: "A member of the insect order Hemiptera, Parque Nacional San Lorenzo, Panama, 13 July 2008"
+    title: "A member of the insect order Hemiptera, Gamboa, Panama, 13 July 2008"
   - url: WebsitePhotos/a_krat.jpg
     image_path: WebsitePhotos/a_krat-th.jpg
     alt: "Merriam's kangaroo rat"
@@ -211,11 +211,11 @@ gallery_o:
   - url: WebsitePhotos/o_herbs.jpg
     image_path: WebsitePhotos/o_herbs-th.jpg
     alt: "Blue beetles as herbivores"
-    title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama"
+    title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama, 20 June 2008"
   - url: WebsitePhotos/o_antaphids.jpg
     image_path: WebsitePhotos/o_antaphids-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "16 July 2011"
   - url: WebsitePhotos/o_nohead.jpg
     image_path: WebsitePhotos/o_nohead-th.jpg
     alt: "Souther grasshopper mouse eats beetke"
@@ -223,7 +223,7 @@ gallery_o:
   - url: WebsitePhotos/o_AKmush.jpg
     image_path: WebsitePhotos/o_AKmush-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Some fungi, Lowell Point, Kenai Peninsula, Alaska, United States, 17 May 2016"
   - url: WebsitePhotos/o_bistort.jpg
     image_path: WebsitePhotos/o_bistort-th.jpg
     alt: "Beetle and bistort"
@@ -231,7 +231,7 @@ gallery_o:
   - url: WebsitePhotos/o_lady.jpg
     image_path: WebsitePhotos/o_lady-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Common Buckeye, <i>Junonia coenia</i>, on a meadow penstemon, <i>Penstemon rydbergii</i>, 16 July 2-11"
   - url: WebsitePhotos/o_comma.jpg
     image_path: WebsitePhotos/o_comma-th.jpg
     alt: "comma butterfly and bigleaf lupine"
@@ -243,21 +243,21 @@ gallery_o:
   - url: WebsitePhotos/o_puff.jpg
     image_path: WebsitePhotos/o_puff-th.jpg
     alt: "placeholder image 1"
-    title: "06 October 2007"
+    title: "An emerging Basidomycete, Mid Hills, Mojave National Preserve, California, United States, 06 October 2007"
   - url: WebsitePhotos/o_beechamise.jpg
     image_path: WebsitePhotos/o_beechamise-th.jpg
     alt: "placeholder image 1"
-    title: "15 June 2009"
+    title: "A honey bee, <i>Apis mellifera</i> looking really confused on a chamice flower, <i>Adenostoma fasciculatum</i>15 June 2009"
 
 gallery_s:
   - url: WebsitePhotos/s_morro.jpg
     image_path: WebsitePhotos/s_morro-th.jpg
     alt: "Morro Rock"
-    title: "Morro Rock, Morro Bay, Calfifornia, United Staes, "
+    title: "Morro Rock, Morro Bay, Calfifornia, United States, 23 March 2013"
   - url: WebsitePhotos/s_poppies.jpg
     image_path: WebsitePhotos/s_poppies-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "California poppies, <i>Eschscholzia californica</i>, west of Ridgecrest, California, United States, 17 April 2010"
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater-th.jpg
     alt: "placeholder image 1"
@@ -433,7 +433,7 @@ gallery_m:
   - url: WebsitePhotos/m_seedling.jpg
     image_path: WebsitePhotos/m_seedling-th.jpg
     alt: "Greenleaf anzanita seedlings"
-    title: "A cluster of greenleaf manzanita, <i>Arctostaphylos patula</i> seedlings emerging following a fire, Little Valley, Nevada, United States"
+    title: "A cluster of greenleaf manzanita, <i>Arctostaphylos patula</i> seedlings emerging following a fire, Little Valley, Nevada, United States, 16 July 2011"
   - url: WebsitePhotos/m_manzSF.jpg
     image_path: WebsitePhotos/m_manzSF-th.jpg
     alt: "San Bruno Mountain manzanita"
