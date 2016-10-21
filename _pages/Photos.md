@@ -3,6 +3,7 @@ layout: single
 title: "Photos"
 permalink: /Photos/
 author_profile: true
+
 gallery_p:
   - url: WebsitePhotos/p_datura.jpg
     image_path: WebsitePhotos/p_datura-th.jpg
