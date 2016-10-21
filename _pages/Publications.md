@@ -20,7 +20,7 @@ author_profile: true
 
 ## Other publications
 
-| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Data**  |
+| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Notes**  |
 |-----------|------------|----------------|--------------|--------------|----------|-----------|
 | 2014 | Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants	 | C.M. Moore	 | University of Nevada, Reno	 | [Link](http://gradworks.umi.com/36/26/3626102.html) | [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf) | Dissertation |
 | 2014 | The Jepson Manual: Vascular Plants of California	 | C.M. Moore	 | Western North American Naturalist	 | [Link](https://journals.lib.byu.edu/spc/index.php/wnan/article/view/31707) | [Reprint](/Publications/reprints/Moore_2014.pdf) | Book review |
