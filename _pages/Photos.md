@@ -256,28 +256,28 @@ gallery_s:
     title: "Morro Rock, Morro Bay, Calfifornia, United States, 23 March 2013"
   - url: WebsitePhotos/s_poppies.jpg
     image_path: WebsitePhotos/s_poppies-th.jpg
-    alt: "placeholder image 1"
+    alt: "California poppies"
     title: "California poppies, <i>Eschscholzia californica</i>, west of Ridgecrest, California, United States, 17 April 2010"
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater-th.jpg
-    alt: "placeholder image 1"
+    alt: "Lunar Crater"
     title: "Lunar Crater, Palisade Mesa Wilderness Study Area, Nevada, United States, 26 May 2013"
   - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly-th.jpg
     alt: "Alaska Range from Polychrome Pass"
-    title: "A view of the Alaska Range from Polychrome Pass, Denali National Park, Alaska, United States"
+    title: "A view of the Alaska Range from Polychrome Pass, Denali National Park, Alaska, United States, 22 May 2016"
   - url: WebsitePhotos/s_meadow.jpg
     image_path: WebsitePhotos/s_meadow-th.jpg
-    alt: "placeholder image 1"
+    alt: "Sierra bog orchid Sierra Nevada meadow"
     title: "Sierra bog orchid, <i>Platanthera dilatata</i>, America bistort, <i>Polygonum bistortoides</i>, Indian paintbrush, <i>Castilleja</i> sp., in a meadow, Little Valley, Nevada, United States, 17 July 2011"
   - url: WebsitePhotos/s_capitan.jpg
     image_path: WebsitePhotos/s_capitan-th.jpg
-    alt: "placeholder image 1"
+    alt: "El Capitan"
     title: "El Capitan at dusk, Yosemite National Park, California, United States, 14 January 2012"
   - url: WebsitePhotos/s_tetons.jpg
     image_path: WebsitePhotos/s_tetons-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Grand Tetons"
+    title: "Grand Tetons, Grand Teton National Park, Wyoming, United States, 03 August 2013
   - url: WebsitePhotos/s_sunset.jpg
     image_path: WebsitePhotos/s_sunset-th.jpg
     alt: "Mid Hills sunset"
@@ -288,16 +288,16 @@ gallery_s:
     title: "Kenai Lake, near Cooper Landing, Kenai Penninsula, Alaska, United States, 14 May 2016"
   - url: WebsitePhotos/s_gb.jpg
     image_path: WebsitePhotos/s_gb-th.jpg
-    alt: "placeholder image 1"
-    title: "12 December 2010"
+    alt: "Toiyabe Range from Big Smoky Valley"
+    title: "Toiyabe Range from Big Smoky Valley, Nevada, United States, 12 December 2010"
   - url: WebsitePhotos/s_gbset.jpg
     image_path: WebsitePhotos/s_gbset-th.jpg
-    alt: "placeholder image 1"
-    title: "11 December 2010"
+    alt: "Toquima Range Monitor Valley"
+    title: "Toquima Range from Monitor Valley, Nevada, United States, 11 December 2010"
   - url: WebsitePhotos/s_concep.jpg
     image_path: WebsitePhotos/s_concep-th.jpg
     alt: "placeholder image 1"
-    title: "23 March 2012"
+    title: "Sunset and shoreline looking toward Point Conception, an important biogeogrpahic point, California, 23 March 2012"
   - url: WebsitePhotos/s_dsky.jpg
     image_path: WebsitePhotos/s_dsky-th.jpg
     alt: "Highway 50 sky"
