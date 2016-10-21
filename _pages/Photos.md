@@ -89,6 +89,116 @@ gallery_p:
     image_path: WebsitePhotos/p_peony-th.jpg
     alt: "Brown's peony"
     title: "Brown's peony, <i>Paeonia brownii</i>, Little Valley, Nevada, United States, 29 June 2011"
+
+gallery_a:
+  - url: WebsitePhotos/a_coachwhip.jpg
+    image_path: WebsitePhotos/a_coachwhip-th.jpg
+    alt: "Coachwhip"
+    title: "Coachwhip, <i>Masticophis flagellum</i>, Zzyzx, California, United States, 22 September 2007"
+  - url: WebsitePhotos/a_bison.jpg
+    image_path: WebsitePhotos/a_bison-th.jpg
+    alt: "placeholder image 1"
+    title: "American Bison, <i>Bison bison</i>, Yellowstone National Park, Wyoming, United States, 25 May 2011"
+  - url: WebsitePhotos/a_sloth.jpg
+    image_path: WebsitePhotos/a_sloth-th.jpg
+    alt: "Brown-throated sloth"
+    title: "Brown-throated sloth, <i>Bradypus variegatus</i>, Parque Nacional San Lorenzo, Panama, 09 June 2008"
+  - url: WebsitePhotos/a_destort.jpg
+    image_path: WebsitePhotos/a_destort-th.jpg
+    alt: "Desert tortoise face"
+    title: "Desert tortoise, <i>Gopherus agassizii</i>, Kelbaker Road, Mojave National Preserve, California, United States, 16 March 2011"
+  - url: WebsitePhotos/a_bat.jpg
+    image_path: WebsitePhotos/a_bat-th.jpg
+    alt: "Pallid bat"
+    title: "Pallid bat, <i>Antrozous pallidus</i>, Desert Studies Center, Zzyzx, California, United States, 29 May 2007"
+  - url: WebsitePhotos/a_hemi.jpg
+    image_path: WebsitePhotos/a_hemi-th.jpg
+    alt: "Hemiptera, Parque Nacional San Lorenzo"
+    title: "A member of the insect order Hemiptera, Gamboa, Panama, 13 July 2008"
+  - url: WebsitePhotos/a_krat.jpg
+    image_path: WebsitePhotos/a_krat-th.jpg
+    alt: "Merriam's kangaroo rat"
+    title: "Merriam's kangaroo rat, <i>Dipodomys merriami</i>, Zzyzx, California, United States, 05 May 2007"
+  - url: WebsitePhotos/a_frog.jpg
+    image_path: WebsitePhotos/a_frog-th.jpg
+    alt: "Hourglass treefrog"
+    title: "Hourglass treefrog, <i>Dendropsophus ebraccatus</i>, Gamboa, Panama, 15 July 2008"
+  - url: WebsitePhotos/a_tama.jpg
+    image_path: WebsitePhotos/a_tama-th.jpg
+    alt: "Geoffroy's tamarin"
+    title: "Geoffroy's tamarin, <i>Saguinus geoffroyi</i>, Gamboa, Panama, 20 July 2008"
+  - url: WebsitePhotos/a_whoop.jpg
+    image_path: WebsitePhotos/a_whoop-th.jpg
+    alt: "placeholder image 1"
+    title: "Common Poorwill, <i>Phalaenoptilus nuttallii</i>,  Loch Leven Lakes, Sierra Nevada, California, United States, 20 August 2011"
+  - url: WebsitePhotos/a_sageliz.jpg
+    image_path: WebsitePhotos/a_sageliz-th.jpg
+    alt: "Sagebrush lizard"
+    title: "Sagebrush lizard, <i>Sceloporus graciosus</i>, Zzyzx, California, United States, 30 September 2006"
+  - url: WebsitePhotos/a_uta.jpg
+    image_path: WebsitePhotos/a_uta-th.jpg
+    alt: "Western side-blotched lizard"
+    title: "Western side-blotched lizard, <i>Uta stansburiana</i>, Zzyzx, California, United States, 26 April 2008"
+  - url: WebsitePhotos/a_owl.jpg
+    image_path: WebsitePhotos/a_owl-th.jpg
+    alt: "Short-earde Owl"
+    title: "Short-earde Owl, <i>Asio flammeus</i>, Twinlakes Road, Bridgeport, California, United States, 14 December 2011"
+  - url: WebsitePhotos/a_garter.jpg
+    image_path: WebsitePhotos/a_garter-th.jpg
+    alt: "Mountain gartersnake"
+    title: "Mountain gartersnake, <i>Thamnophis elegans</i>, Little Valley, Nevada, United States, 02 June 2012"
+  - url: WebsitePhotos/a_tigermoth.jpg
+    image_path: WebsitePhotos/a_tigermoth-th.jpg
+    alt: "Tiger moth"
+    title: "Tiger moth in the Arctiidae family, Little Valley, Nevada, United States, 02 June 2012"
+  - url: WebsitePhotos/a_bslug.jpg
+    image_path: WebsitePhotos/a_bslug-th.jpg
+    alt: "Banana slug"
+    title: "Banana slug, <i>Ariolimax</i> sp., Santa Cruz, California, United States, 23 June 2012"
+  - url: WebsitePhotos/a_lepliz.jpg
+    image_path: WebsitePhotos/a_lepliz-th.jpg
+    alt: "Long-nosed leopard lizard"
+    title: "Long-nosed leopard lizard, <i>Gambelia wislizenii</i>, Highway 6, central Nevada, United States, 26 May 2013"
+  - url: WebsitePhotos/a_tigerbutt.jpg
+    image_path: WebsitePhotos/a_tigerbutt-th.jpg
+    alt: "Pale swallowtail"
+    title: "Pale swallowtail, <i>Papilio eurymedon</i>, Little Valley, Nevada, United States, 15 June 2012"
+  - url: WebsitePhotos/a_hyla.jpg
+    image_path: WebsitePhotos/a_hyla-th.jpg
+    alt: "Sierran Treefrog"
+    title: "Sierran Treefrog, <i>Pseudacris sierra</i>, Little Valley, Nevada, United States, 15 June 2012"
+  - url: WebsitePhotos/a_blue.jpg
+    image_path: WebsitePhotos/a_blue-th.jpg
+    alt: "Male greenish blue"
+    title: "Male greenish blue butterfly, <i>Plebejus saepiolus</i>, Little Valley, Nevada, United States, 15 June 2012"
+  - url: WebsitePhotos/a_bluemate.jpg
+    image_path: WebsitePhotos/a_bluemate-th.jpg
+    alt: "Mating greenish blue butterflies"
+    title: "Mating greenish blue butterflies, <i>Plebejus saepiolus</i>, Little Valley, Nevada, United States, 15 June 2012"
+  - url: WebsitePhotos/a_sheepmoth.jpg
+    image_path: WebsitePhotos/a_sheepmoth-th.jpg
+    alt: "Western sheepmoth"
+    title: "Western sheepmoth, <i>Hemileuca eglanterina</i>, Little Valley, Nevada, United States, 22 June 2012"
+  - url: WebsitePhotos/a_2tail.jpg
+    image_path: WebsitePhotos/a_2tail-th.jpg
+    alt: "Two-tailed swallowtail"
+    title: "Two-tailed swallowtail, <i>Papilio multicaudata</i>, Austin, Nevada, United States, 25 May 2013"
+  - url: WebsitePhotos/a_fairies.jpg
+    image_path: WebsitePhotos/a_fairies-th.jpg
+    alt: "Flies or fairies"
+    title: "Flies or fairies, whatever were buzzing around our headlights while we were making camp near a lake in Idaho, United States, 02 August 2013"
+  - url: WebsitePhotos/a_greenbeet.jpg
+    image_path: WebsitePhotos/a_greenbeet-th.jpg
+    alt: "placeholder image 1"
+    title: "Will Lumpkin's beetle collection, Reno, Nevada, United States, 25 January 2013"
+  - url: WebsitePhotos/a_butt.jpg
+    image_path: WebsitePhotos/a_butt-th.jpg
+    alt: "Matt Forister's butterfly collection"
+    title: "Matt Forister's butterfly collection, Reno, Nevada, United States, 29 January 2013"
+  - url: WebsitePhotos/a_dragon.jpg
+    image_path: WebsitePhotos/a_dragon-th.jpg
+    alt: "Odonata attracted with a Mercury vapor lamp"
+    title: "A member of the insect order Odonata attracted with a Mercury vapor lamp, Desert Studies Center, Zzyzx, California, United States, 28 September 2007"
 ---
 <a name="top"></a>
 
