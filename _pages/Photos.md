@@ -316,7 +316,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
     image_path: WebsitePhotos/fw_exclosure-th.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    title: "Experimental excoluse to prevent rodents from entering, but allowing other vertebrates to access greenleaf manzanita, <i>Arctostaphylos patula</i>, fruits, Little Valley, Nevada, United States, "
   - url: WebsitePhotos/fw_data.jpg
     image_path: WebsitePhotos/fw_data-th.jpg
     alt: "placeholder image 1"
