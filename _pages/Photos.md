@@ -199,6 +199,56 @@ gallery_a:
     image_path: WebsitePhotos/a_dragon-th.jpg
     alt: "Odonata attracted with a Mercury vapor lamp"
     title: "A member of the insect order Odonata attracted with a Mercury vapor lamp, Desert Studies Center, Zzyzx, California, United States, 28 September 2007"
+
+gallery_o:
+  - url: WebsitePhotos/o_lichen.jpg
+    image_path: WebsitePhotos/o_lichen-th.jpg
+    alt: "Lichen"
+    title: "Lichens are a makeup of two or more mutualistic symbiotic organisms, Fallon, Nevada, United States, 16 May 2013"
+  - url: WebsitePhotos/o_pollination.jpg
+    image_path: WebsitePhotos/o_pollination-th.jpg
+    alt: "Purple sage pollination"
+    title: "A member of the insect order Hymenoptera ostensibly pollinating a purple sage, <i>Salvia dorrii</>, Sierra San Pedro M&aacute;rtir, Mexico, 16 July 2009"
+  - url: WebsitePhotos/o_herbs.jpg
+    image_path: WebsitePhotos/o_herbs-th.jpg
+    alt: "Blue beetles as herbivores"
+    title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama, 20 June 2008"
+  - url: WebsitePhotos/o_antaphids.jpg
+    image_path: WebsitePhotos/o_antaphids-th.jpg
+    alt: "ants tending aphids"
+    title: "Ants tending aphids, Little Valley, Nevada, United States, 16 July 2011"
+  - url: WebsitePhotos/o_nohead.jpg
+    image_path: WebsitePhotos/o_nohead-th.jpg
+    alt: "Souther grasshopper mouse eats beetke"
+    title: "Post-predeation event by the southern grasshopper mouse, <i>Onychomys torridus</i>, where it placed the abdomen of a pinacate beetle, <i>Eleodes</i> sp., into the ground so it would not release malodorous secretion and the mouse can just eat its head and thorax, Zzyzx, California, United States, 30 September 2007"
+  - url: WebsitePhotos/o_AKmush.jpg
+    image_path: WebsitePhotos/o_AKmush-th.jpg
+    alt: "Alaska fungi"
+    title: "Some fungi, Lowell Point, Kenai Peninsula, Alaska, United States, 17 May 2016"
+  - url: WebsitePhotos/o_bistort.jpg
+    image_path: WebsitePhotos/o_bistort-th.jpg
+    alt: "Beetle and bistort"
+    title: "A member of the insect order Coleoptera interacting with a flower of an American bistort, <i>Polygonum bistortoides</i>, Little Valley, Nevada, United States, 13 July 2011"
+  - url: WebsitePhotos/o_lady.jpg
+    image_path: WebsitePhotos/o_lady-th.jpg
+    alt: "Common Buckeye on a meadow penstemon"
+    title: "Common Buckeye, <i>Junonia coenia</i>, on a meadow penstemon, <i>Penstemon rydbergii</i>, Little Valley, Nevada, United States, 16 July 2011"
+  - url: WebsitePhotos/o_comma.jpg
+    image_path: WebsitePhotos/o_comma-th.jpg
+    alt: "comma butterfly and bigleaf lupine"
+    title: "A comma butterfly, <i>Polygonia comma</i>, on a bigleaf lupine, <i>Lupinus polyphyllus</i>, Little Valley, Nevada, United States, 17 July 2011"
+  - url: WebsitePhotos/o_fungi.jpg
+    image_path: WebsitePhotos/o_fungi-th.jpg
+    alt: "Fungi, Hinckley Reservation, Ohio"
+    title: "Fungi, Hinckley Reservation, Ohio, United States, 25 October 2014"
+  - url: WebsitePhotos/o_puff.jpg
+    image_path: WebsitePhotos/o_puff-th.jpg
+    alt: "Puffball Mojave Desert"
+    title: "An emerging Basidomycete, Mid Hills, Mojave National Preserve, California, United States, 06 October 2007"
+  - url: WebsitePhotos/o_beechamise.jpg
+    image_path: WebsitePhotos/o_beechamise-th.jpg
+    alt: "Honey bee on chamise"
+    title: "A honey bee, <i>Apis mellifera</i> looking really confused on a chamice flower, <i>Adenostoma fasciculatum</i>15 June 2009"
 ---
 <a name="top"></a>
 
