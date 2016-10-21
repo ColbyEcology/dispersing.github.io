@@ -189,11 +189,11 @@ gallery_a:
   - url: WebsitePhotos/a_greenbeet.jpg
     image_path: WebsitePhotos/a_greenbeet-th.jpg
     alt: "placeholder image 1"
-    title: "Will Lumpkin's beetle collection, 25 January 2013"
+    title: "Will Lumpkin's beetle collection, Reno, Nevada, United States, 25 January 2013"
   - url: WebsitePhotos/a_butt.jpg
     image_path: WebsitePhotos/a_butt-th.jpg
     alt: "Matt Forister's butterfly collection"
-    title: "Matt Forister's butterfly collection, Reno, Nevada, United States 29 January 2013"
+    title: "Matt Forister's butterfly collection, Reno, Nevada, United States, 29 January 2013"
   - url: WebsitePhotos/a_dragon.jpg
     image_path: WebsitePhotos/a_dragon-th.jpg
     alt: "Odonata attracted with a Mercury vapor lamp"
@@ -214,15 +214,15 @@ gallery_o:
     title: "Herbivores of the insect order Coleoptera, Parque Nacional San Lorenzo, Panama, 20 June 2008"
   - url: WebsitePhotos/o_antaphids.jpg
     image_path: WebsitePhotos/o_antaphids-th.jpg
-    alt: "placeholder image 1"
-    title: "16 July 2011"
+    alt: "ants tending aphids"
+    title: "Ants tending aphids, Little Valley, Nevada, United States, 16 July 2011"
   - url: WebsitePhotos/o_nohead.jpg
     image_path: WebsitePhotos/o_nohead-th.jpg
     alt: "Souther grasshopper mouse eats beetke"
     title: "Post-predeation event by the southern grasshopper mouse, <i>Onychomys torridus</i>, where it placed the abdomen of a pinacate beetle, <i>Eleodes</i> sp., into the ground so it would not release malodorous secretion and the mouse can just eat its head and thorax, Zzyzx, California, United States, 30 September 2007"
   - url: WebsitePhotos/o_AKmush.jpg
     image_path: WebsitePhotos/o_AKmush-th.jpg
-    alt: "placeholder image 1"
+    alt: "Alaska fungi"
     title: "Some fungi, Lowell Point, Kenai Peninsula, Alaska, United States, 17 May 2016"
   - url: WebsitePhotos/o_bistort.jpg
     image_path: WebsitePhotos/o_bistort-th.jpg
@@ -230,7 +230,7 @@ gallery_o:
     title: "A member of the insect order Coleoptera interacting with a flower of an American bistort, <i>Polygonum bistortoides</i>, Little Valley, Nevada, United States, 13 July 2011"
   - url: WebsitePhotos/o_lady.jpg
     image_path: WebsitePhotos/o_lady-th.jpg
-    alt: "placeholder image 1"
+    alt: "Common Buckeye on a meadow penstemon"
     title: "Common Buckeye, <i>Junonia coenia</i>, on a meadow penstemon, <i>Penstemon rydbergii</i>, Little Valley, Nevada, United States, 16 July 2011"
   - url: WebsitePhotos/o_comma.jpg
     image_path: WebsitePhotos/o_comma-th.jpg
@@ -238,15 +238,15 @@ gallery_o:
     title: "A comma butterfly, <i>Polygonia comma</i>, on a bigleaf lupine, <i>Lupinus polyphyllus</i>, Little Valley, Nevada, United States, 17 July 2011"
   - url: WebsitePhotos/o_fungi.jpg
     image_path: WebsitePhotos/o_fungi-th.jpg
-    alt: "placeholder image 1"
+    alt: "Fungi, Hinckley Reservation, Ohio"
     title: "Fungi, Hinckley Reservation, Ohio, United States, 25 October 2014"
   - url: WebsitePhotos/o_puff.jpg
     image_path: WebsitePhotos/o_puff-th.jpg
-    alt: "placeholder image 1"
+    alt: "Puffball Mojave Desert"
     title: "An emerging Basidomycete, Mid Hills, Mojave National Preserve, California, United States, 06 October 2007"
   - url: WebsitePhotos/o_beechamise.jpg
     image_path: WebsitePhotos/o_beechamise-th.jpg
-    alt: "placeholder image 1"
+    alt: "Honey bee on chamise"
     title: "A honey bee, <i>Apis mellifera</i> looking really confused on a chamice flower, <i>Adenostoma fasciculatum</i>15 June 2009"
 
 gallery_s:
@@ -261,6 +261,11 @@ gallery_s:
   - url: WebsitePhotos/s_crater.jpg
     image_path: WebsitePhotos/s_crater-th.jpg
     alt: "Lunar Crater"
+    alt: "California poppies Mojave Desert"
+    title: "California poppies, <i>Eschscholzia californica</i>, west of Ridgecrest, California, United States, 17 April 2010"
+  - url: WebsitePhotos/s_crater.jpg
+    image_path: WebsitePhotos/s_crater-th.jpg
+    alt: "Lunar Crater Nevada"
     title: "Lunar Crater, Palisade Mesa Wilderness Study Area, Nevada, United States, 26 May 2013"
   - url: WebsitePhotos/s_poly.jpg
     image_path: WebsitePhotos/s_poly-th.jpg
