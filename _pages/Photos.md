@@ -316,11 +316,11 @@ gallery_fw:
   - url: WebsitePhotos/fw_exclosure.jpg
     image_path: WebsitePhotos/fw_exclosure-th.jpg
     alt: "placeholder image 1"
-    title: "Experimental excoluse to prevent rodents from entering, but allowing other vertebrates to access greenleaf manzanita, <i>Arctostaphylos patula</i>, fruits, Little Valley, Nevada, United States, "
+    title: "Experimental excoluse to prevent rodents from entering, but allowing other vertebrates to access greenleaf manzanita, <i>Arctostaphylos patula</i>, fruits, Little Valley, Nevada, United States, 10 Septermber 2010"
   - url: WebsitePhotos/fw_data.jpg
     image_path: WebsitePhotos/fw_data-th.jpg
-    alt: "placeholder image 1"
-    title: "28 March 2012"
+    alt: "Data sheet"
+    title: "Data sheet, collection from San Francisco, California, United States, 28 March 2012"
   - url: WebsitePhotos/jpgw_plot.p
     image_path: WebsitePhotos/fw_plot-th.jpg
     alt: "Toothpick fieldwork"
@@ -355,32 +355,32 @@ gallery_fw:
     title: "Radioactively-labeled seeds for my research at the University of Nevada, Reno, Nevada, United States, 30 September 2011"
   - url: WebsitePhotos/fw_geiger.jpg
     image_path: WebsitePhotos/fw_geiger-th.jpg
-    alt: "placeholder image 1"
+    alt: "Radioactive seeds Geiger counter"
     title: "Locating dispersed radioactively-labeled seeds using a Geiger counter, Little Valley, Nevada, United States, 17 October 2010"
   - url: WebsitePhotos/fw_holland.jpg
     image_path: WebsitePhotos/fw_holland-th.jpg
-    alt: "placeholder image 1"
+    alt: "Wood mouse Schiermonnikoog"
     title: "Processing a captured wood mouse, <i>Apodemus sylvaticus</i>, Schiermonnikoog, Netherlands, 22 December 2008"
   - url: WebsitePhotos/fw_burn.jpg
     image_path: WebsitePhotos/fw_burn-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Experimental burn"
+    title: "Experimental burn, Little Valley, Nevada, United States, 27 November 2012"
   - url: WebsitePhotos/fw_crane.jpg
     image_path: WebsitePhotos/fw_crane-th.jpg
-    alt: "placeholder image 1"
-    title: "11 June 2008"
+    alt: "Canopy crane Panama"
+    title: "Working in a canopy crane, Parque Nacional San Lorenzo, Panama, 11 June 2008"
   - url: WebsitePhotos/fw_kratseeds.jpg
     image_path: WebsitePhotos/fw_kratseeds-th.jpg
-    alt: "placeholder image 1"
-    title: "28 June 2006"
+    alt: "Panamint kangaroo rat"
+    title: "A captured Panamint kangaroo rat, <i>Dipodomys panamintinus</i>, with external fur-lined cheek pouches filled with the seeds we used to bait the trap, Mid Hills, California, United States, 28 June 2006"
   - url: WebsitePhotos/fw_fluor.jpg
     image_path: WebsitePhotos/fw_fluor-th.jpg
     alt: "Fluorescent powder to track seeds"
     title: "Using fluorescent powder to track seeds dispersed by rodents in the Sierra San Pedro M&aacute;rtir, Mexico, 14 July 2009"
   - url: WebsitePhotos/fw_coldes.jpg
     image_path: WebsitePhotos/fw_coldes-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Anza-Borrego botany"
+    title: "Botanizing in Anza-Borrego, California, United States, 17 March 2011"
   - url: WebsitePhotos/fw_beet.jpg
     image_path: WebsitePhotos/fw_beet-th.jpg
     alt: "Beetle and Josh"
@@ -395,12 +395,12 @@ gallery_fw:
     title: "Chris with Sue, the the largest, most complete, and best preserved <i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Purple sage accession"
+    title: "My collection and accession UC1973803 at Jepson Herbarium, purple sage,  <i>Salvia dorrii</i>, collected from Nevada, United States, 03 June 2009"
   - url: WebsitePhotos/fw_snake.jpeg
     image_path: WebsitePhotos/fw_snake-th.jpeg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+    alt: "Striped whipsnake Berlin-Ichthyosaur State Park"
+    title: "Striped whipsnake, <i>Masticophis taeniatus</i>, Berlin-Ichthyosaur State Park, Nevada, United States, May Day 2010"
   - url: WebsitePhotos/fw_merriam.jpg
     image_path: WebsitePhotos/fw_merriam-th.jpg
     alt: "Captured Merriam's kangaroo rat"
