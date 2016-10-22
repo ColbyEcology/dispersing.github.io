@@ -450,8 +450,6 @@ gallery_m:
 ---
 <a name="top"></a>
 
-This page is under construction.  None of the images have alt. text nor do they have captions.  Some of the full-size images are too large and 
-
 Jump to&#58; [Plants](#plants), [Animals](#animals), [Other and multiple organisms](#orgs), [Landscapes](#scapes), [Field Work](#fw), or [Manzanitas](#manz).
 
 <a name="plants"></a>
