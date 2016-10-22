@@ -392,7 +392,7 @@ gallery_fw:
   - url: WebsitePhotos/fw_sue.jpg
     image_path: WebsitePhotos/fw_sue-th.jpg
     alt: "Chris and T. rex"
-    title: "Chris with Sue, the the largest, most complete, and best preserved <i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States"
+    title: "Chris with Sue, the the largest, most complete, and best preserved <i>Tyrannosaurus rex</i> ever discovered, Field Museum, Chicago, Illinois, United States, 29 June 2013"
   - url: WebsitePhotos/fw_accession.jpeg
     image_path: WebsitePhotos/fw_accession-th.jpeg
     alt: "Purple sage accession"
@@ -418,11 +418,11 @@ gallery_m:
   - url: WebsitePhotos/m_pringlei.jpg
     image_path: WebsitePhotos/m_pringlei-th.jpg
     alt: "placeholder image 1"
-    title: "31 March 2012"
+    title: "Pringle manzanita, <i>Arctostaphylos pringlei</i> ssp. <i>pringlei</i>, with an impressive display of its inflorescences, San Jacinto, California, United States, 31 March 2012"
   - url: WebsitePhotos/m_gland.jpg
     image_path: WebsitePhotos/m_gland-th.jpg
-    alt: "placeholder image 1"
-    title: "31 March 2012"
+    alt: "Glandular haris Pringle manzanita"
+    title: "Glandular haris, Pringle manzanita, <i>Arctostaphylos pringlei</i> ssp. <i>pringlei</i>, San Jacinto, California, 31 March 2012"
   - url: WebsitePhotos/m_fruit.jpg
     image_path: WebsitePhotos/m_fruit-th.jpg
     alt: "Bonny Doon manzanita fruits"
