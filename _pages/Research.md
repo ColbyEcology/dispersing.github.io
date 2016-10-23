@@ -35,7 +35,7 @@ Dispersal describes the spatial or temporal displacement of organisms.  All life
 
 I also co-developed the North American Seed Dispersal Project, where we quantified range and distributional characteristics of plant species across the continent by different vectors of dispersal ([Vander Wall and Moore, <i>Global Eco. and Biogeog.</i>, 2016](/Publications)) and how that relates to the animals that disperse them (Dittel, Moore, and Vander Wall, in prep.).
 
-I have also pursued several modeling projects to look at population dynamics and disease in a spatial-modeling context (see a few blogs on it: [here](/2016-06-10-Hexagons.html) and [here](/Blog/2016-06-14-DynamicHexagonsInR.html)).
+I have also pursued several modeling projects to look at population dynamics and disease in a spatial-modeling context (see a few blogs on it: [here](Hexagons) and [here](/Blog/2016-06-14-DynamicHexagonsInR.html)).
 
 [Back to top](#top)
 
@@ -46,7 +46,7 @@ I have become increasingly interested in the use of computational tools to bette
 
 I have a [GitHub](https://github.com/dispersing) site where I try to openly develop, share, and help others develop software.  Most prominently, I have co-developed a package in [R](https://www.r-project.org) called **QPot** that is a tool analyze two-dimensional stochastic differential equations.  It can be found on [CRAN](https://cran.r-project.org/web/packages/QPot/index.html) or [GitHub](https://github.com/bmarkslash7/QPot), and its associated accepted paper on [The R Journal](https://journal.r-project.org/archive/accepted/)'s website or my [Publications page](/Publications).
 
-I am currently working on a spatial modeling project and in the process of creating R's first library for creating hexagonal lattices and spatial modeling.  Below is a spatially structured, two-host disease model, with each host a different color and the brightness of the color being the relative density of infection. For more information, here's a short blog post on the inspiration and process: [link](Blog/Hexagons.html).
+I am currently working on a spatial modeling project and in the process of creating R's first library for creating hexagonal lattices and spatial modeling.  Below is a spatially structured, two-host disease model, with each host a different color and the brightness of the color being the relative density of infection. For more information, here's a short blog post on the inspiration and process: [link](/Hexagons).
 
 <video width="320" height="320" controls>
     <source src="/images/hex_r5.mp4" type="video/mp4">
