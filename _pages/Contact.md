@@ -7,15 +7,15 @@ permalink: /Contact/
 ## Mail
 
 ### Email
-life.dispersing [the appropriate ending for a gmail address]
+life.dispersing [the appropriate ending for a gmail address]</br>
 cmm225 [the appropriate ending for a CWRU email address]
 
 ### Snail mail
-Case Western Reserve University
-Department of Biology
-DeGrace Hall
-2080 Adelbert Road
-Cleveland, Ohio 44106, United States |
+Case Western Reserve University</br>
+Department of Biology</br>
+DeGrace Hall</br>
+2080 Adelbert Road</br>
+Cleveland, Ohio 44106, United States
 
 ## Social media
 
