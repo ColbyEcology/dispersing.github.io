@@ -6,8 +6,9 @@ permalink: /Contact/
 ---
 ## Mail
 
-* Email life.dispersing [the appropriate ending for a gmail address]
-⋅⋅⋅⋅⋅⋅* cmm225 [the appropriate ending for a CWRU email address]		  |
+### Email
+* life.dispersing [the appropriate ending for a gmail address]
+* cmm225 [the appropriate ending for a CWRU email address]		  |
 |Snail mail    | Case Western Reserve University<br/>Department of Biology<br/>DeGrace Hall<br/>2080 Adelbert Road<br/>Cleveland, Ohio 44106, United States |
 
 ## Social media
