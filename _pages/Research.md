@@ -33,7 +33,7 @@ For the past two years I have been working with [Karen Abbott](http://www.case.e
 ## Dispersal and spatial ecology&#58; the consequences ecology happening in two dimensions
 Dispersal describes the spatial or temporal displacement of organisms.  All life as we know it disperses: some organisms actively seek new habitats, some organisms are passively dispersed to new habitats, and some organisms remain inactive or suspended until conditions are right, which is dispersal through time.  A major part of my research interests is understanding **how dispersal effects ecological and evolutionary dynamics**.  For my dissertation, I described a mechanism for dispersal for a species of plant that was previously unknown ([Moore and Vander Wall, *Plant Eco.*, 2015](/Publications)).  This made me become more interested in the relationship between disperser behaviour and patterns of seed deposition.
 
-I also co-developed the North American Seed Dispersal Project, where we quantified range and distributional characteristics of plant species across the continent by different vectors of dispersal ([Vander Wall and Moore, <i>Global Eco. and Biogeog.</i>, early view](/Publications)) and how that relates to the animals that disperse them (Dittel, Moore, and Vander Wall, in prep.).
+I also co-developed the North American Seed Dispersal Project, where we quantified range and distributional characteristics of plant species across the continent by different vectors of dispersal ([Vander Wall and Moore, <i>Global Eco. and Biogeog.</i>, 2016](/Publications)) and how that relates to the animals that disperse them (Dittel, Moore, and Vander Wall, in prep.).
 
 I have also pursued several modeling projects to look at population dynamics and disease in a spatial-modeling context.
 
@@ -46,7 +46,7 @@ I have become increasingly interested in the use of computational tools to bette
 
 I have a [GitHub](https://github.com/dispersing) site where I try to openly develop, share, and help others develop software.  Most prominently, I have co-developed a package in [R](https://www.r-project.org) called **QPot** that is a tool analyze two-dimensional stochastic differential equations.  It can be found on [CRAN](https://cran.r-project.org/web/packages/QPot/index.html) or [GitHub](https://github.com/bmarkslash7/QPot), and its associated accepted paper on [The R Journal](https://journal.r-project.org/archive/accepted/)'s website or my [Publications page](/Publications).
 
-I am currently working on a spatial modeling project and in the process of creating R's first library for creating hexagonal lattices and spatial modeling.  Below is a spatially structured, two-host disease model, with each host a different color and the brightness of the color being the relative density of infection. For more information, here's a short blog post on the inspiration and process: [link](/Hexagons.html).
+I am currently working on a spatial modeling project and in the process of creating R's first library for creating hexagonal lattices and spatial modeling.  Below is a spatially structured, two-host disease model, with each host a different color and the brightness of the color being the relative density of infection. For more information, here's a short blog post on the inspiration and process: [link](Blog/Hexagons.html).
 
 <video width="320" height="320" controls>
     <source src="/images/hex_r5.mp4" type="video/mp4">
