@@ -67,6 +67,4 @@ SOFTWARE.
 
 | **Year** <br>  **Author(s)** <br> **Journal** | **Title** <br> **Link** | **Print** | **Code** | **Data** | **Notes** |
 |:----------------------------------------------|:------------------------|-----------|----------|----------|-----------|
-| Accepted      | QPot: An R Package for the Analysis of Two-Dimensional Stochastic Differential Equations |||||
-|  C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, and K.C. Abbott ||||||
-| The R Journal  |  [Link](https://journal.r-project.org/archive/accepted/nolting-moore-stieha-etal.pdf) | [Preprint](/Publications/preprints/Moore_et_al._2016.pdf)  | [CRAN](https://cran.r-project.org/package=QPot), [GitHub](https://github.com/bmarkslash7/QPot)  |   | R package: ![alt text](https://cranlogs.r-pkg.org/badges/grand-total/QPot "Badge") |
+| Accepted <br> C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, and K.C. Abbott <br> The R Journal | QPot: An R Package for the Analysis of Two-Dimensional Stochastic Differential Equations <br> [Link](https://journal.r-project.org/archive/accepted/nolting-moore-stieha-etal.pdf) | [Preprint](/Publications/preprints/Moore_et_al._2016.pdf) | [CRAN](https://cran.r-project.org/package=QPot), [GitHub](https://github.com/bmarkslash7/QPot) | | R package: ![alt text](https://cranlogs.r-pkg.org/badges/grand-total/QPot "Badge") |
