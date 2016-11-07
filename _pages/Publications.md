@@ -18,6 +18,13 @@ author_profile: true
 | 2105  | Scatter-hoarding rodents disperse seeds to safe sites in a fire-prone ecosystem	| C.M. Moore and S.B. Vander Wall	 | Plant Ecology	 | [Link](http://link.springer.com/article/10.1007/s11258-015-0497-1)  | [Reprint](/Publications/reprints/Moore_and_Vander_Wall_2015.pdf)  | [Link](https://github.com/dispersing/2DKernSim)  |   |
 | 2102  | Jeffrey Pine Seed Dispersal in the Sierra San Pedro M&aacute;rtir, Baja California, Mexico	  | S.B. Vander Wall, M.S. Enders, S. Barga, C.M. Moore, A. Seaman, and R. Perea	  | Western North American Naturalist	  | [Link](https://ojs.lib.byu.edu/spc/index.php/wnan/article/view/27233)  | [Reprint](/Publications/reprints/Vander_Wall_et_al._2012.pdf)  |   |   |
 
+## Software
+
+| **Year**  | **Title**  | **Author(s)**  | **Environment**  | **Link**  | **Notes**  |
+|-----------|------------|----------------|------------------|-----------|------------|
+| 2015 | QPot: Quasi-Potential Analysis for Stochastic Differential Equations	 | C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, K.C. Abbott, J. Gregson | [R](https://www.r-project.org/) | [CRAN](https://cran.r-project.org/web/packages/QPot/index.html) [GitHub](https://github.com/bmarkslash7/QPot) | version 1.1 |
+
+
 ## Other publications
 
 | **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Notes**  |
