@@ -1,9 +1,9 @@
 ---
-title: Verhulst's original paper
+title: Verhulst's original formulation of the logistic equation
 ---
 
-I was recently reading Verhult's original paper in *Correspondance mathematique et physique, Vol. X* (1838), entitled *Notice sur la loi que la
-populations suit dans son accroissement* Here's a link in to the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I went to it to confirm that when he formulated the equation, that it did not include $$K$$, as often mis-cited in ecology papers and books.  In the paper below, he bridges Malthusian growth with a second-order (and higher) parameter that retards growth.<sup>2</sup>
+I was recently reading Verhulst's original paper in *Correspondance mathematique et physique, Vol. X* (1838), entitled *Notice sur la loi que la
+populations suit dans son accroissement*.  Here's a link in to the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I went to it to confirm that when he formulated the equation, that it did not include $$K$$, as often mis-cited in ecology papers and books.  In the paper below, he bridges Malthusian growth, $$m$$ with a second-order (and higher) parameter that retards growth, $$\varphi p$$.<sup>2</sup>
 
 <hr>
 
