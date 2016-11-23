@@ -25,7 +25,8 @@ The growth of the population necessarily has a limit, if only in the extent of t
 
 I have tried for a long time to determine by analysis a probability law of population; but I have abandoned this type of research because the available data is too limited to allow the verification of my formula, so as to have no question about its accuracy.  However, the course which I followed seemed to lead me to the understanding of the actual law, which when sufficient data becomes available, will support my speculations.  Therefore, I thought it proper to acquiesce to the invitation of Mr. *Quetelet* and to present them in this article.
 
-It \(p\) is the population, then \(dp\) is an infinitesimally small increase that is received in a very short period of time $dt$.  If the population increase by geometric progression, we would have the equations $dp/dt = mp$.  However, as the rate of population growth is slowed by the very increase in the number of inhabitants, we must subtract from $mp$ an unknown of $p$, so that the formula to be integrated can be written as
+It $$p$$ is the population, then $$dp$$ is an infinitesimally small increase that is received in a very short period of time $dt$.  If the population increase by geometric progression, we would have the equations $$dp/dt = mp$$.  However, as the rate of population growth is slowed by the very increase in the number of inhabitants, we must subtract from $$mp$$ an unknown of $$p$$, so that the formula to be integrated can be written as
+
 $$
 \frac{dp}{dt} = mp - \phi (p)
 $$
