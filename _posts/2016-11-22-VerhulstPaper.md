@@ -3,7 +3,7 @@ title: Verhulst's original paper
 ---
 
 I was recently reading Verhult's original paper in *Correspondance mathematique et physique, Vol. X* (1838), entitled *Notice sur la loi que la
-populations suit dans son accroissement* Here's a link in to the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I went to it to confirm that when he formulated the equation, that it did not include $K$, as often mis-cited in ecology papers and books.  In the paper below, he bridges Malthusian growth with a second-order (and higher) parameter that retards growth.<sup>2</sup>
+populations suit dans son accroissement* Here's a link in to the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I went to it to confirm that when he formulated the equation, that it did not include $$K$$, as often mis-cited in ecology papers and books.  In the paper below, he bridges Malthusian growth with a second-order (and higher) parameter that retards growth.<sup>2</sup>
 
 <hr>
 
@@ -34,7 +34,7 @@ $$
 The simplest hypothesis that can be made on the form of the function $$\varphi$$ is to suppose that $$\varphi (p) = np^2$$.  Then the integral of the above equation is found to be
 
 $$
-t = \frac{1}{m}[\log.p - \log.(m-np)] + Constant
+t = \frac{1}{m}[\log.p - \log.(m-np)] + \text{Constant}
 $$
 
 and three observations will be sufficient to determine the two coefficients constants $$m$$ and $$n$$ and the arbitrary constant.
@@ -45,7 +45,7 @@ $$
 p = \frac{mp'e^{mt}}{np'e^{mt} + m - np'}
 $$
 
-where $$p'$$ designates the population at the boundary condition, $$t = 0$$, and $e$ is the base of napierian logarithms.  If we put $$t = \infty$$, we see that the corresponding value of $$p$$ is $$P = m/n$$.  This is, therefore, the upper limit of the population.
+where $$p'$$ designates the population at the boundary condition, $$t = 0$$, and $$e$$ is the base of napierian logarithms.  If we put $$t = \infty$$, we see that the corresponding value of $$p$$ is $$P = m/n$$.  This is, therefore, the upper limit of the population.
 
 I tried successively:
 
@@ -62,4 +62,5 @@ I calculated some tables which follow from equation (1).  The figures for France
 I will remark in passing that the table which concerns France seems to show that the formula is very accurate, as the observations deal with larger numbers and were carried out more carefully.  Nevertheless, the future alone will be able to reveal to us the true method of operation of the retarding force which we have represented by $$\varphi p$$.
 
 <sup>1</sup>*Essai de physique sociale*, tome 1<sup>er</sup>, p.277.
-<sup>2</sup>Tables not shown in this document
+
+<sup>2</sup>Tables not shown in this document; emphases are Verhulst's
