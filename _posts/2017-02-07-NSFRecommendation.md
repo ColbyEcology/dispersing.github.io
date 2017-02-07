@@ -1,0 +1,5 @@
+---
+title: NSF proposal recommended for funding
+---
+
+A team at Syracuse University and I were recommended for funding by the National Science Foundation!  [Kari Segraves](http://segraveslab.syr.edu/), [David Althoff](http://althofflab.syr.edu/), myself, and [David Rivers](http://asfaculty.syr.edu/pages/bio/Rivers-David.html) were funded through the Population and Community Ecology Core Program in the Division of Environmental Biology, for the project *Ecological dynamics of multi-mutualist communities*.  This work will be testing testing hypotheses about the population and community ecology and evolution of mutualism using a synthetically-devised mutualist populations of yeast, which reciprocally over-produce and fail to produce different amino acids needed for survival.  This is fantastic news, which will likely mean that I will be working in the lab at Syracuse University soon!
