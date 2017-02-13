@@ -8,7 +8,7 @@ author_profile: true
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-| In review | Population dynamics of mutualism and intraspecific density dependence: how $\theta$-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Theoretical Ecology  |  [bioRxiv](http://biorxiv.org/content/early/2017/02/13/108175) | [Preprint](/Publications/preprints/Moore_et_al._IntraDDMut.pdf)  | Coming soon | | |
+| In review | Population dynamics of mutualism and intraspecific density dependence: how &theta;-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Theoretical Ecology  |  [bioRxiv](http://biorxiv.org/content/early/2017/02/13/108175) | [Preprint](/Publications/preprints/Moore_et_al._IntraDDMut.pdf)  | Coming soon | | |
 | Accepted  | QPot: An R Package for the Analysis of Two-Dimensional Stochastic Differential Equations   |  C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, and K.C. Abbott | The R Journal  |  [Link](https://journal.r-project.org/archive/accepted/nolting-moore-stieha-etal.pdf) | [Preprint](/Publications/preprints/Moore_et_al._2016.pdf)  | [CRAN](https://cran.r-project.org/package=QPot), [GitHub](https://github.com/bmarkslash7/QPot)  |   | R package: ![alt text](https://cranlogs.r-pkg.org/badges/grand-total/QPot "Badge") |
 
 ## Peer-reviewed publications
