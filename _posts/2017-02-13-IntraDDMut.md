@@ -11,4 +11,4 @@ I really like this paper for several reasons
 * I love Figure 2 as a conceptual figure
 * We find that as long as there is an accelerative increase in deaths or decrease in births (likely in the nautral world), that musutalism is stable!
 
-It's my first *real* theory paper, so I am curious how it will be received by reviewers.
+It's my first *real* theory paper, so I am curious how it will be received by reviewers and the rest of the ecological community.
