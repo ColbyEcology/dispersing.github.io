@@ -7,8 +7,8 @@ Today we posted our paper, *Population dynamics of mutualism and intraspecific d
 I really like this paper for several reasons
 
 * I think the introduction concisely and fairly summarizes the history of the study mutualism population dynamics
-* It conftonts both of the simplifying assumptions of Lotka-Volterra mutualism models and argues that they are eqaully responsible for the failure of the model to blow up (grow without bounds).
-* I love Figure 2 as a conceptual figure.
+* It conftonts both of the simplifying assumptions of Lotka-Volterra mutualism models and argues that they are eqaully responsible for the failure of the model to blow up (grow without bounds)
+* I love Figure 2 as a conceptual figure
 * We find that as long as there is an accelerative increase in deaths or decrease in births (likely in the nautral world), that musutalism is stable!
 
-It's my first *real* theory paper, so I a curious as to how it will be received.
+It's my first *real* theory paper, so I am curious how it will be received by reviewers.
