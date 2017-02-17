@@ -23,7 +23,7 @@ author_profile: true
 
 | **Year**  | **Title**  | **Author(s)**  | **Environment**  | **Link**  | **Notes**  |
 |-----------|------------|----------------|------------------|-----------|------------|
-| 2015 | QPot: Quasi-Potential Analysis for Stochastic Differential Equations	 | C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, K.C. Abbott, J. Gregson | [R](https://www.r-project.org/) | [CRAN](https://cran.r-project.org/web/packages/QPot/index.html) [GitHub](https://github.com/bmarkslash7/QPot) | version 1.1 R package: ![alt text](https://cranlogs.r-pkg.org/badges/grand-total/QPot "Badge") |
+| 2015 | QPot: Quasi-Potential Analysis for Stochastic Differential Equations	 | C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, K.C. Abbott, J. Gregson | [R](https://www.r-project.org/) | [CRAN](https://cran.r-project.org/web/packages/QPot/index.html) [GitHub](https://github.com/bmarkslash7/QPot) | version 1.1: ![alt text](https://cranlogs.r-pkg.org/badges/grand-total/QPot "Badge") |
 
 
 ## Other publications
