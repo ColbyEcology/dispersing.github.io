@@ -31,7 +31,7 @@ author_profile: true
 | **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Notes**  |
 |-----------|------------|----------------|--------------|--------------|----------|-----------|
 | 2014 | Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants	 | C.M. Moore	 | University of Nevada, Reno	 | [Link](http://gradworks.umi.com/36/26/3626102.html) | [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf) | Dissertation |
-| 2014 | The Jepson Manual: Vascular Plants of California	 | C.M. Moore	 | Western North American Naturalist	 | [Link](https://journals.lib.byu.edu/spc/index.php/wnan/article/view/31707) | [Reprint](/Publications/reprints/Moore_2014.pdf) | Book review |
+| 2014 | The Jepson Manual: Vascular Plants of California	 | C.M. Moore	 | Western North American Naturalist	 | [Link](http://scholarsarchive.byu.edu/wnan/vol74/iss1/16/) | [Reprint](/Publications/reprints/Moore_2014.pdf) | Book review |
 | 2011 | Pollination and Floral Ecology	 | C.M. Moore	 | Plant Science Bulletin	 | [Link](http://www.botany.org/PlantScienceBulletin/PSB-2011-57-4.pdf) | [Reprint](/Publications/reprints/Moore_2011_PSB.pdf) | Book review |
 | 2011 | Invasives: Classify with Care	 | C.M. Moore	 | Science	 | [Link](http://www.sciencemag.org/content/333/6045/936.2) | [Reprint](/Publications/reprints/Moore_2011.pdf) | Letter |
 | 2009 | Let's Give Them Something To Talk About	| C.M. Moore	 | Frontiers in Ecology and the Environment	 | [Link](http://www.esajournals.org/doi/abs/10.1890/1540-9295-7.9.501) | [Reprint](/Publications/reprints/Moore_and_Forister_2009.pdf) | Letter |
