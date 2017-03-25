@@ -8,7 +8,7 @@ author_profile: true
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-| In review | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecology Letters  |  (Link coming soon!) | [Preprint](/Publications/preprints/Dittel_et_al._RDSDM.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | | |
+| In review | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecology Letters  |  [bioRxiv](http://biorxiv.org/content/early/2017/03/24/120485) | [Preprint](/Publications/preprints/Dittel_et_al._RDSDM.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | | |
 | In review | Population dynamics of mutualism and intraspecific density dependence: how &theta;-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Theoretical Ecology  |  [bioRxiv](http://biorxiv.org/content/early/2017/02/13/108175) | [Preprint](/Publications/preprints/Moore_et_al._IntraDDMut.pdf)  | [Link](https://github.com/dispersing/Mutualism-NonlinearDensityDependence) | | |
 
 ## Peer-reviewed publications
