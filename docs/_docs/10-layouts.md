@@ -7,7 +7,11 @@ single_layout_gallery:
     alt: "single layout with header example"
   - image_path: /assets/images/mm-layout-single-meta.png
     alt: "single layout with comments and related posts"
+<<<<<<< HEAD
 modified: 2017-02-24T15:23:34-05:00
+=======
+last_modified_at: 2017-02-24T15:23:34-05:00
+>>>>>>> mmistakes/master
 ---
 
 {% include toc icon="columns" title="Included Layouts" %}

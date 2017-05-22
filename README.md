@@ -1,8 +1,15 @@
 # [mutualismecology.com](http://mutualismecology.com/)
 This is my academic website.
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Stashed changes
 I've designed it using [Jekyll](https://jekyllrb.com/) and [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).  The creator of [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), **Michael Rose**, deserves huge credit for creating such a nice theme.  I've copied over his credits and license below:
 =======
+=======
+>>>>>>> mmistakes/master
 [![GitHub release](https://img.shields.io/gem/v/minimal-mistakes-jekyll.svg)](https://github.com/mmistakes/minimal-mistakes/releases) [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
@@ -93,7 +100,19 @@ This goes for author sidebar links and "share button" additions -- I have no int
 
 ### Pull Requests
 
-To help me out try to avoid creating pull requests on `master` and instead branch off of `develop`. It's much easier for me to test, merge, and roll them into new releases this way.
+When submitting a pull request:
+
+1. Clone the repo.
+2. Create a branch off of `master` and give it a meaningful name (e.g. `my-awesome-new-feature`) and describe the feature or fix.
+3. Open a pull request on GitHub.
+
+Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
+
+## Development
+
+To set up your environment to develop this theme, run `bundle install`.
+
+To test the theme, run `bundle exec rake preview` and open your browser at `http://localhost:4000/test/`. This starts a Jekyll server using content in the `test/` directory. As modifications are made to the theme and test site, it will regenerate and you should see the changes in the browser after a refresh.
 
 Theme documentation and demo pages can be found in the [`/docs`](docs) if submitting improvements, typo corrections, etc.
 
@@ -139,7 +158,7 @@ To test the theme, run `bundle exec rake preview` and open your browser at `http
 
 The MIT License (MIT)
 
-Copyright (c) 2016 Michael Rose
+Copyright (c) 2017 Michael Rose
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

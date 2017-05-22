@@ -2,7 +2,11 @@
 title: "UI Text"
 permalink: /docs/ui-text/
 excerpt: "Text for customizing various user interface elements found in the theme."
+<<<<<<< HEAD
 modified: 2017-02-14T14:13:24-05:00
+=======
+last_modified_at: 2017-05-16T08:19:02-04:00
+>>>>>>> mmistakes/master
 ---
 
 Text for various UI elements, `_layouts`, and `_includes` have all been grouped together as a set of translation keys. This is by no means a full-on i18n solution, but it does help make customizing things a bit easier.
@@ -13,11 +17,19 @@ Currently the English[^yaml-anchors] main keys in [`_data/ui-text.yml`](https://
 - Chinese
 - French (Français)
 - German (Deutsch)
+<<<<<<< HEAD
+=======
+- Greek
+>>>>>>> mmistakes/master
 - Italian (Italiano)
 - Korean
 - Nepali (Nepalese)
 - Russian
 - Spanish (Español)
+<<<<<<< HEAD
+=======
+- Swedish
+>>>>>>> mmistakes/master
 - Turkish (Türkçe)
 
 If you're are interested in localizing them into other languages feel free to submit a pull request and I will be happy to look it over.
@@ -29,4 +41,8 @@ Many of the label based keys like `meta_label`, `categories_label`, `tags_label`
 ![UI text labels]({{ "/assets/images/mm-ui-text-labels.jpg" | absolute_url }})
 
 **Note:** The theme comes with localized text in English (`en`, `en-US`, `en-GB`). If you change `locale` in `_config.yml` to something else, most of the UI text will go blank. Be sure to add the corresponding locale key and translated text to `_data/ui-text.yml` to avoid this.
+<<<<<<< HEAD
 {: .notice--warning}
+=======
+{: .notice--warning}
+>>>>>>> mmistakes/master

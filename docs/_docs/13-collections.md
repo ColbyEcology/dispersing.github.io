@@ -2,7 +2,11 @@
 title: "Working with Collections"
 permalink: /docs/collections/
 excerpt: "Suggestions and Front Matter defaults for working with collections."
+<<<<<<< HEAD
 modified: 2016-11-03T11:13:38-04:00
+=======
+last_modified_at: 2016-11-03T11:13:38-04:00
+>>>>>>> mmistakes/master
 ---
 
 Collections like posts and pages work as you'd expect. If you're new to them be sure to read [Jekyll's documentation](https://jekyllrb.com/docs/collections/).

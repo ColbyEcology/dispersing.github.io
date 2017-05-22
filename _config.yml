@@ -9,12 +9,21 @@
 locale                   : "en-US"
 title                    : "Mutualism ecology"
 title_separator          : "-"
+<<<<<<< HEAD
 name                     : "Mutualism ecology"
 description              : "Christopher Moore's professional website"
 url                      : http://mutualismecology.com
 baseurl                  : # the subpath of your site, e.g. "/index"
 repository               : "dispersing/dispersing.github.io"
 teaser                   : "shroom.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+=======
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+>>>>>>> mmistakes/master
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -30,12 +39,12 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : # "master", "gh-pages"
+  branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -75,12 +84,21 @@ analytics:
 
 # Site Author
 author:
+<<<<<<< HEAD
   name             : "Christopher M. Moore"
   avatar           : "bio-photo.jpg"
   bio              : "Postdoc studying the population and community ecology of mutualism"
   location         : "Cleveland, Ohio, U.S."
   email            : life.dispersing@gmail.com
   uri              : http://mutualismecology.com
+=======
+  name             : "Your Name"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I am an amazing person."
+  location         : "Somewhere"
+  email            :
+  uri              :
+>>>>>>> mmistakes/master
   bitbucket        :
   codepen          :
   dribbble         :
@@ -96,15 +114,20 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "@lifedispersing"
   vine             :
   weibo            :
   xing             :
+<<<<<<< HEAD
   youtube          :
   inaturalist      : "arctostaphylophilus"
+=======
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+>>>>>>> mmistakes/master
 
 # Reading Files
 include:
@@ -135,6 +158,8 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
 keep_files:
   - .git
   - .svn
@@ -235,3 +260,18 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true

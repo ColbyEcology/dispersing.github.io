@@ -2,7 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name                    = "minimal-mistakes-jekyll"
+<<<<<<< HEAD
   spec.version                 = "4.3.0"
+=======
+  spec.version                 = "4.4.1"
+>>>>>>> mmistakes/master
   spec.authors                 = ["Michael Rose"]
 
   spec.summary                 = %q{A flexible two-column Jekyll theme.}

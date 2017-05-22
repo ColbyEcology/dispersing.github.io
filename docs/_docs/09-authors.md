@@ -2,7 +2,11 @@
 title: "Authors"
 permalink: /docs/authors/
 excerpt: "Instructions and settings for working with multiple site authors."
+<<<<<<< HEAD
 modified: 2016-11-03T10:55:15-04:00
+=======
+last_modified_at: 2016-11-03T10:55:15-04:00
+>>>>>>> mmistakes/master
 ---
 
 Sites that may have content authored from various individuals can be accommodated by using [data files](https://jekyllrb.com/docs/datafiles/).

@@ -1,7 +1,11 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
+<<<<<<< HEAD
 modified: 2016-06-06
+=======
+last_modified_at: 2016-06-06
+>>>>>>> mmistakes/master
 ---
 
 {% include base_path %}
