@@ -2,10 +2,10 @@
 layout: default
 ---
 
+{% include base_path %}
+
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
-{% elsif page.header.video.id and page.header.video.provider %}
-  {% include page__hero_video.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
@@ -74,9 +74,6 @@ layout: default
     </div>
   {% endif %}
 </div>
-<<<<<<< HEAD
 <script type="text/javascript"
     src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
-=======
->>>>>>> mmistakes/master
