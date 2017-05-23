@@ -1,6 +1,13 @@
 ---
-- title: "all of the things"
+layout: single
+title: "Introduction to ecology schedule"
+permalink: /Teaching/Ecology/Schedule
+sidebar:
+    - title: "Home"
+    - title: "Lecture"
+    - title: "Lab"
 ---
+
 # Syllabus for *Introduction to Ecology*
 BI 276f, 2 Credits, Fall 2017
 
