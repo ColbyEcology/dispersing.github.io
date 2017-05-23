@@ -1,3 +1,6 @@
+---
+- title: "all of the things"
+---
 # Syllabus for *Introduction to Ecology*
 BI 276f, 2 Credits, Fall 2017
 
