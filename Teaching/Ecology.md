@@ -1,15 +1,6 @@
 ---
+layout: single
 title: "Introduction to ecology"
-permalink: /Teaching/Ecology.md
-author_profile: false
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: fieldecol.jpg
-sidebar:
-    - title: "Home"
-    - title: "Lecture"
-    - title: "Lab"
 ---
 
-Others. This site is under development to be used for *Introduction to Ecology* at Colby College for the fall semester of 2017.  Here is a test link for the tentative syllabus: [schedule](/Teaching/Ecology/Syllabus.md).
+layout 2. This site is under development to be used for *Introduction to Ecology* at Colby College for the fall semester of 2017.  Here is a test link for the tentative syllabus: [schedule](/Teaching/Ecology/Syllabus.md).
