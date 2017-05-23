@@ -6,10 +6,14 @@ author_profile: true
 ---
 “Scientists are perennially aware that it is best not to trust theory until it is confirmed by evidence. It is equally true . . . that it is best not to put too much faith in facts until they have been confirmed by theory.”  
 Robert MacArthur, Geographical Ecology, 1972
----
+
+***
+
 “Remember, always, that everything you know, and everything everyone knows, is only a model. Get your model out there where it can be viewed. Invite others to challenge your assumptions and add their own.”  
 Donella H. Meadows, Thinking in Systems: A Primer, 2008
+
 ---
+
 “As the variance goes to infinity, the information per observation about the location of the average value, 1/sigma^2, goes to zero.  It may seem strange that an observation could provide no information about the mean value.”  
 Steve Frank, The Common patterns in nature, Journal of Evolutionary Biology, 2009
 ---
