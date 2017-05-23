@@ -7,7 +7,7 @@ sidebar:
     - title: "Lab"
 ---
 
-# Syllabus for *Introduction to Ecology*
+## Syllabus for *Introduction to Ecology*
 BI 276f, 2 Credits, Fall 2017
 
 New  
@@ -16,28 +16,28 @@ Ecology is the study of the spatial and temporal patterns of the distribution an
 Old  
 Ecology is broadly defined as the study the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences. Scales of ecological inquiry begin at the molecular level and span through individual organisms, populations, communities, ecosystems, landscapes, and ultimately through the biosphere.  A 200-level ecology course will  may emphasize the importance of ecological principles for guiding conservation of biodiversity and environmental quality, and draw on empirical examples from temperate, tropical, and polar biomes, including human-dominated ecosystems.
 
-### Professor information
+#### Professor information
 Dr. Christopher M. Moore  
 Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
 Office: TBA  
 Office phone: TBA  
 Calendar: TBA  
 
-### Meeting dates, times, and location
+#### Meeting dates, times, and location
 MWF, 9--9:50 AM, ???
 
-### Text
+#### Text
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
-## Learning Goals for Ecology:
+### Learning Goals for Ecology
 A.  Learn the vocabulary and conceptual framework for the science of ecology.
 B.  Mature in ability to assess scientific literature, with a special emphasis on data interpretation.
 C.  Apply concepts and principles to topical ecological issues having implications for policy or management.
 D.  Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.
 E.  Gain first-hand familiarity with local ecological communities.
 
-### Concepts to be addressed in a general ecology lecture syllabus
+#### Concepts to be addressed in a general ecology lecture syllabus
 
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
@@ -51,12 +51,12 @@ Ecosystem ecology | Energy flow, decomposition, primary and secondary production
 Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influences, land-atmosphere-ocean interactions 
 
 
-### Website
+#### Website
 [http://mutualismecology.com/Teaching/Ecology](http://mutualismecology.com/Teaching/Ecology)
 
-## Grading
+### Grading
 
-### Lecture, 65%
+#### Lecture, 65%
 
 Item           | Percentage of course |
 :--------------|:---------------------|
@@ -64,7 +64,7 @@ Assessment I   | 20%                  |
 Assessment II  | 20%                  |
 Assessment III | 25%                  |
 
-### Laboratory, 35%
+#### Laboratory, 35%
 
 Item           | Percentage of course |
 :--------------|:---------------------|
@@ -73,7 +73,7 @@ Practical II   | 12.5%                |
 Assignments    | 10%                  |
 
 
-## Lecture schedule (38 lectures)
+### Lecture schedule (38 lectures)
 
 0. Module
     0. Lecture
