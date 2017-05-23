@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Introduction to ecology"
+permalink: /Teaching/Ecology
 sidebar:
     - title: "Home"
     - title: "Lecture"
