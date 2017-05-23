@@ -11,11 +11,7 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 ---
 
 ## Colby College
-<<<<<<< HEAD
 * [Ecology](/Teaching/Ecology.md)
-=======
-* [Biol ???, Ecology](/Courses/Ecology.md)
->>>>>>> origin/master
 
 ## University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
