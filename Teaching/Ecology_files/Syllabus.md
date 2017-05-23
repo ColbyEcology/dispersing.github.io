@@ -31,11 +31,10 @@ MWF, 9--9:50 AM, ???
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
 ### Learning Goals for Ecology
-
-A.  Learn the vocabulary and conceptual framework for the science of ecology.
-B.  Mature in ability to assess scientific literature, with a special emphasis on data interpretation.
-C.  Apply concepts and principles to topical ecological issues having implications for policy or management.
-D.  Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.
+A.  Learn the vocabulary and conceptual framework for the science of ecology.  
+B.  Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
+C.  Apply concepts and principles to topical ecological issues having implications for policy or management.  
+D.  Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
 E.  Gain first-hand familiarity with local ecological communities.
 
 #### Concepts to be addressed in a general ecology lecture syllabus
