@@ -1,9 +1,3 @@
-[//]: <head>
-[//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
-[//]: </head>
-[//]: # cd Dropbox/\*BIOL271/
-[//]: # pandoc Syllabus.md -f markdown -t html -o Syllabus.html
-
 # Syllabus for *Introduction to Ecology*
 BI 276f, 2 Credits, Fall 2017
 
@@ -110,3 +104,7 @@ Assignments    | 10%                  |
     37. Ecology in the Anthropocene
     38. Assessment III review
     39. Assessment III
+
+[//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
+[//]: # cd Dropbox/\*BIOL271/
+[//]: # pandoc Syllabus.md -f markdown -t html -o Syllabus.html
