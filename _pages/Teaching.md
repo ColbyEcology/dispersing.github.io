@@ -10,10 +10,10 @@ header:
 excerpt: "That learning process comes easiest to those of us who teach who also believe that there is an aspect of our vocation that is sacred; who believe that our work is not merely to share information but to share in the intellectual and spiritual growth of our students<sup>1</sup>."
 ---
 
-## Colby College
-* [Ecology](/Ecology.md)
+### Colby College
+* [Ecology](/Teaching/Ecology.md)
 
-## University of Nevada, Reno
+### University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
 * [BIOL 322, Experimental field ecology, Summer 2013](/Teaching/BIOL322.html)
 * [EECB 752, Principles of evolutionary biology, Spring 2013](/Teaching/Evolution.html)
@@ -24,7 +24,7 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 * BIOL 191, Organismal biology, Fall 2008
 * BIOL 100, Biology, principles and applications, Spring 2009
 
-## California State University, Fullerton
+### California State University, Fullerton
 * BIOL 171, Biodiversity and evolution, Fall 2006-Spring 2008
 * BIOL 100, Introduction to biology, Fall 2006
 
