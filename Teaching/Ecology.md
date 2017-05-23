@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Introduction to ecology"
-permalink: /Teaching/Ecology
+permalink: /Teaching/Ecology.md
 author_profile: false
 header:
   overlay_color: "#000"
