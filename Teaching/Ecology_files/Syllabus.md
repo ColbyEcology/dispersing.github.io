@@ -35,7 +35,8 @@ C.  Apply concepts and principles to topical ecological issues having implicatio
 D.  Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.
 E.  Gain first-hand familiarity with local ecological communities.
 
-### Concepts to be addressed in a general ecology lecture syllabus:
+### Concepts to be addressed in a general ecology lecture syllabus
+
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
 Introduction | Definitions, scientific method, graphing, data interpretation
@@ -49,9 +50,12 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 
 
 ### Website
+(http://mutualismecology.com/Teaching/Ecology)[http://mutualismecology.com/Teaching/Ecology]
 
 ## Grading
+
 ### Lecture, 65%
+
 Item           | Percentage of course |
 :--------------|:---------------------|
 Assessment I   | 20%                  |
@@ -59,6 +63,7 @@ Assessment II  | 20%                  |
 Assessment III | 25%                  |
 
 ### Laboratory, 35%
+
 Item           | Percentage of course |
 :--------------|:---------------------|
 Practical I    | 12.5%                |
