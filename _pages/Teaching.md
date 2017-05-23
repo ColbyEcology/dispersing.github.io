@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching"
-permalink: /Teaching/
+permalink: /Courses/
 author_profile: true
 header:
   overlay_color: "#000"
