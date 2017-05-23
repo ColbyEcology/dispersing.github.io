@@ -46,13 +46,7 @@ $(document).ready(function(){
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {
       $btn.addClass('hidden');
-<<<<<<< HEAD
     } else $btn.removeClass('hidden');
-=======
-    } else {
-      $btn.removeClass('hidden');
-    }
->>>>>>> mmistakes/master
   }
 
   // Window listeners
@@ -62,10 +56,6 @@ $(document).ready(function(){
 
   $btn.on('click', function() {
     $hlinks.toggleClass('hidden');
-<<<<<<< HEAD
-=======
-    $(this).toggleClass('close');
->>>>>>> mmistakes/master
     clearTimeout(timer);
   });
 
@@ -73,10 +63,6 @@ $(document).ready(function(){
     // Mouse has left, start the timer
     timer = setTimeout(function() {
       $hlinks.addClass('hidden');
-<<<<<<< HEAD
-=======
-      $btn.toggleClass('close');
->>>>>>> mmistakes/master
     }, closingTime);
   }).on('mouseenter', function() {
     // Mouse is back, cancel the timer

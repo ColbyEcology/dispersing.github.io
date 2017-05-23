@@ -46,43 +46,23 @@ $(document).ready(function(){
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {
       $btn.addClass('hidden');
-<<<<<<< HEAD
     } else $btn.removeClass('hidden');
-=======
-    } else {
-      $btn.removeClass('hidden');
-    }
->>>>>>> mmistakes/master
   }
 
   // Window listeners
   $(window).resize(function() {
     check();
   });
-<<<<<<< HEAD
 
   $btn.on('click', function() {
     $hlinks.toggleClass('hidden');
     clearTimeout(timer);
   });
 
-=======
-
-  $btn.on('click', function() {
-    $hlinks.toggleClass('hidden');
-    $(this).toggleClass('close');
-    clearTimeout(timer);
-  });
-
->>>>>>> mmistakes/master
   $hlinks.on('mouseleave', function() {
     // Mouse has left, start the timer
     timer = setTimeout(function() {
       $hlinks.addClass('hidden');
-<<<<<<< HEAD
-=======
-      $btn.toggleClass('close');
->>>>>>> mmistakes/master
     }, closingTime);
   }).on('mouseenter', function() {
     // Mouse is back, cancel the timer

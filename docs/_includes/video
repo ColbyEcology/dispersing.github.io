@@ -4,11 +4,7 @@
 <!-- Courtesy of embedresponsively.com //-->
 <div class="responsive-video-container">
 {% if video_provider == "vimeo" %}
-<<<<<<< HEAD
   <iframe src="http://player.vimeo.com/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-=======
-  <iframe src="https://player.vimeo.com/video/{{ video_id }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
->>>>>>> mmistakes/master
 {% elsif video_provider == "youtube" %}
   <iframe src="https://www.youtube.com/embed/{{ video_id }}" frameborder="0" allowfullscreen></iframe>
 {% endif %}

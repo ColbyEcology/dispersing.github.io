@@ -2,11 +2,7 @@
 title: "License"
 permalink: /docs/license/
 excerpt: "License for Minimal Mistakes Jekyll Theme."
-<<<<<<< HEAD
 modified: 2016-04-13T15:05:12-04:00
-=======
-last_modified_at: 2016-04-13T15:05:12-04:00
->>>>>>> mmistakes/master
 ---
 
 The MIT License (MIT)

@@ -11,11 +11,7 @@ tags:
   - edge case
   - image
   - layout
-<<<<<<< HEAD
 modified: 2016-05-02T11:39:01-04:00
-=======
-last_modified_at: 2016-05-02T11:39:01-04:00
->>>>>>> mmistakes/master
 ---
 
 {% include base_path %}

@@ -18,11 +18,7 @@ foo:
         url: /child-3-page-url/
 
 
-<<<<<<< HEAD
 # main links links
-=======
-# main links
->>>>>>> mmistakes/master
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
@@ -134,8 +130,4 @@ sidebar-sample:
       - title: "Child Page D1"
         url: /
       - title: "Child Page D2"
-<<<<<<< HEAD
         url: /
-=======
-        url: /
->>>>>>> mmistakes/master
