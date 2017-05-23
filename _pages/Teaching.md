@@ -9,6 +9,7 @@ header:
   overlay_image: fieldecol.jpg
 excerpt: "That learning process comes easiest to those of us who teach who also believe that there is an aspect of our vocation that is sacred; who believe that our work is not merely to share information but to share in the intellectual and spiritual growth of our students<sup>1</sup>."
 ---
+
 ## Colby College
 * [Ecology](/Teaching/Syllabus.md)
 
