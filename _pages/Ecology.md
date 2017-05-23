@@ -8,9 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: fieldecol.jpg
 sidebar:
-	- title: "Home"
-	- title: "Lecture"
-	- title: "Lab"
+    - title: "Home"
+    - title: "Lecture"
+    - title: "Lab"
 ---
 
 A bunch of stuff
