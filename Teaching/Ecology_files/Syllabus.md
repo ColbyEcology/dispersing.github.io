@@ -13,8 +13,10 @@ BI 276f, 2 Credits, Fall 2017
 New  
 Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding many of the most pressing environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe in biomes around the world. In the field-based laboratory, we will generate hypotheses, develop experimental designs, and apply statistical analyses to ecological data, while gaining first-hand familiarity with local ecological communities.
 
+{::comment}
 Old  
 Ecology is broadly defined as the study the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences. Scales of ecological inquiry begin at the molecular level and span through individual organisms, populations, communities, ecosystems, landscapes, and ultimately through the biosphere.  A 200-level ecology course will  may emphasize the importance of ecological principles for guiding conservation of biodiversity and environmental quality, and draw on empirical examples from temperate, tropical, and polar biomes, including human-dominated ecosystems.
+{:/comment}
 
 #### Professor information
 Dr. Christopher M. Moore  
