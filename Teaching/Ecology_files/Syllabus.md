@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Introduction to ecology schedule"
+title: "Introduction to Ecology schedule"
 sidebar:
     - title: "Home"
     - title: "Lecture"
@@ -10,8 +10,7 @@ sidebar:
 ## Syllabus for *Introduction to Ecology*
 BI 276f, 2 Credits, Fall 2017
 
-New  
-Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding many of the most pressing environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe in biomes around the world. In the field-based laboratory, we will generate hypotheses, develop experimental designs, and apply statistical analyses to ecological data, while gaining first-hand familiarity with local ecological communities.
+Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding natural processes and environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe around the world. In the field-based laboratory we will learn to generate testable ecological hypotheses, develop experimental designs to test our hypotheses, and use statistical inference to quantiatively assess the outcome of our experiments, while gaining first-hand familiarity with local ecological communities.
 
 {::comment}
 Old  
@@ -23,7 +22,7 @@ Dr. Christopher M. Moore
 Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
 Office: TBA  
 Office phone: TBA  
-Calendar: TBA  
+Calendar: TBA
 
 #### Meeting dates, times, and location
 MWF, 9--9:50 AM, ???
@@ -33,11 +32,12 @@ MWF, 9--9:50 AM, ???
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
 ### Learning Goals for Ecology
-A.  Learn the vocabulary and conceptual framework for the science of ecology.  
-B.  Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
-C.  Apply concepts and principles to topical ecological issues having implications for policy or management.  
-D.  Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
-E.  Gain first-hand familiarity with local ecological communities.
+
+A. Learn the vocabulary and conceptual framework for the science of ecology.  
+B. Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
+C. Apply concepts and principles to topical ecological issues having implications for policy or management.  
+D. Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
+E. Gain first-hand familiarity with local ecological communities.
 
 #### Concepts to be addressed in a general ecology lecture syllabus
 
@@ -77,13 +77,12 @@ Assignments    | 10%                  |
 
 ### Lecture schedule (38 lectures)
 
-0. Module
-    0. Lecture
-1. Course introduction
-    1. Course introduction
-2. Autecology
-    2. The domain of ecology
-    3. Evolution
+Meeting | Date | Day | Module | Lecture | Reading
+|-------|------|-----|--------|---------|
+1. | | | Course introduction | Course introduction |
+2. | | | Autecology | The domain of ecology |
+
+3. Evolution
     4. Evolutionary ecology
     5. The ecological niche
     6. Physiological ecology: animals
