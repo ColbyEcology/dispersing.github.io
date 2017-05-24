@@ -98,30 +98,29 @@ Meeting | Date | Day | Module | Lecture | Reading |
 17 | | | | Metapopulations | |
 18 | | | | Deterministic and stochastic dynamics | |
 19 | | | | Competition | |
+20 | | | | | Predator-prey |
+21 | | | | | Mutualism |
+22 | | | | | Plant-herbivore/host-parasite |
+23 | | | | | Ecological epidemiology |
+24 | | | | | Coevolution |
+25 | | | | | Assessment II review |
+26 | | | | | Assessment II |
+27 | | | | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) |
+28 | | | | | Community statics (e.g., measurement, definitions) |
+29 | | | | | Community dynamics: assembly (e.g., niche, neutral) |
+30 | | | | | Community dynamics: metacommunities |
+31 | | | | | Macroecology |
+32 | | | | | Trophic ecology (incl. food webs, top-down and bottom-up regulation) |
+33 | | | | | Energy flows |
+34 | | | | | Carbon cycling |
+35 | | | | | Nitrogen cycling |
+36 | | | | | Biodiversity and ecosystem functioning |
+37 | | | | | Ecology in the Anthropocene |
+38 | | | | | Assessment III review |
+39 | | | | | Assessment III |
 
-
- 20. Predator-prey
-    21. Mutualism
-    22. Plant-herbivore/host-parasite
-    23. Ecological epidemiology
-    24. Coevolution
-    25. Assessment II review
-    26. Assessment II
-4.  Communities and ecosystems
-    27. Biodiversity (evolution, measurements, concepts, biogeography)
-    28. Community statics (e.g., measurement, definitions)
-    29. Community dynamics: assembly (e.g., niche, neutral)
-    30. Community dynamics: metacommunities
-    31. Macroecology
-    32. Trophic ecology (incl. food webs, top-down and bottom-up regulation)
-    33. Energy flows
-    34. Carbon cycling
-    35. Nitrogen cycling
-    36. Biodiversity and ecosystem functioning
-    37. Ecology in the Anthropocene
-    38. Assessment III review
-    39. Assessment III
-
+{::comment}
 [//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
 [//]: # cd Dropbox/\*BIOL271/
 [//]: # pandoc Syllabus.md -f markdown -t html -o Syllabus.html
+{:/comment}
