@@ -77,10 +77,10 @@ Assignments    | 10%                  |
 
 ### Lecture schedule (38 lectures)
 
-Meeting | Date | Day | Module | Lecture | Reading
-|-------|------|-----|--------|---------|
-1. | | | Course introduction | Course introduction |
-2. | | | Autecology | The domain of ecology |
+Meeting | Date | Day | Module | Lecture | Reading |
+--------|------|-----|--------|---------|---------|
+1 | | | Course introduction | Course introduction | |
+2 | | | Autecology | The domain of ecology | |
 
 3. Evolution
     4. Evolutionary ecology
