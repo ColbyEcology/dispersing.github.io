@@ -4,6 +4,7 @@ title: "Quotes"
 permalink: /Quotes/
 author_profile: true
 ---
+
 “Scientists are perennially aware that it is best not to trust theory until it is confirmed by evidence. It is equally true . . . that it is best not to put too much faith in facts until they have been confirmed by theory.”  
 Robert MacArthur, Geographical Ecology, 1972
 
