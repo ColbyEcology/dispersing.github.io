@@ -81,26 +81,26 @@ Meeting | Date | Day | Module | Lecture | Reading |
 --------|------|-----|--------|---------|---------|
 1 | | | Course introduction | Course introduction | |
 2 | | | Autecology | The domain of ecology | |
+3 | | | | Evolution | |
+4 | | | | Evolutionary ecology | |
+5 | | | | The ecological niche | |
+6 | | | | Physiological ecology: animals | |
+7 | | | | Physiological ecology: plants | |
+8 | | | | Habitat selection | |
+9 | | | | Foraging | |
+10 | | | | Sociality | |
+11 | | | | Life history | |
+12 | | | | Assessment I review | |
+13 | | | | Assessment I | |
+14 | | | Population ecology | Exponential growth | |
+15 | | | | Self limitation | |
+16 | | | | Stage and age structured populations | |
+17 | | | | Metapopulations | |
+18 | | | | Deterministic and stochastic dynamics | |
+19 | | | | Competition | |
 
-3. Evolution
-    4. Evolutionary ecology
-    5. The ecological niche
-    6. Physiological ecology: animals
-    7. Physiological ecology: plants
-    8. Habitat selection
-    9. Foraging
-    10. Sociality
-    11. Life history
-    12. Assessment I review
-    13. Assessment I
-3.  Population ecology
-    14. Exponential growth
-    15. Self limitation
-    16. Stage and age structured populations
-    17. Metapopulations
-    18. Deterministic and stochastic dynamics
-    19. Competition
-    20. Predator-prey
+
+ 20. Predator-prey
     21. Mutualism
     22. Plant-herbivore/host-parasite
     23. Ecological epidemiology
