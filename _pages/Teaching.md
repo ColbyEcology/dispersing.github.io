@@ -11,7 +11,7 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 ---
 
 ## Colby College
-* [Biol XXXX, Ecology](/Teaching/Ecology)
+* [Biol 261, Principles of Ecology](/Teaching/Ecology)
 
 ## University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
