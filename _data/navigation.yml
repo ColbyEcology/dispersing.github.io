@@ -23,9 +23,11 @@ main:
 
 docs:
   - title: Introduction to Ecology
+
+  - title: Lecture
     children:
       - title: "Home"
-        url: /Teaching/Ecology
+        url: /Teaching/Ecology_files/Syllabus
       - title: "Syllabus"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Professor information"
@@ -37,13 +39,6 @@ docs:
       - title: "Schedule"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Download syllabus"
-        url: /Teaching/Ecology_files/Syllabus
-
-  - title: Lecture
-    children:
-      - title: "Home"
-        url: /Teaching/Ecology_files/Syllabus
-      - title: "Schedule"
         url: /Teaching/Ecology_files/Syllabus
 
   - title: Laboratory
