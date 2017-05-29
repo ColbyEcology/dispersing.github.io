@@ -68,7 +68,7 @@ Assessment III | 25%                  |38%                              |
 
 Item           | Percentage of course | Percentage of laboratory (rounded) |
 :--------------|:---------------------|:-----------------------------------|
-Practical I    | 12.5%                |~36%                                |
+Practical I    | 12.5%                |36%                                 |
 Practical II   | 12.5%                |36%                                 |
 Assignments    | 10%                  |38%                                 |
 
