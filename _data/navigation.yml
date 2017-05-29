@@ -23,22 +23,20 @@ main:
 
 docs:
   - title: Introduction to Ecology
-      - title: "Home"
-        url: /Teaching/Ecology
   - title: Lecture
     children:
       - title: "Home"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Syllabus"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Syllabus
       - title: "Professor information"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Prof
       - title: "Meeting information"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Meeting
       - title: "Text"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Text
       - title: "Learning Goals"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Goals
       - title: "Grading"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Schedule"
