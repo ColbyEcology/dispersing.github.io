@@ -15,21 +15,21 @@ Old
 Ecology is broadly defined as the study the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences. Scales of ecological inquiry begin at the molecular level and span through individual organisms, populations, communities, ecosystems, landscapes, and ultimately through the biosphere.  A 200-level ecology course will  may emphasize the importance of ecological principles for guiding conservation of biodiversity and environmental quality, and draw on empirical examples from temperate, tropical, and polar biomes, including human-dominated ecosystems.
 {:/comment}
 
-#### Professor information 
+#### Professor information <a id="Prof"></a>
 Dr. Christopher M. Moore  
 Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
 Office: TBA  
 Office phone: TBA  
 Calendar: TBA
 
-#### Meeting dates, times, and location
+#### Meeting dates, times, and location <a id="Meeting"></a>
 MWF, 9--9:50 AM, ???
 
-#### Text
+#### Text <a name="Text"></a>
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
-### Learning Goals for Ecology
+### Learning Goals for Ecology <a name="Goals"></a>
 
 A. Learn the vocabulary and conceptual framework for the science of ecology.  
 B. Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
