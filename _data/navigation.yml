@@ -22,7 +22,7 @@ main:
     url: /Contact
 
 docs:
-  - title: [Introduction to Ecology](/Quotes)
+  - title: Introduction to Ecology
     children:
       - title: "Home"
         url: /Teaching/Ecology_files/Syllabus
