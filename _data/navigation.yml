@@ -25,7 +25,7 @@ docs:
   - title: Introduction to Ecology
     children:
       - title: "Home"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology
       - title: "Schedule"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Download syllabus"
