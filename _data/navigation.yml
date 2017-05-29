@@ -27,20 +27,20 @@ docs:
       - title: "Home"
         url: /Teaching/Ecology_files/Syllabus
       - title: "Schedule"
-        url: /Teaching/Ecology_files/Syllabus.md
+        url: /Teaching/Ecology_files/Syllabus
       - title: "Download syllabus"
-        url: /Research
+        url: /Teaching/Ecology_files/Syllabus
 
   - title: Lecture
     children:
       - title: "Home"
-        url: /Research
+        url: /Teaching/Ecology_files/Syllabus
       - title: "Schedule"
-        url: /Research
+        url: /Teaching/Ecology_files/Syllabus
 
   - title: Laboratory
     children:
       - title: "Home"
-        url: /Research
+        url: /Teaching/Ecology_files/Syllabus
       - title: "Schedule"
-        url: /Research
+        url: /Teaching/Ecology_files/Syllabus
