@@ -22,13 +22,25 @@ main:
     url: /Contact
 
 docs:
-  - title: Getting Started
+  - title: General
     children:
-      - title: "Quick-Start Guide"
+      - title: "Home"
+        url: /Teaching/Ecology_files/Syllabus
+      - title: "Schedule"
+        url: /Teaching/Ecology_files/Syllabus.md
+      - title: "Download syllabus"
         url: /Research
-      - title: "Structure"
+
+  - title: Lecture
+    children:
+      - title: "Home"
         url: /Research
-      - title: "Installation"
+      - title: "Schedule"
         url: /Research
-      - title: "Upgrading"
+
+  - title: Laboratory
+    children:
+      - title: "Home"
+        url: /Research
+      - title: "Schedule"
         url: /Research
