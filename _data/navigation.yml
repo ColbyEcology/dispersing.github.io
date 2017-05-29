@@ -33,19 +33,19 @@ docs:
       - title: "Syllabus"
         url: /Teaching/Ecology_files/Syllabus#Syllabus
       - title: "Professor information"
-        url: /Teaching/Ecology_files/Syllabus.md#Prof
+        url: /Teaching/Ecology_files/Syllabus#Prof
       - title: "Meeting information"
         url: /Teaching/Ecology_files/Syllabus#Meeting
       - title: "Text"
         url: /Teaching/Ecology_files/Syllabus#Text
       - title: "Learning Goals"
-        url: /Teaching/Ecology_files/Syllabus.md#Goals
+        url: /Teaching/Ecology_files/Syllabus#Goals
       - title: "Grading"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Grading
       - title: "Schedule"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/Ecology_files/Syllabus#Schedule
       - title: "Download syllabus"
-        url: /Teaching/Ecology_files/Syllabus
+        url:
 
   - title: Laboratory
     children:

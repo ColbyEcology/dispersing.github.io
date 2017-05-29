@@ -25,11 +25,11 @@ Calendar: TBA
 #### Meeting dates, times, and location <a id="Meeting"></a>
 MWF, 9--9:50 AM, ???
 
-#### Text <a name="Text"></a>
+#### Text <a id="Text"></a>
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
-### Learning Goals for Ecology <a name="Goals"></a>
+### Learning Goals for Ecology <a id="Goals"></a>
 
 A. Learn the vocabulary and conceptual framework for the science of ecology.  
 B. Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
@@ -37,7 +37,7 @@ C. Apply concepts and principles to topical ecological issues having implication
 D. Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
 E. Gain first-hand familiarity with local ecological communities.
 
-#### Concepts to be addressed in a general ecology lecture syllabus
+#### Concepts to be addressed in a general ecology lecture syllabus 
 
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
@@ -54,7 +54,7 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 #### Website
 [http://mutualismecology.com/Teaching/Ecology](http://mutualismecology.com/Teaching/Ecology)
 
-### Grading
+### Grading  <a id="Grading"></a>
 
 #### Lecture, 65%
 
@@ -73,7 +73,7 @@ Practical II   | 12.5%                |36%                                 |
 Assignments    | 10%                  |28%                                 |
 
 
-### Lecture schedule (38 lectures)
+### Lecture schedule (38 lectures)  <a id="Schedule"></a>
 
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|------|-----|--------|---------|---------|
