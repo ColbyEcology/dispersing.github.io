@@ -58,19 +58,19 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 
 #### Lecture, 65%
 
-Item           | Percentage of course |
-:--------------|:---------------------|
-Assessment I   | 20%                  |
-Assessment II  | 20%                  |
-Assessment III | 25%                  |
+Item           | Percentage of course | Percentate of lecture |
+:--------------|:---------------------|:----------------------|
+Assessment I   | 20%                  |31%                    |
+Assessment II  | 20%                  |31%                    |
+Assessment III | 25%                  |38%                    |
 
 #### Laboratory, 35%
 
-Item           | Percentage of course |
-:--------------|:---------------------|
-Practical I    | 12.5%                |
-Practical II   | 12.5%                |
-Assignments    | 10%                  |
+Item           | Percentage of course | Percentage of laboratory |
+:--------------|:---------------------|:-------------------------|
+Practical I    | 12.5%                |~36%                       |
+Practical II   | 12.5%                |36%                       |
+Assignments    | 10%                  |38%                       |
 
 
 ### Lecture schedule (38 lectures)
