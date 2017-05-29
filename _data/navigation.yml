@@ -23,6 +23,9 @@ main:
 
 docs:
   - title: Introduction to Ecology
+    children:
+      - title: "Home"
+        url: /Teaching/Ecology
   - title: Lecture
     children:
       - title: "Home"
