@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mutualism ecology"
 title_separator          : "-"
 name                     : "Mutualism ecology"
-description              : "Christopher Moore's professional website"
+description              : "Christopher Moore's academic website"
 url                      : http://mutualismecology.com
 baseurl                  : # the subpath of your site, e.g. "/index"
 repository               : "dispersing/dispersing.github.io"
