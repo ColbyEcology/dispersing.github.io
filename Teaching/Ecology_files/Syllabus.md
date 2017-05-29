@@ -2,9 +2,7 @@
 layout: single
 title: "Introduction to Ecology schedule"
 sidebar:
-    - title: "Home"
-    - title: "Lecture"
-    - title: "Lab"
+    nav: "docs"
 ---
 
 ## Syllabus for *Introduction to Ecology*
