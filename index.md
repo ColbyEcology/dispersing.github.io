@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Home"
+title: "Mutualism ecology's home"
 author_profile: true
 header:
   image: shroom.jpg
