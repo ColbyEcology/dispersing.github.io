@@ -70,7 +70,7 @@ Item           | Percentage of course | Percentage of laboratory (rounded) |
 :--------------|:---------------------|:-----------------------------------|
 Practical I    | 12.5%                |36%                                 |
 Practical II   | 12.5%                |36%                                 |
-Assignments    | 10%                  |38%                                 |
+Assignments    | 10%                  |28%                                 |
 
 
 ### Lecture schedule (38 lectures)
