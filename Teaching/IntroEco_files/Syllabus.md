@@ -52,7 +52,7 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 
 
 #### Website
-[http://mutualismecology.com/Teaching/Ecology](http://mutualismecology.com/Teaching/Ecology)
+[http://mutualismecology.com/Teaching/Ecology](http://mutualismecology.com/Teaching/IntroEco)
 
 ### Grading  <a id="Grading"></a>
 
