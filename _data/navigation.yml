@@ -51,6 +51,6 @@ introeco:
   - title: Laboratory
     children:
       - title: "Home"
-        url: /Teaching/IntroEco/Syllabus
+        url: /Teaching/IntroEco/Laboratory
       - title: "Schedule"
-        url: /Teaching/IntroEco/Syllabus
+        url: /Teaching/IntroEco/Laboratory
