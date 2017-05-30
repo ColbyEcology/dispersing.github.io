@@ -2,7 +2,7 @@
 layout: single
 title: "Introduction to Ecology schedule"
 sidebar:
-    nav: "docs"
+    nav: "introeco"
 ---
 
 ## Syllabus for *Introduction to Ecology* <a id="Syllabus"></a>
