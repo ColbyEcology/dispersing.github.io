@@ -84,9 +84,9 @@ Practical II   | 12.5%                |36%                                 |
 5 | | | | The ecological niche | |
 6 | | | | Physiological ecology: animals | |
 7 | | | | Physiological ecology: plants | |
-8 | | | | Habitat selection | |
-9 | | | | Foraging | |
-10 | | | | Sociality | |
+8 | | | | Habitat selection and dispersal | |
+9 | | | | Behavior: Foraging and sociality | |
+10 | | | | Phenotypic plasticity | |
 11 | | | | Life history | |
 12 | | | | Assessment I review | |
 13 | | | | Assessment I | |
