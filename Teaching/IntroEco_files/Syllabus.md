@@ -121,4 +121,5 @@ Assignments    | 10%                  |28%                                 |
 [//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
 [//]: # cd Dropbox/\*BIOL271/
 [//]: # pandoc Syllabus.md -f markdown -t html -o Syllabus.html
+[//]: # pandoc Syllabus.md --latex-engine=xelatex -o Syllabus.pdf
 {:/comment}
