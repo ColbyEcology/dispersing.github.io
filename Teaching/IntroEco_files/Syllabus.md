@@ -18,12 +18,12 @@ Ecology is broadly defined as the study the spatial and temporal patterns of the
 #### Professor information <a id="Prof"></a>
 Dr. Christopher M. Moore  
 Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
-Office: TBA  
-Office phone: TBA  
-Calendar: TBA
+Office: <span style="color: red">TBA</span>
+Office phone: <span style="color: red">TBA</span>
+Calendar: <span style="color: red">TBA</span>
 
 #### Meeting dates, times, and location <a id="Meeting"></a>
-MWF, 9--9:50 AM, ???
+MWF, 9&#8212;9:50 AM, <span style="color: red">TBA</span> 
 
 #### Text <a id="Text"></a>
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
@@ -68,9 +68,9 @@ Assessment III | 25%                  |38%                              |
 
 Item           | Percentage of course | Percentage of laboratory (rounded) |
 :--------------|:---------------------|:-----------------------------------|
+Assignments    | 10%                  |28%                                 |
 Practical I    | 12.5%                |36%                                 |
 Practical II   | 12.5%                |36%                                 |
-Assignments    | 10%                  |28%                                 |
 
 
 ### Lecture schedule (38 lectures)  <a id="Schedule"></a>
