@@ -30,27 +30,27 @@ introeco:
   - title: Lecture
     children:
       - title: "Home"
-        url: /Teaching/IntroEco_files/Syllabus
+        url: /Teaching/IntroEco/Syllabus
       - title: "Syllabus"
-        url: /Teaching/IntroEco_files/Syllabus#Syllabus
+        url: /Teaching/IntroEco/Syllabus#Syllabus
       - title: "Professor information"
-        url: /Teaching/IntroEco_files/Syllabus#Prof
+        url: /Teaching/IntroEco/Syllabus#Prof
       - title: "Meeting information"
-        url: /Teaching/IntroEco_files/Syllabus#Meeting
+        url: /Teaching/IntroEco/Syllabus#Meeting
       - title: "Text"
-        url: /Teaching/IntroEco_files/Syllabus#Text
+        url: /Teaching/IntroEco/Syllabus#Text
       - title: "Learning Goals"
-        url: /Teaching/IntroEco_files/Syllabus#Goals
+        url: /Teaching/IntroEco/Syllabus#Goals
       - title: "Grading"
-        url: /Teaching/IntroEco_files/Syllabus#Grading
+        url: /Teaching/IntroEco/Syllabus#Grading
       - title: "Schedule"
-        url: /Teaching/IntroEco_files/Syllabus#Schedule
+        url: /Teaching/IntroEco/Syllabus#Schedule
       - title: "Download syllabus"
-        url: /Teaching/IntroEco_files/Syllabus.docx
+        url: /Teaching/IntroEco/Syllabus.docx
 
   - title: Laboratory
     children:
       - title: "Home"
-        url: /Teaching/IntroEco_files/Syllabus
+        url: /Teaching/IntroEco/Syllabus
       - title: "Schedule"
-        url: /Teaching/IntroEco_files/Syllabus
+        url: /Teaching/IntroEco/Syllabus
