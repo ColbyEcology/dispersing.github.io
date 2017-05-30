@@ -18,9 +18,9 @@ Ecology is broadly defined as the study the spatial and temporal patterns of the
 #### Professor information <a id="Prof"></a>
 Dr. Christopher M. Moore  
 Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
-Office: <span style="color: red">TBA</span>
-Office phone: <span style="color: red">TBA</span>
-Calendar: <span style="color: red">TBA</span>
+Office: <span style="color: red">TBA</span>  
+Office phone: <span style="color: red">TBA</span>  
+Calendar: <span style="color: red">TBA</span>  
 
 #### Meeting dates, times, and location <a id="Meeting"></a>
 MWF, 9&#8212;9:50 AM, <span style="color: red">TBA</span> 
