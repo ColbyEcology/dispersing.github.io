@@ -23,11 +23,13 @@ main:
 
 introeco:
   - title: Introduction to Ecology
+
     children:
       - title: "Home"
         url: /Teaching/IntroEco
 
   - title: Lecture
+
     children:
       - title: "Home"
         url: /Teaching/IntroEco/Syllabus
@@ -57,6 +59,7 @@ introeco:
         url: /Teaching/IntroEco/Syllabus.docx
 
   - title: Laboratory
+
     children:
       - title: "Home"
         url: /Teaching/IntroEco/Laboratory
