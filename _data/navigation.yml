@@ -27,7 +27,7 @@ introeco:
       - title: "Home"
         url: /Teaching/IntroEco
 
-- title: Lecture
+  - title: Lecture
     children:
       - title: "Home"
         url: /Teaching/IntroEco_files/Syllabus
