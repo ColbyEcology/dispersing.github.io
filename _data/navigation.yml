@@ -33,28 +33,20 @@ introeco:
     children:
       - title: "Home"
         url: /Teaching/IntroEco/Syllabus
-
       - title: "Syllabus"
         url: /Teaching/IntroEco/Syllabus#Syllabus
-
       - title: "Professor information"
         url: /Teaching/IntroEco/Syllabus#Prof
-
       - title: "Meeting information"
         url: /Teaching/IntroEco/Syllabus#Meeting
-
       - title: "Text"
         url: /Teaching/IntroEco/Syllabus#Text
-
-      - title: "Learning Goals"
+      - title: "Learning goals"
         url: /Teaching/IntroEco/Syllabus#Goals
-
       - title: "Grading"
         url: /Teaching/IntroEco/Syllabus#Grading
-
       - title: "Schedule"
         url: /Teaching/IntroEco/Syllabus#Schedule
-
       - title: "Download syllabus"
         url: /Teaching/IntroEco/Syllabus.docx
 
