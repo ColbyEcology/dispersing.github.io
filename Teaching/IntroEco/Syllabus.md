@@ -76,47 +76,49 @@ Practical II   | 12.5%                |36%                                 |
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
 
  Meeting  | Date | Day | Module | Lecture | Reading |
-:--------:|------|-----|--------|---------|---------|
-1 | 10/4| W | Course introduction | Course introduction | |
-2 | 10/6 | F | Autecology | The domain of ecology | |
-3 | 10/9 | M | | Evolution | |
-4 | 10/11 | W | | Evolutionary ecology | |
-5 | 10/13 | F | | The ecological niche | |
-  | 10/16 | M | | Fall recess (no class) | |
-6 | 10/18 | W | | Physiological ecology: animals | |
-7 | 10/20 | F | | Physiological ecology: plants | |
-8 | | | | Spatial ecology (e.g., Habitat selection, dispersal, geographic range) | |
-9 | | | | Behavior: individual and group| |
-10 | | | | Phenotypic plasticity | |
-11 | | | | Life history | |
-12 | | | | Assessment I review | |
-13 | | | | Assessment I | |
-14 | | | Population ecology | Exponential growth | |
-15 | | | | Self limitation | |
-16 | | | | Stage and age structured populations | |
-17 | | | | Metapopulations | |
-18 | | | | Deterministic and stochastic dynamics | |
-19 | | | | Competition | |
-20 | | | | Predator-prey | |
-21 | | | | Mutualism | |
-22 | | | | Plant-herbivore/host-parasite | |
-23 | | | | Ecological epidemiology | |
-24 | | | | Coevolution | |
-25 | | | | Assessment II review | |
-26 | | | | Assessment II | |
-27 | | | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | |
-28 | | | | Community statics (e.g., measurement, definitions) | |
-29 | | | | Community dynamics: assembly (e.g., niche, neutral) | |
-30 | | | | Community dynamics: metacommunities | |
-31 | | | | Macroecology | |
-32 | | | | Trophic ecology (incl. food webs, top-down and bottom-up regulation) | |
-33 | | | | Energy flows | |
-34 | | | | Carbon cycling | |
-35 | | | | Nitrogen cycling | |
-36 | | | | Biodiversity and ecosystem functioning | |
-37 | | | | Ecology in the Anthropocene | |
-38 | | | | Assessment III review | |
-39 | | | | Assessment III | |
+:--------:|:----:|:---:|--------|---------|---------|
+1  | 9/6   | W | Course introduction | Course introduction | |
+2  | 9/8   | F | Autecology | The domain of ecology | |
+3  | 9/11  | M | | Evolution | |
+4  | 9/13  | W | | Evolutionary ecology | |
+5  | 9/15  | F | | The ecological niche | |
+6  | 9/18  | M | | Physiological ecology: animals | |
+7  | 9/20  | W | | Physiological ecology: plants | |
+8  | 9/22  | F | | Spatial ecology (e.g., Habitat selection, dispersal, geographic range) | |
+9  | 9/25  | W | | Behavior: individual and group| |
+10 | 9/27  | W | | Phenotypic plasticity | |
+11 | 9/29  | F | | Life history | |
+12 | 10/2  | M | | Assessment I review | |
+13 | 10/4  | W | | Assessment I | |
+14 | 10/6  | F | Population ecology | Exponential growth | |
+15 | 10/9  | M | | Self limitation | |
+16 | 10/11 | W | | Stage and age structured populations | |
+17 | 10/13 | F | | Metapopulations | |
+   | 10/16 | M | | Fall recess (no class) | |
+18 | 10/18 | W | | Deterministic and stochastic dynamics | |
+19 | 10/20 | F | | Mutualism | |
+20 | 10/23 | M | | Competition | |
+21 | 10/25 | W | | Predator-prey | |
+22 | 10/27 | F | | Plant-herbivore/host-parasite | |
+23 | 10/30 | M | | Ecological epidemiology | |
+24 | 11/1  | W | | Coevolution | |
+25 | 11/3  | F | | Assessment II review | |
+26 | 11/6  | M | | Assessment II | |
+27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | |
+28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | |
+29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | |
+30 | 11/15 | W | | Community dynamics: metacommunities | |
+31 | 11/17 | F | | Macroecology | |
+32 | 11/20 | M | | Trophic ecology (incl. food webs, top-down and bottom-up regulation) | |
+   | 11/22 | W | | Thanksgiving recess (no class) | |
+   | 11/24 | F | | Thanksgiving recess (no class) | |
+33 | 11/27 | M | | Energy flows | |
+34 | 11/29 | W | | Carbon cycling | |
+35 | 12/1  | F | | Nitrogen cycling | |
+36 | 12/4  | M | | Biodiversity and ecosystem functioning | |
+37 | 12/6  | W | | Ecology in the Anthropocene | |
+38 | 12/8  | F | | Assessment III review | |
+39 | <span style="color: red">TBA</span>   | | | Assessment III | |
 
 {::comment}
 [//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
