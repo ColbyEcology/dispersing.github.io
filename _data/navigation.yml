@@ -25,32 +25,32 @@ introeco:
   - title: Introduction to Ecology
     children:
       - title: "Home"
-        url: /Teaching/Ecology
+        url: /Teaching/IntroEco
 
 - title: Lecture
     children:
       - title: "Home"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/IntroEco_files/Syllabus
       - title: "Syllabus"
-        url: /Teaching/Ecology_files/Syllabus#Syllabus
+        url: /Teaching/IntroEco_files/Syllabus#Syllabus
       - title: "Professor information"
-        url: /Teaching/Ecology_files/Syllabus#Prof
+        url: /Teaching/IntroEco_files/Syllabus#Prof
       - title: "Meeting information"
-        url: /Teaching/Ecology_files/Syllabus#Meeting
+        url: /Teaching/IntroEco_files/Syllabus#Meeting
       - title: "Text"
-        url: /Teaching/Ecology_files/Syllabus#Text
+        url: /Teaching/IntroEco_files/Syllabus#Text
       - title: "Learning Goals"
-        url: /Teaching/Ecology_files/Syllabus#Goals
+        url: /Teaching/IntroEco_files/Syllabus#Goals
       - title: "Grading"
-        url: /Teaching/Ecology_files/Syllabus#Grading
+        url: /Teaching/IntroEco_files/Syllabus#Grading
       - title: "Schedule"
-        url: /Teaching/Ecology_files/Syllabus#Schedule
+        url: /Teaching/IntroEco_files/Syllabus#Schedule
       - title: "Download syllabus"
-        url: /Teaching/Ecology_files/Syllabus#Schedule
+        url: /Teaching/IntroEco_files/Syllabus#Schedule
 
   - title: Laboratory
     children:
       - title: "Home"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/IntroEco_files/Syllabus
       - title: "Schedule"
-        url: /Teaching/Ecology_files/Syllabus
+        url: /Teaching/IntroEco_files/Syllabus
