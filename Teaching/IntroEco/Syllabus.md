@@ -77,13 +77,14 @@ Practical II   | 12.5%                |36%                                 |
 
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|------|-----|--------|---------|---------|
-1 | | | Course introduction | Course introduction | |
-2 | | | Autecology | The domain of ecology | |
-3 | | | | Evolution | |
-4 | | | | Evolutionary ecology | |
-5 | | | | The ecological niche | |
-6 | | | | Physiological ecology: animals | |
-7 | | | | Physiological ecology: plants | |
+1 | 10/4| W | Course introduction | Course introduction | |
+2 | 10/6 | F | Autecology | The domain of ecology | |
+3 | 10/9 | M | | Evolution | |
+4 | 10/11 | W | | Evolutionary ecology | |
+5 | 10/13 | F | | The ecological niche | |
+  | 10/16 | M | | Fall recess (no class) | |
+6 | 10/18 | W | | Physiological ecology: animals | |
+7 | 10/20 | F | | Physiological ecology: plants | |
 8 | | | | Spatial ecology (e.g., Habitat selection, dispersal, geographic range) | |
 9 | | | | Behavior: individual and group| |
 10 | | | | Phenotypic plasticity | |
