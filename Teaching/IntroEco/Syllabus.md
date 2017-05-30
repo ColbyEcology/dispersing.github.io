@@ -73,7 +73,7 @@ Practical I    | 12.5%                |36%                                 |
 Practical II   | 12.5%                |36%                                 |
 
 
-### Lecture schedule (33 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
+### Lecture schedule (1 introduction, 33 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
 
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|------|-----|--------|---------|---------|
