@@ -5,7 +5,7 @@ sidebar:
     nav: "introeco"
 ---
 
-## Homepage and syllabus for *Introduction to Ecology, BI 271, Lecture B* <a id="Syllabus"></a>
+## Homepage and syllabus for *Introduction to Ecology, BI 271, Lecture B* <a id="Description"></a>
 BI 271, <span style="color: red">TBA</span>  Credits, Fall 2017
 
 Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding natural processes and environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe around the world. In the field-based laboratory we will learn to generate testable ecological hypotheses, develop experimental designs to test our hypotheses, and use statistical inference to quantiatively assess the outcome of our experiments, while gaining first-hand familiarity with local ecological communities.
