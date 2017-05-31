@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Laboratory home"
+title: "Introduction to Ecology, BI 271, Lab C2"
 sidebar:
     nav: "introeco"
 ---
