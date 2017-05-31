@@ -84,8 +84,8 @@ Practical II   | 12.5%                |36%                                 |
 5  | 9/15  | F | | The ecological niche | |
 6  | 9/18  | M | | Physiological ecology: animals | |
 7  | 9/20  | W | | Physiological ecology: plants | |
-8  | 9/22  | F | | Spatial ecology (e.g., Habitat selection, dispersal, geographic range) | |
-9  | 9/25  | W | | Behavior: individual and group| |
+8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
+9  | 9/25  | W | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
 10 | 9/27  | W | | Phenotypic plasticity | |
 11 | 9/29  | F | | Life history | |
 12 | 10/2  | M | | Assessment I review | |
