@@ -60,8 +60,8 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 
 Item           | Percentage of course | Percentate of lecture (rounded) |
 :--------------|:---------------------|:--------------------------------|
-Assessment I   | 20%                  |31%                              |
-Assessment II  | 20%                  |31%                              |
+Assessment I   | 18%                  |28%                              |
+Assessment II  | 22%                  |34%                              |
 Assessment III | 25%                  |38%                              |
 
 #### Laboratory, 35%
