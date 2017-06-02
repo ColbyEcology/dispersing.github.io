@@ -84,8 +84,8 @@ Practical II   | 12.5%                |36%                                 |
 5  | 9/15  | F | | The ecological niche | |
 6  | 9/18  | M | | Physiological ecology: animals | |
 7  | 9/20  | W | | Physiological ecology: plants | |
-8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
-9  | 9/25  | W | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
+8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
+9  | 9/25  | W | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
 10 | 9/27  | W | | Phenotypic plasticity | |
 11 | 9/29  | F | | Life history | |
 12 | 10/2  | M | | Assessment I review | |
@@ -109,7 +109,7 @@ Practical II   | 12.5%                |36%                                 |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | |
 30 | 11/15 | W | | Community dynamics: metacommunities | |
 31 | 11/17 | F | | Macroecology | |
-32 | 11/20 | M | | Trophic ecology (incl. food webs, top-down and bottom-up regulation) | |
+32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) | |
    | 11/22 | W | | Thanksgiving recess (no class) | |
    | 11/24 | F | | Thanksgiving recess (no class) | |
 33 | 11/27 | M | | Energy flows | |
