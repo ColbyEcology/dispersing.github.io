@@ -85,7 +85,7 @@ Practical II   | 12.5%                |36%                                 |
 6  | 9/18  | M | | Physiological ecology: animals | |
 7  | 9/20  | W | | Physiological ecology: plants | |
 8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
-9  | 9/25  | W | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
+9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
 10 | 9/27  | W | | Phenotypic plasticity | |
 11 | 9/29  | F | | Life history | |
 12 | 10/2  | M | | Assessment I review | |
