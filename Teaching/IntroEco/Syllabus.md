@@ -90,8 +90,8 @@ Practical II   | 12.5%                |36%                                 |
 11 | 9/29  | F | | Life history | |
 12 | 10/2  | M | | Assessment I review | |
 13 | 10/4  | W | | Assessment I | |
-14 | 10/6  | F | Population ecology | Exponential growth | |
-15 | 10/9  | M | | Self limitation | |
+14 | 10/6  | F | Population ecology | Population growth | |
+15 | 10/9  | M | | Population limitation | |
 16 | 10/11 | W | | Stage and age structured populations | |
 17 | 10/13 | F | | Metapopulations | |
    | 10/16 | M | | Fall recess (no class) | |
