@@ -7,15 +7,13 @@ permalink: /Contact/
 ## Mail
 
 ### Email
-life.dispersing [the appropriate ending for a gmail address]<br />
-cmm225 [the appropriate ending for a CWRU email address]
+cmmoore [the appropriate ending for a Colby College email address]
 
 ### Snail mail
-Case Western Reserve University<br />
-Department of Biology<br />
-DeGrace Hall<br />
-2080 Adelbert Road<br />
-Cleveland, Ohio 44106, United States
+Colby College<br />
+Biology Department<br />
+5720 Mayflower Hill<br />
+Waterville, Maine 04901, United States
 
 ## Social media
 [Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)<br />
