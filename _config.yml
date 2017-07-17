@@ -78,7 +78,7 @@ author:
   name             : "Christopher M. Moore"
   avatar           : "bio-photo.jpg"
   bio              : "Assistant Professor of Biology at Colby College studying the population and community ecology of mutualism"
-  location         : "Waterville, Maine, U.S."
+  location         :
   email            : cmmoore@colby.edu
   uri              : http://mutualismecology.com
   bitbucket        :
