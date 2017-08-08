@@ -5,8 +5,8 @@ sidebar:
     nav: "introeco"
 ---
 
-## Homepage and syllabus for *Introduction to Ecology, BI 271, Lecture B* <a id="Description"></a>
-BI 271, 4 credit hours, fall semester 2017
+## Homepage and syllabus for *Introduction to Ecology, BI271, Lecture B* <a id="Description"></a>
+BI271 B, 4 Credit hours, Fall semester 2017
 
 Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding natural processes and environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe around the world. In the field-based laboratory we will learn to generate testable ecological hypotheses, develop experimental designs to test our hypotheses, and use statistical inference to quantiatively assess the outcome of our experiments, while gaining first-hand familiarity with local ecological communities.
 
@@ -17,8 +17,8 @@ Ecology is broadly defined as the study the spatial and temporal patterns of the
 
 #### Professor information <a id="Prof"></a>
 Dr. Christopher M. Moore  
-Email: [life.dispersing@gmail.com](life.dispersing@gmail.com)  
-Office: Olin 216
+Email: [cmmoore@colby.edu](cmmoore@colby.edu)  
+Office: Olin 216  
 Office phone: <span style="color: red">TBA</span>  
 Calendar: <span style="color: red">TBA</span>  
 
