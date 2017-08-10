@@ -10,10 +10,13 @@ permalink: /Contact/
 cmmoore [the appropriate ending for a Colby College email address]
 
 ### Snail mail
-Colby College<br />
-Biology Department<br />
-5720 Mayflower Hill<br />
+Colby College  
+Biology Department  
+5720 Mayflower Hill  
 Waterville, Maine 04901, United States
+
+### Office
+Olin, room 216  
 
 ## Social media
 [Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)<br />

@@ -19,7 +19,7 @@ Ecology is broadly defined as the study the spatial and temporal patterns of the
 Dr. Christopher M. Moore  
 Email: [cmmoore@colby.edu](cmmoore@colby.edu)  
 Office: Olin 216  
-Office phone: <span style="color: red">TBA</span>  
+Office phone: 207-859-5745  
 Calendar: <span style="color: red">TBA</span>  
 
 #### Meeting dates, times, and location <a id="Meeting"></a>
