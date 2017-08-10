@@ -9,23 +9,24 @@ permalink: /Contact/
 ### Email
 cmmoore [the appropriate ending for a Colby College email address]
 
+### Office
+Room: Olin 216  
+Phone:  207-859-5745
+
 ### Snail mail
 Colby College  
 Biology Department  
 5720 Mayflower Hill  
 Waterville, Maine 04901, United States
 
-### Office
-Olin, room 216  
-
 ## Social media
-[Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)<br />
-[ResearchGate&#58; <img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px;">](https://www.researchgate.net/profile/Christopher_Moore17)<br />
+[Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)  
+[ResearchGate&#58; <img src="https://www.researchgate.net/apple-touch-icon-57x57.png" style="width:20px;height:20px;">](https://www.researchgate.net/profile/Christopher_Moore17)
 
 ## Other
-[GitHub&#58; dispersing](http://github.com/dispersing)<br />
-[Google Scholar&#58; <i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en)<br />
-[iNaturalist&#58; <i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/arctostaphylophilus)
+[GitHub&#58; dispersing](http://github.com/dispersing)  
+[Google Scholar&#58; <i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en)  
+[iNaturalist&#58; <i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/ecologistchris)
 
 ## Chris and Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
