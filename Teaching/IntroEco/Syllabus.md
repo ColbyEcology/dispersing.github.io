@@ -20,7 +20,8 @@ Dr. Christopher M. Moore
 Email: [cmmoore@colby.edu](cmmoore@colby.edu)  
 Office: Olin 216  
 Office phone: 207-859-5745  
-Calendar: <span style="color: red">TBA</span>  
+Calendar:  
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colby.edu_t88bur7ih5fsbpcj3ro1jorffk%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FNew_York" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 #### Meeting dates, times, and location <a id="Meeting"></a>
 MWF, 9&#8212;9:50 AM, <span style="color: red">TBA</span> 
