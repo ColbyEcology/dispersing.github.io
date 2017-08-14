@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Introduction to Ecology, BI 271, Lecture B"
+title: "Introduction to Ecology, BI271, Lecture B"
 sidebar:
     nav: "introeco"
 ---
