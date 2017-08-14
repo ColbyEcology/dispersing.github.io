@@ -13,6 +13,10 @@ cmmoore [the appropriate ending for a Colby College email address]
 Room: Olin 216  
 Phone:  207-859-5745
 
+### Labratory
+Room: Olin 214  
+Phone:  207-859-5744
+
 ### Snail mail
 Colby College  
 Biology Department  
