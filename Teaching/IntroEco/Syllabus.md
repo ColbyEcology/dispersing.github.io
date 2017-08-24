@@ -57,21 +57,23 @@ Nutrient cycles | Global nitrogen, phosphorus, and carbon cycles, human influenc
 
 ### Grading  <a id="Grading"></a>
 
-#### Lecture, 65%
+#### Lecture, 0.70 of the course grade
 
-Item           | Percentage of course | Percentate of lecture (rounded) |
-:--------------|:---------------------|:--------------------------------|
-Assessment I   | 18%                  |28%                              |
-Assessment II  | 22%                  |34%                              |
-Assessment III | 25%                  |38%                              |
+Item                | Proportion of course   | Proportion of lecture (rounded) |
+:-------------------|:-----------------------|:--------------------------------|
+Problem sets (3)    | 0.05 each (0.15 total) |                                 |
+Paper critiques (3) | 0.05 each (0.15 total) |                                 |
+Assessment I        | 0.18                   | 0.26                            |
+Assessment II       | 0.22                   | 0.30                            |
+Assessment III      | 0.25                   | 0.32                            |
 
-#### Laboratory, 35%
+#### Laboratory, 0.30 of the course grade
 
-Item           | Percentage of course | Percentage of laboratory (rounded) |
+Item           | Proportion of course | Proportion of laboratory (rounded) |
 :--------------|:---------------------|:-----------------------------------|
-Assignments    | 10%                  |28%                                 |
-Practical I    | 12.5%                |36%                                 |
-Practical II   | 12.5%                |36%                                 |
+Assignments    | 0.100                | 0.28                               |
+Practical I    | 0.125                | 0.36                               |
+Practical II   | 0.125                | 0.36                               |
 
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
