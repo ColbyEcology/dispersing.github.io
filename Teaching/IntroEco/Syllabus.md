@@ -71,9 +71,9 @@ Assessment III      | 0.22                 | 0.32                            |
 
 Item           | Proportion of course | Proportion of laboratory (rounded) |
 :--------------|:---------------------|:-----------------------------------|
-Assignments    | 0.10                 | 0.28                               |
-Practical I    | 0.10                 | 0.36                               |
-Practical II   | 0.10                 | 0.36                               |
+Assignments    | 0.10                 | 0.33                               |
+Practical I    | 0.10                 | 0.33                               |
+Practical II   | 0.10                 | 0.33                               |
 
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
