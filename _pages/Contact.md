@@ -20,7 +20,7 @@ Phone:  207-859-5744
 ### Snail mail
 Colby College  
 Biology Department  
-5720 Mayflower Hill  
+5720 Mayflower Hill Drive  
 Waterville, Maine 04901, United States
 
 ## Social media
