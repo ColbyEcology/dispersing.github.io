@@ -23,23 +23,24 @@ Office phone: 207-859-5745
 Calendar:  
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colby.edu_t88bur7ih5fsbpcj3ro1jorffk%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FNew_York" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
+##### Titles and names
+Students are often curious about how to address their professors.  I am comfortable with Dr. Moore, Professor Moore, or Chris.  What's most important to me is that we create a culture of mutual respect in the classroom.  As a sign of respect to you I will, by default, address you as Ms. and Mr. followed by your last name.  Should you have preferred way of being addressed (first name, nickname, etc.), please communicate that to me.
+
 #### Meeting dates, times, and location <a id="Meeting"></a>
-MWF, 9&#8212;9:50 AM, <span style="color: red">TBA</span> 
+MWF, 9&#8212;9:50 AM, in Lovejoy 215
 
 #### Text <a id="Text"></a>
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
 ### Learning Goals for Ecology <a id="Goals"></a>
-
 A. Learn the vocabulary and conceptual framework for the science of ecology.  
 B. Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
 C. Apply concepts and principles to topical ecological issues having implications for policy or management.  
 D. Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
 E. Gain first-hand familiarity with local ecological communities.
 
-#### Concepts to be addressed in a general ecology lecture syllabus 
-
+#### Concepts to be addressed in a general ecology lecture syllabus
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
 Introduction | Definitions, scientific method, graphing, data interpretation
