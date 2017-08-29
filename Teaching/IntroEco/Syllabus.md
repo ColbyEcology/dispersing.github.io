@@ -41,6 +41,7 @@ D. Gain direct experience with generating hypotheses, developing experimental de
 E. Gain first-hand familiarity with local ecological communities.
 
 #### Concepts to be addressed in a general ecology lecture syllabus
+
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
 Introduction | Definitions, scientific method, graphing, data interpretation
@@ -82,7 +83,7 @@ Practical II   | 0.10                 | 0.33                               |
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|:----:|:---:|--------|---------|---------|
 1  | 9/6   | W | Course introduction | Course introduction | |
-2  | 9/8   | F | Autecology | The domain of ecology | |
+2  | 9/8   | F | Autecology | The domain of ecology | CBH: 8--16 |
 3  | 9/11  | M | | Evolution | |
 4  | 9/13  | W | | Evolutionary ecology | |
 5  | 9/15  | F | | The ecological niche | |
