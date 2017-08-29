@@ -83,8 +83,8 @@ Practical II   | 0.10                 | 0.33                               |
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|:----:|:---:|--------|---------|---------|
 1  | 9/6   | W | Course introduction | Course introduction | |
-2  | 9/8   | F | Autecology | The domain of ecology | CBH: 8--16 |
-3  | 9/11  | M | | Evolution | |
+2  | 9/8   | F | Autecology | The domain of ecology | CBH: pp. 8--16 |
+3  | 9/11  | M | | Evolution | CBH: pp. 136--148 |
 4  | 9/13  | W | | Evolutionary ecology | |
 5  | 9/15  | F | | The ecological niche | |
 6  | 9/18  | M | | Physiological ecology: animals | |
