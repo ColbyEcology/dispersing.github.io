@@ -20,7 +20,8 @@ Dr. Christopher M. Moore
 Email: [cmmoore@colby.edu](cmmoore@colby.edu)  
 Office: Olin 216  
 Office phone: 207-859-5745  
-Calendar:  
+Preferred mode of communication: email  
+Calendar:  
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=colby.edu_t88bur7ih5fsbpcj3ro1jorffk%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=America%2FNew_York" style="border-width:0" width="400" height="300" frameborder="0" scrolling="no"></iframe>
 
 ##### Titles and names
@@ -69,6 +70,10 @@ Assessment I        | 0.12                 | 0.14                            |
 Assessment II       | 0.18                 | 0.26                            |
 Assessment III      | 0.22                 | 0.32                            |
 
+- **Problem sets** will include several quantitative and conceptual problems that are designed to help you apply and more deeply understand some of the concepts covered in the lecture material.  There will be one probem set per module, and they will be disributed in lecture and due at the beginning of lecture, two meetings later.
+- **Paper critiques** are designed to help you more thoroughly understand the primary mode of scientific vetting and communication: peer-reviewed journal articles.  There will be three paper critiques of three different papers throughout the semester, with each subsequent critique designed to be more challenging by asking you to more thoroughly understand and substantively criticize the article.
+- **Assessments** are a method used to gauge your understanding of the lecture material while simultaneously rewarding those who have mastered it.
+
 #### Laboratory, 0.30 of the course grade
 
 Item           | Proportion of course | Proportion of laboratory (rounded) |
@@ -77,6 +82,8 @@ Assignments    | 0.10                 | 0.33                               |
 Practical I    | 0.10                 | 0.33                               |
 Practical II   | 0.10                 | 0.33                               |
 
+### Attendance  <a id="Attendance"></a>
+Role will not be taken, but regular attendance is necessary for you to succeed in this course.
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
 
