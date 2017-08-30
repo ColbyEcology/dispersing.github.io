@@ -85,6 +85,8 @@ Practical II   | 0.10                 | 0.33                               |
 ### Attendance  <a id="Attendance"></a>
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
 
+### Academic honesty  <a id="Honesty"></a>
+
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
 
  Meeting  | Date | Day | Module | Lecture | Reading |
