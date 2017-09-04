@@ -80,7 +80,7 @@ Practical II   | 0.10                 | 0.33                               |
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
-Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty. Please see the [College's policy on religious holidays](http://www.colby.edu/spirituallife/religious-holidays/).
+Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|:----:|:---:|--------|---------|---------|
