@@ -6,7 +6,7 @@ sidebar:
 ---
 
 ## Homepage and syllabus for *Introduction to Ecology, BI271, Lecture B* <a id="Description"></a>
-BI271 B, 4 Credit hours, Fall semester 2017
+BI271 Lecutre B, 4 credit hours, fall semester 2017
 
 Ecology is the study of the spatial and temporal patterns of the distribution and abundance of organisms, including causes and consequences.  Studying these patterns provides us with the scientific foundation for understanding natural processes and environmental problems. This course will examine ecological interactions at a wide range of scales from the molecular level, through individuals, populations, communities, ecosystems, and ultimately to the biosphere. We will study how these interactions produce the patterns and processes we observe around the world. In the field-based laboratory we will learn to generate testable ecological hypotheses, develop experimental designs to test our hypotheses, and use statistical inference to quantiatively assess the outcome of our experiments, while gaining first-hand familiarity with local ecological communities.
 
@@ -140,6 +140,18 @@ Honesty, integrity, and personal responsibility are cornerstones of a Colby educ
 Academic dishonesty includes, but is not limited to: violating clearly stated rules for taking an exam or completing homework; plagiarism (including material from sources without a citation and quotation marks around any borrowed words); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or projects for a course; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course without the permission of the instructors.
 
 Academic dishonesty is a serious offense against the college. Sanctions for academic dishonesty are assigned by an academic review board and may include failure on the assignment, failure in the course, or suspension or expulsion from the College.
+
+### Athletic participation
+While Colby College is supportive of athletic participation by its students, academics takes priority over athletics. Both NCAA and Colby rules prohibit missing class for practices. In the case of overlapping commitments between class and athletic competitions, the student must meet with the professor as soon as possible to discuss these overlaps. The student may request permission to miss class and make up the missed work; the instructor has final authority either to grant or to withhold permission
+
+### Sexual misconduct/Title IX statement
+Colby College prohibits and will not tolerate sexual misconduct or gender-based discrimination of any kind. Colby is legally obligated to investigate sexual misconduct (including, but not limited to sexual assault and sexual harassment).
+
+If you wish to speak confidentially about an incident of sexual misconduct, please contact Colby Counseling Services (207-859-4490) or the Director of the Gender and Sexual Diversity Program, Emily Schusterbauer (207-859-4093).
+
+Students should be aware that faculty members are considered responsible employees; as such, if you disclose an incident of sexual misconduct to a faculty member, they have an obligation to report it to Colby's Title IX Coordinator. "Disclosure" may include communication in-person, via email/phone/text, or through class assignments.
+
+To learn more about sexual misconduct or report an incident, visit [http://www.colby.edu/sexualviolence/](http://www.colby.edu/sexualviolence/).
 
 {::comment}
 [//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
