@@ -33,14 +33,14 @@ MWF, 9&#8212;9:50 AM, in Lovejoy 215
 *Ecology*, 3<sup>rd</sup> ed., 2013, by Michael L. Cain, William D. Bowman, and Sally D. Hacker, published by Sinauer Associates, Inc.   
 (Note that the 4<sup>th</sup> ed. published by Oxford University Press in 2017 will suffice)
 
-### Learning Goals for Ecology <a id="Goals"></a>
+### Learning Goals for Introduction to Ecology <a id="Goals"></a>
 A. Learn the vocabulary and conceptual framework for the science of ecology.  
 B. Mature in ability to assess scientific literature, with a special emphasis on data interpretation.  
 C. Apply concepts and principles to topical ecological issues having implications for policy or management.  
 D. Gain direct experience with generating hypotheses, developing experimental designs and applying statistical analyses to ecological data.  
 E. Gain first-hand familiarity with local ecological communities.
 
-#### Concepts to be addressed in a general ecology lecture syllabus
+#### Concepts to be addressed in Introduction to Ecology
 
 Concept        | Topics
 :--------------|:-------------------------------------------------------------------------
