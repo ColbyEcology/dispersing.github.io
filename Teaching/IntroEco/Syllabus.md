@@ -134,6 +134,13 @@ Colby College is supportive of the religious practices of its students, faculty,
 38 | 12/8  | F | | Assessment III review | |
 39 | <span style="color: red">TBA</span>   | | | Assessment III | |
 
+### Academic integrity
+Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community.  These values are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. If you are clear about course expectations, give credit to those whose work you rely on, and submit your best work, you are highly unlikely to commit an act of academic dishonesty.
+
+Academic dishonesty includes, but is not limited to: violating clearly stated rules for taking an exam or completing homework; plagiarism (including material from sources without a citation and quotation marks around any borrowed words); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or projects for a course; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course without the permission of the instructors.
+
+Academic dishonesty is a serious offense against the college. Sanctions for academic dishonesty are assigned by an academic review board and may include failure on the assignment, failure in the course, or suspension or expulsion from the College.
+
 {::comment}
 [//]: <link rel="stylesheet" type="text/css" href="mystyle.css">
 [//]: # cd Dropbox/\*BIOL271/
