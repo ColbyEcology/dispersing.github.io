@@ -65,13 +65,13 @@ Item                | Proportion of course | Proportion of lecture (rounded) |
 :-------------------|:---------------------|:--------------------------------|
 Problem sets (3)    | 0.09 (0.03 each)     | 0.13 (0.04 each)                |
 Paper critiques (3) | 0.09 (0.03 each)     | 0.13 (0.04 each)                |
-Assessment I        | 0.12                 | 0.14                            |
-Assessment II       | 0.18                 | 0.26                            |
-Assessment III      | 0.22                 | 0.32                            |
+Examination I       | 0.12                 | 0.14                            |
+Examination II      | 0.18                 | 0.26                            |
+Examination III     | 0.22                 | 0.32                            |
 
 - **Problem sets** will include several quantitative and conceptual problems that are designed to help you apply and more deeply understand some of the concepts covered in the lecture material.  There will be one probem set per module, and they will be disributed in lecture and due at the beginning of lecture, two meetings later.
 - **Paper critiques** are designed to help you more thoroughly understand the primary mode of scientific vetting and communication: peer-reviewed journal articles.  There will be three paper critiques of three different papers throughout the semester, with each subsequent critique designed to be more challenging by asking you to more thoroughly understand and substantively criticize the article.
-- **Assessments** are a method used to gauge your understanding of the lecture material while simultaneously rewarding those who have mastered it.
+- **Examinations** are a method used to gauge your understanding of the lecture material while simultaneously rewarding those who have mastered it.
 
 #### Laboratory, 0.30 of the course grade
 
@@ -83,8 +83,6 @@ Practical II   | 0.10                 | 0.33                               |
 
 ### Attendance  <a id="Attendance"></a>
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
-
-### Academic honesty  <a id="Honesty"></a>
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty. Please see the [College's policy on religious holidays](http://www.colby.edu/spirituallife/religious-holidays/).
@@ -102,8 +100,8 @@ Colby College is supportive of the religious practices of its students, faculty,
 9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | |
 10 | 9/27  | W | | Phenotypic plasticity | |
 11 | 9/29  | F | | Life history | |
-12 | 10/2  | M | | Assessment I review | |
-13 | 10/4  | W | | Assessment I | |
+12 | 10/2  | M | | Examination I review | |
+13 | 10/4  | W | | Examination I | |
 14 | 10/6  | F | Population ecology | Population growth | |
 15 | 10/9  | M | | Population limitation | |
 16 | 10/11 | W | | Stage and age structured populations | |
@@ -116,8 +114,8 @@ Colby College is supportive of the religious practices of its students, faculty,
 22 | 10/27 | F | | Plant-herbivore/host-parasite | |
 23 | 10/30 | M | | Ecological epidemiology | |
 24 | 11/1  | W | | Coevolution | |
-25 | 11/3  | F | | Assessment II review | |
-26 | 11/6  | M | | Assessment II | |
+25 | 11/3  | F | | Examination II review | |
+26 | 11/6  | M | | Examination II | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | |
@@ -131,20 +129,20 @@ Colby College is supportive of the religious practices of its students, faculty,
 35 | 12/1  | F | | Nitrogen cycling | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | |
 37 | 12/6  | W | | Ecology in the Anthropocene | |
-38 | 12/8  | F | | Assessment III review | |
-39 | <span style="color: red">TBA</span>   | | | Assessment III | |
+38 | 12/8  | F | | Examination III review | |
+39 | <span style="color: red">TBA</span>   | | | Examination III | |
 
-### Academic integrity
+### Academic integrity  <a id="Integrity"></a>
 Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community.  These values are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. If you are clear about course expectations, give credit to those whose work you rely on, and submit your best work, you are highly unlikely to commit an act of academic dishonesty.
 
 Academic dishonesty includes, but is not limited to: violating clearly stated rules for taking an exam or completing homework; plagiarism (including material from sources without a citation and quotation marks around any borrowed words); claiming another’s work or a modification of another’s work as one’s own; buying or attempting to buy papers or projects for a course; fabricating information or citations; knowingly assisting others in acts of academic dishonesty; misrepresentations to faculty within the context of a course; and submitting the same work, including an essay that you wrote, in more than one course without the permission of the instructors.
 
 Academic dishonesty is a serious offense against the college. Sanctions for academic dishonesty are assigned by an academic review board and may include failure on the assignment, failure in the course, or suspension or expulsion from the College.
 
-### Athletic participation
+### Athletic participation  <a id="Athletics"></a>
 While Colby College is supportive of athletic participation by its students, academics takes priority over athletics. Both NCAA and Colby rules prohibit missing class for practices. In the case of overlapping commitments between class and athletic competitions, the student must meet with the professor as soon as possible to discuss these overlaps. The student may request permission to miss class and make up the missed work; the instructor has final authority either to grant or to withhold permission
 
-### Sexual misconduct/Title IX statement
+### Sexual misconduct/Title IX statement  <a id="Misconduct"></a>
 Colby College prohibits and will not tolerate sexual misconduct or gender-based discrimination of any kind. Colby is legally obligated to investigate sexual misconduct (including, but not limited to sexual assault and sexual harassment).
 
 If you wish to speak confidentially about an incident of sexual misconduct, please contact Colby Counseling Services (207-859-4490) or the Director of the Gender and Sexual Diversity Program, Emily Schusterbauer (207-859-4093).
