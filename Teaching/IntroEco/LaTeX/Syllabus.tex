@@ -1,0 +1,893 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{hyperref}
+\hypersetup{unicode=true,
+            pdftitle={Introduction to Ecology, BI271, Lecture B},
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage{longtable,booktabs}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+\title{Introduction to Ecology, BI271, Lecture B}
+\date{}
+
+\begin{document}
+\maketitle
+
+\subsection{\texorpdfstring{Homepage and syllabus for \emph{Introduction
+to Ecology, BI271, Lecture B}
+}{Homepage and syllabus for Introduction to Ecology, BI271, Lecture B }}\label{homepage-and-syllabus-for-introduction-to-ecology-bi271-lecture-b}
+
+BI271 Lecutre B, 4 credit hours, fall semester 2017
+
+Ecology is the study of the spatial and temporal patterns of the
+distribution and abundance of organisms, including causes and
+consequences. Studying these patterns provides us with the scientific
+foundation for understanding natural processes and environmental
+problems. This course will examine ecological interactions at a wide
+range of scales from the molecular level, through individuals,
+populations, communities, ecosystems, and ultimately to the biosphere.
+We will study how these interactions produce the patterns and processes
+we observe around the world. In the field-based laboratory we will learn
+to generate testable ecological hypotheses, develop experimental designs
+to test our hypotheses, and use statistical inference to quantiatively
+assess the outcome of our experiments, while gaining first-hand
+familiarity with local ecological communities.
+
+\paragraph{Professor information }\label{professor-information}
+
+Dr.~Christopher M. Moore\\
+Email: \url{cmmoore@colby.edu} (Note that I will do my best to respond
+to emails within 24 hours)\\
+Office: Olin 216\\
+Office phone: 207-859-5745\\
+Calendar: ~
+
+\subparagraph{Titles and names}\label{titles-and-names}
+
+Students are often curious about how to address their professors. I am
+comfortable with Dr.~Moore, Professor Moore, or Chris. What's most
+important to me is that we create a culture of mutual respect in the
+classroom. As a sign of respect to you I will, by default, address you
+as Ms.~and Mr.~followed by your last name. Should you have preferred way
+of being addressed (first name, nickname, etc.), please communicate that
+to me.
+
+\paragraph{Meeting dates, times, and location
+}\label{meeting-dates-times-and-location}
+
+MWF, 9---9:50 AM, in Lovejoy 215
+
+\paragraph{Text }\label{text}
+
+\emph{Ecology}, 3rd ed., 2013, by Michael L. Cain, William D. Bowman,
+and Sally D. Hacker, published by Sinauer Associates, Inc.\\
+(Note that the 4th ed. published by Oxford University Press in 2017 will
+suffice)
+
+\subsubsection{Learning Goals for Introduction to Ecology
+}\label{learning-goals-for-introduction-to-ecology}
+
+A. Learn the vocabulary and conceptual framework for the science of
+ecology.\\
+B. Mature in ability to assess scientific literature, with a special
+emphasis on data interpretation.\\
+C. Apply concepts and principles to topical ecological issues having
+implications for policy or management.\\
+D. Gain direct experience with generating hypotheses, developing
+experimental designs and applying statistical analyses to ecological
+data.\\
+E. Gain first-hand familiarity with local ecological communities.
+
+\paragraph{Concepts to be addressed in Introduction to
+Ecology}\label{concepts-to-be-addressed-in-introduction-to-ecology}
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule
+\begin{minipage}[b]{0.17\columnwidth}\raggedright\strut
+Concept\strut
+\end{minipage} & \begin{minipage}[b]{0.78\columnwidth}\raggedright\strut
+Topics\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Introduction\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Definitions, scientific method, graphing, data interpretation\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Biogeography\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Climate, biomes, island-biogeography, species-area relationships\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Evolutionary ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Evolution, adaptation, life history\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Population ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Population growth and regulation, demography, metapopulations,
+stochasticity\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Species interactions\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Mutualism, competition, predator-prey, host-parasite\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Community ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Community structure, food webs, community metrics, succession,
+metacommunities\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Ecosystem ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Energy flow, decomposition, primary and secondary production\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.17\columnwidth}\raggedright\strut
+Nutrient cycles\strut
+\end{minipage} & \begin{minipage}[t]{0.78\columnwidth}\raggedright\strut
+Global nitrogen, phosphorus, and carbon cycles, human influences,
+land-atmosphere-ocean interactions\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\paragraph{Website}\label{website}
+
+\href{http://mutualismecology.com/Teaching/IntroEco}{http://mutualismecology.com/Teaching/Ecology}
+
+\subsubsection{Grading }\label{grading}
+
+\paragraph{Lecture, 0.70 of the course
+grade}\label{lecture-0.70-of-the-course-grade}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Item & Proportion of course & Proportion of lecture
+(rounded)\tabularnewline
+\midrule
+\endhead
+Problem sets (3) & 0.09 (0.03 each) & 0.13 (0.04 each)\tabularnewline
+Paper critiques (3) & 0.09 (0.03 each) & 0.13 (0.04 each)\tabularnewline
+Examination I & 0.12 & 0.14\tabularnewline
+Examination II & 0.18 & 0.26\tabularnewline
+Examination III & 0.22 & 0.32\tabularnewline
+\bottomrule
+\end{longtable}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Problem sets} will include several quantitative and conceptual
+  problems that are designed to help you apply and more deeply
+  understand some of the concepts covered in the lecture material. There
+  will be one probem set per module, and they will be disributed in
+  lecture and due at the beginning of lecture, two meetings later.
+\item
+  \textbf{Paper critiques} are designed to help you more thoroughly
+  understand the primary mode of scientific vetting and communication:
+  peer-reviewed journal articles. There will be three paper critiques of
+  three different papers throughout the semester, with each subsequent
+  critique designed to be more challenging by asking you to more
+  thoroughly understand and substantively criticize the article.
+\item
+  \textbf{Examinations} are a method used to gauge your understanding of
+  the lecture material while simultaneously rewarding those who have
+  mastered it.
+\end{itemize}
+
+\paragraph{Laboratory, 0.30 of the course
+grade}\label{laboratory-0.30-of-the-course-grade}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule
+Item & Proportion of course & Proportion of laboratory
+(rounded)\tabularnewline
+\midrule
+\endhead
+Assignments & 0.10 & 0.33\tabularnewline
+Practical I & 0.10 & 0.33\tabularnewline
+Practical II & 0.10 & 0.33\tabularnewline
+\bottomrule
+\end{longtable}
+
+\subsubsection{Attendance }\label{attendance}
+
+Role will not be taken, but regular attendance is necessary for you to
+succeed in this course.
+
+\subsubsection{Lecture schedule (1 introduction, 32 lectures, 3 reviews,
+3 assesments)
+}\label{lecture-schedule-1-introduction-32-lectures-3-reviews-3-assesments}
+
+Colby College is supportive of the religious practices of its students,
+faculty, and staff and is committed to ensuring that all students are
+able to observe their religious beliefs without academic penalty. Please
+see the
+\href{http://www.colby.edu/spirituallife/religious-holidays/}{College's
+policy on religious holidays}.
+
+\begin{longtable}[]{@{}ccclll@{}}
+\toprule
+\begin{minipage}[b]{0.13\columnwidth}\centering\strut
+Meeting\strut
+\end{minipage} & \begin{minipage}[b]{0.08\columnwidth}\centering\strut
+Date\strut
+\end{minipage} & \begin{minipage}[b]{0.07\columnwidth}\centering\strut
+Day\strut
+\end{minipage} & \begin{minipage}[b]{0.10\columnwidth}\raggedright\strut
+Module\strut
+\end{minipage} & \begin{minipage}[b]{0.12\columnwidth}\raggedright\strut
+Lecture\strut
+\end{minipage} & \begin{minipage}[b]{0.12\columnwidth}\raggedright\strut
+Reading\strut
+\end{minipage}\tabularnewline
+\midrule
+\endhead
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+1\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/6\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Course introduction\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Course introduction\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+2\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/8\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Autecology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+The domain of ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+CBH: pp.~8--16\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+3\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/11\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Evolution\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+CBH: pp.~136--148\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+4\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/13\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Evolutionary ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+5\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/15\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+The ecological niche\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+6\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/18\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Physiological ecology: animals\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+7\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/20\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Physiological ecology: plants\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+8\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/22\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Behavior: individual (e.g., foraging, communiation) and group (e.g.,
+mating, sociality)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+9\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/25\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Spatial distributions (e.g., Habitat selection, dispersal, geographic
+range)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+10\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/27\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Phenotypic plasticity\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+11\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+9/29\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Life history\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+12\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/2\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination I review\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+13\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/4\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination I\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+14\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/6\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Population ecology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Population growth\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+15\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/9\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Population limitation\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+16\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/11\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Stage and age structured populations\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+17\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/13\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Metapopulations\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+10/16\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Fall recess (no class)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+18\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/18\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Deterministic and stochastic dynamics\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+19\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/20\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Mutualism\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+20\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/23\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Competition\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+21\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/25\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Predator-prey\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+22\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/27\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Plant-herbivore/host-parasite\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+23\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+10/30\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Ecological epidemiology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+24\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/1\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Coevolution\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+25\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/3\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination II review\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+26\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/6\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination II\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+27\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/8\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Communities and ecosystems\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Biodiversity (evolution, measurements, concepts, biogeography)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+28\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/10\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Community statics (e.g., measurement, definitions)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+29\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/13\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Community dynamics: assembly (e.g., niche, neutral)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+30\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/15\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Community dynamics: metacommunities\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+31\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/17\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Macroecology\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+32\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/20\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Trophic ecology (including food webs, top-down and bottom-up
+regulation)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+11/22\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Thanksgiving recess (no class)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+11/24\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+Thanksgiving recess (no class)\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+33\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/27\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Energy flows\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+34\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+11/29\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Carbon cycling\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+35\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+12/1\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Nitrogen cycling\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+36\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+12/4\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+M\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Biodiversity and ecosystem functioning\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+37\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+12/6\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+W\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Ecology in the Anthropocene\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+38\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+12/8\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+F\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination III review\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\begin{minipage}[t]{0.13\columnwidth}\centering\strut
+39\strut
+\end{minipage} & \begin{minipage}[t]{0.08\columnwidth}\centering\strut
+{TBA}\strut
+\end{minipage} & \begin{minipage}[t]{0.07\columnwidth}\centering\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.10\columnwidth}\raggedright\strut
+\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+Examination III\strut
+\end{minipage} & \begin{minipage}[t]{0.12\columnwidth}\raggedright\strut
+\strut
+\end{minipage}\tabularnewline
+\bottomrule
+\end{longtable}
+
+\subsubsection{Academic integrity }\label{academic-integrity}
+
+Honesty, integrity, and personal responsibility are cornerstones of a
+Colby education and provide the foundation for scholarly inquiry,
+intellectual discourse, and an open and welcoming campus community.
+These values are articulated in the Colby Affirmation and are central to
+this course. You are expected to demonstrate academic honesty in all
+aspects of this course. If you are clear about course expectations, give
+credit to those whose work you rely on, and submit your best work, you
+are highly unlikely to commit an act of academic dishonesty.
+
+Academic dishonesty includes, but is not limited to: violating clearly
+stated rules for taking an exam or completing homework; plagiarism
+(including material from sources without a citation and quotation marks
+around any borrowed words); claiming another's work or a modification of
+another's work as one's own; buying or attempting to buy papers or
+projects for a course; fabricating information or citations; knowingly
+assisting others in acts of academic dishonesty; misrepresentations to
+faculty within the context of a course; and submitting the same work,
+including an essay that you wrote, in more than one course without the
+permission of the instructors.
+
+Academic dishonesty is a serious offense against the college. Sanctions
+for academic dishonesty are assigned by an academic review board and may
+include failure on the assignment, failure in the course, or suspension
+or expulsion from the College.
+
+\subsubsection{Athletic participation }\label{athletic-participation}
+
+While Colby College is supportive of athletic participation by its
+students, academics takes priority over athletics. Both NCAA and Colby
+rules prohibit missing class for practices. In the case of overlapping
+commitments between class and athletic competitions, the student must
+meet with the professor as soon as possible to discuss these overlaps.
+The student may request permission to miss class and make up the missed
+work; the instructor has final authority either to grant or to withhold
+permission
+
+\subsubsection{Sexual misconduct/Title IX statement
+}\label{sexual-misconducttitle-ix-statement}
+
+Colby College prohibits and will not tolerate sexual misconduct or
+gender-based discrimination of any kind. Colby is legally obligated to
+investigate sexual misconduct (including, but not limited to sexual
+assault and sexual harassment).
+
+If you wish to speak confidentially about an incident of sexual
+misconduct, please contact Colby Counseling Services (207-859-4490) or
+the Director of the Gender and Sexual Diversity Program, Emily
+Schusterbauer (207-859-4093).
+
+Students should be aware that faculty members are considered responsible
+employees; as such, if you disclose an incident of sexual misconduct to
+a faculty member, they have an obligation to report it to Colby's Title
+IX Coordinator. ``Disclosure'' may include communication in-person, via
+email/phone/text, or through class assignments.
+
+To learn more about sexual misconduct or report an incident, visit
+\url{http://www.colby.edu/sexualviolence/}.
+
+\{::comment\} {[}//{]}: {[}//{]}: \#
+Dropbox/Projects/dispersing.github.io/Teaching/IntroEco {[}//{]}: \#
+pandoc Syllabus.md -f markdown -t html -o Syllabus.html {[}//{]}: \#
+pandoc Syllabus.md --latex-engine=xelatex -o Syllabus.pdf {[}//{]}: \#
+pandoc Syllabus.md -f markdown -o LaTeX/Syllabus.tex {[}//{]}: \# pandoc
+Syllabus.md -f markdown -s -o LaTeX/Syllabus.tex -V
+geometry:margin=0.5in \{:/comment\}
+
+\end{document}
