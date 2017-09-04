@@ -88,6 +88,7 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 ### Academic honesty  <a id="Honesty"></a>
 
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 assesments)  <a id="Schedule"></a>
+Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty. Please see the [College's policy on religious holidays](http://www.colby.edu/spirituallife/religious-holidays/).
 
  Meeting  | Date | Day | Module | Lecture | Reading |
 :--------:|:----:|:---:|--------|---------|---------|
