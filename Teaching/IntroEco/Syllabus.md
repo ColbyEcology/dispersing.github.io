@@ -90,12 +90,12 @@ Colby College is supportive of the religious practices of its students, faculty,
 4  | 9/13  | W | | Evolutionary ecology | | |
 5  | 9/15  | F | | The ecological niche | | |
 6  | 9/18  | M | | Physiological ecology: animals | | |
-7  | 9/20  | W | | Physiological ecology: plants | |v
+7  | 9/20  | W | | Physiological ecology: plants | | |
 8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | |
-9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | |
+9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned |
 10 | 9/27  | W | | Phenotypic plasticity | | |
 11 | 9/29  | F | | Life history | | |
-12 | 10/2  | M | | Examination I review | | |
+12 | 10/2  | M | | Examination I review | | Problem set I due |
 13 | 10/4  | W | | Examination I | | |
 14 | 10/6  | F | Population ecology | Population growth | | |
 15 | 10/9  | M | | Population limitation | | |
@@ -106,10 +106,10 @@ Colby College is supportive of the religious practices of its students, faculty,
 19 | 10/20 | F | | Mutualism | | |
 20 | 10/23 | M | | Competition | | |
 21 | 10/25 | W | | Predator-prey | | |
-22 | 10/27 | F | | Plant-herbivore/host-parasite | | |
+22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned |
 23 | 10/30 | M | | Ecological epidemiology | | |
 24 | 11/1  | W | | Coevolution | | |
-25 | 11/3  | F | | Examination II review | | |
+25 | 11/3  | F | | Examination II review | | Problem set II due |
 26 | 11/6  | M | | Examination II | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | |
