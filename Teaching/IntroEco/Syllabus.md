@@ -64,7 +64,7 @@ Examination I       | 0.12                 | 0.14                            |
 Examination II      | 0.18                 | 0.26                            |
 Examination III     | 0.22                 | 0.32                            |
 
-- **Problem sets** will include several quantitative and conceptual problems that are designed to help you apply and more deeply understand some of the concepts covered in the lecture material.  There will be one probem set per module, and they will be disributed in lecture and due at the beginning of lecture, two meetings later.
+- **Problem sets** will include several quantitative and conceptual problems that are designed to help you apply and more deeply understand some of the concepts covered in the lecture material.  There will be one probem set per Unit, and they will be disributed in lecture and due at the beginning of lecture, two meetings later.
 - **Paper critiques** are designed to help you more thoroughly understand the primary mode of scientific vetting and communication: peer-reviewed journal articles.  There will be three paper critiques of three different papers throughout the semester, with each subsequent critique designed to be more challenging by asking you to more thoroughly understand and substantively criticize the article.
 - **Examinations** are a method used to gauge your understanding of the lecture material while simultaneously rewarding those who have mastered it.
 
@@ -82,7 +82,7 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 examinations)  <a id="Schedule"></a>
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
- Meeting  | Date | Day | Module | Lecture | Weekly reading | Assignments |
+ Meeting  | Date | Day | Unit | Lecture | Weekly reading | Assignments |
 :--------:|:----:|:---:|--------|---------|---------|-------------|
 1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | |
 2  | 9/8   | F | Autecology | The domain of ecology | | |
