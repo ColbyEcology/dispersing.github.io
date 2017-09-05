@@ -70,14 +70,14 @@ Examination III     | 0.22                 | 0.32                            |
 
 #### Laboratory, 0.30 of the course grade
 
-Item                    | Proportion of course | Proportion of laboratory (rounded) |
+Assignment              | Proportion of course | Proportion of laboratory (rounded) |
 :-----------------------|:---------------------|:-----------------------------------|
-Bog assignment          |                      |                                    |
-Zonation assignment     |                      |                                    |
-R assignment            |                      |                                    |
-Leaf litter assignment  |                      |                                    |
-Biogeography assignment |                      |                                    |
-Demography assignment   |                      |                                    |
+Colby Bog               |                      |                                    |
+Intertidal zonation     |                      |                                    |
+Using R                 |                      |                                      |
+Edge effects experiment |                      |                                    |
+Biogeography experiment |                      |                                    |
+Demography              |                      |                                    |
 Research project        |                      |                                    |
 
 ### Attendance  <a id="Attendance"></a>
