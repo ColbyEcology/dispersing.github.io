@@ -84,8 +84,8 @@ Colby College is supportive of the religious practices of its students, faculty,
 
  Meeting  | Date | Day | Module | Lecture | Reading | Assignments |
 :--------:|:----:|:---:|--------|---------|---------|-------------|
-1  | 9/6   | W | Course introduction | Course introduction | | |
-2  | 9/8   | F | Autecology | The domain of ecology | Syllabus, CBH: pp. 8--16 | |
+1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | |
+2  | 9/8   | F | Autecology | The domain of ecology | | |
 3  | 9/11  | M | | Evolution | | |
 4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned |
 5  | 9/15  | F | | The ecological niche | | |
@@ -112,7 +112,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 25 | 11/3  | F | | Examination II review | | Problem set II due |
 26 | 11/6  | M | | Examination II | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | |
-28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | |
+28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | Paper critique III assigned |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | | |
 30 | 11/15 | W | | Community dynamics: metacommunities | | |
 31 | 11/17 | F | | Macroecology | | |
