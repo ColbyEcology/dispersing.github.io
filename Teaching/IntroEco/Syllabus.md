@@ -87,11 +87,11 @@ Colby College is supportive of the religious practices of its students, faculty,
 1  | 9/6   | W | Course introduction | Course introduction | | |
 2  | 9/8   | F | Autecology | The domain of ecology | CBH: pp. 8--16 | |
 3  | 9/11  | M | | Evolution | CBH: pp. 136--148 | |
-4  | 9/13  | W | | Evolutionary ecology | | |
+4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned |
 5  | 9/15  | F | | The ecological niche | | |
 6  | 9/18  | M | | Physiological ecology: animals | | |
 7  | 9/20  | W | | Physiological ecology: plants | | |
-8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | |
+8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | Paper critique I due |
 9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned |
 10 | 9/27  | W | | Phenotypic plasticity | | |
 11 | 9/29  | F | | Life history | | |
@@ -100,12 +100,12 @@ Colby College is supportive of the religious practices of its students, faculty,
 14 | 10/6  | F | Population ecology | Population growth | | |
 15 | 10/9  | M | | Population limitation | | |
 16 | 10/11 | W | | Stage and age structured populations | | |
-17 | 10/13 | F | | Metapopulations | | |
+17 | 10/13 | F | | Metapopulations | | Paper critique II assigned |
    | 10/16 | M | | Fall recess (no class) | | |
 18 | 10/18 | W | | Deterministic and stochastic dynamics | | |
 19 | 10/20 | F | | Mutualism | | |
 20 | 10/23 | M | | Competition | | |
-21 | 10/25 | W | | Predator-prey | | |
+21 | 10/25 | W | | Predator-prey | | Paper critique II due |
 22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned |
 23 | 10/30 | M | | Ecological epidemiology | | |
 24 | 11/1  | W | | Coevolution | | |
