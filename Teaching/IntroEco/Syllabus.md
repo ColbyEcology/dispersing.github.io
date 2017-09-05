@@ -72,13 +72,13 @@ Examination III     | 0.22                 | 0.32                            |
 
 Item                    | Proportion of course | Proportion of laboratory (rounded) |
 :-----------------------|:---------------------|:-----------------------------------|
-Bog assignment          | 0.10                 | 0.33                               |
-Zonation assignment     | 0.10                 | 0.33                               |
-R assignment            | 0.10                 | 0.33                               |
-Leaf litter assignment  | 0.10                 | 0.33                               |
-Biogeography assignment | 0.10                 | 0.33                               |
-Demography assignment   | 0.10                 | 0.33                               |
-Research project        | 0.10                 | 0.33                               |
+Bog assignment          |                      |                                    |
+Zonation assignment     |                      |                                    |
+R assignment            |                      |                                    |
+Leaf litter assignment  |                      |                                    |
+Biogeography assignment |                      |                                    |
+Demography assignment   |                      |                                    |
+Research project        |                      |                                    |
 
 ### Attendance  <a id="Attendance"></a>
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
