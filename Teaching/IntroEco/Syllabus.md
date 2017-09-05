@@ -70,11 +70,15 @@ Examination III     | 0.22                 | 0.32                            |
 
 #### Laboratory, 0.30 of the course grade
 
-Item           | Proportion of course | Proportion of laboratory (rounded) |
-:--------------|:---------------------|:-----------------------------------|
-Assignments    | 0.10                 | 0.33                               |
-Practical I    | 0.10                 | 0.33                               |
-Practical II   | 0.10                 | 0.33                               |
+Item                    | Proportion of course | Proportion of laboratory (rounded) |
+:-----------------------|:---------------------|:-----------------------------------|
+Bog assignment          | 0.10                 | 0.33                               |
+Zonation assignment     | 0.10                 | 0.33                               |
+R assignment            | 0.10                 | 0.33                               |
+Leaf litter assignment  | 0.10                 | 0.33                               |
+Biogeography assignment | 0.10                 | 0.33                               |
+Demography assignment   | 0.10                 | 0.33                               |
+Research project        | 0.10                 | 0.33                               |
 
 ### Attendance  <a id="Attendance"></a>
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
