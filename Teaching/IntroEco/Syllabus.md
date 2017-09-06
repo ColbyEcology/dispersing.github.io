@@ -74,7 +74,7 @@ Assignment              | Proportion of course | Proportion of laboratory (round
 :-----------------------|:---------------------|:-----------------------------------|
 Colby Bog               |                      |                                    |
 Intertidal zonation     |                      |                                    |
-Using R                 |                      |                                      |
+Using R                 |                      |                                    |
 Edge effects experiment |                      |                                    |
 Biogeography experiment |                      |                                    |
 Demography              |                      |                                    |
@@ -87,7 +87,7 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
  Meeting  | Date | Day | Unit | Lecture | Weekly reading | Assignments | Lecture pdf |
-:--------:|:----:|:---:|--------|---------|---------|-------------|------|
+:--------:|:----:|:---:|--------|---------|---------|-------------|:------:|
 1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | | |
 2  | 9/8   | F | Autecology | The domain of ecology | | | |
 3  | 9/11  | M | | Evolution | | | |
