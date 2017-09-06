@@ -86,50 +86,50 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 examinations)  <a id="Schedule"></a>
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
- Meeting  | Date | Day | Unit | Lecture | Weekly reading | Assignments |
+ Meeting  | Date | Day | Unit | Lecture | Weekly reading | Assignments | Lecture pdf |
 :--------:|:----:|:---:|--------|---------|---------|-------------|
-1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | |
-2  | 9/8   | F | Autecology | The domain of ecology | | |
-3  | 9/11  | M | | Evolution | | |
-4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned |
-5  | 9/15  | F | | The ecological niche | | |
-6  | 9/18  | M | | Physiological ecology: animals | | |
-7  | 9/20  | W | | Physiological ecology: plants | | |
-8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | Paper critique I due |
-9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned |
-10 | 9/27  | W | | Phenotypic plasticity | | |
-11 | 9/29  | F | | Life history | | |
-12 | 10/2  | M | | Examination I review | | Problem set I due |
-13 | 10/4  | W | | Examination I | | |
-14 | 10/6  | F | Population ecology | Population growth | | |
-15 | 10/9  | M | | Population limitation | | |
-16 | 10/11 | W | | Stage and age structured populations | | |
-17 | 10/13 | F | | Metapopulations | | Paper critique II assigned |
-   | 10/16 | M | | Fall recess (no class) | | |
-18 | 10/18 | W | | Deterministic and stochastic dynamics | | |
-19 | 10/20 | F | | Mutualism | | |
-20 | 10/23 | M | | Competition | | |
-21 | 10/25 | W | | Predator-prey | | Paper critique II due |
-22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned |
-23 | 10/30 | M | | Ecological epidemiology | | |
-24 | 11/1  | W | | Coevolution | | |
-25 | 11/3  | F | | Examination II review | | Problem set II due |
-26 | 11/6  | M | | Examination II | | |
-27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | |
-28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | Paper critique III assigned |
-29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | | |
-30 | 11/15 | W | | Community dynamics: metacommunities | | |
-31 | 11/17 | F | | Macroecology | | |
-32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) | | |
-   | 11/22 | W | | Thanksgiving recess (no class) | | |
-   | 11/24 | F | | Thanksgiving recess (no class) | | |
-33 | 11/27 | M | | Energy flows | | |
-34 | 11/29 | W | | Carbon cycling | | |
-35 | 12/1  | F | | Nitrogen cycling | | |
-36 | 12/4  | M | | Biodiversity and ecosystem functioning | | |
-37 | 12/6  | W | | Ecology in the Anthropocene | | |
-38 | 12/8  | F | | Examination III review | | |
-39 | 12/17 @ 6 PM | Su | | Examination III | | |
+1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | | |
+2  | 9/8   | F | Autecology | The domain of ecology | | | |
+3  | 9/11  | M | | Evolution | | | |
+4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned | |
+5  | 9/15  | F | | The ecological niche | | | |
+6  | 9/18  | M | | Physiological ecology: animals | | | |
+7  | 9/20  | W | | Physiological ecology: plants | | | |
+8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | Paper critique I due | |
+9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned | |
+10 | 9/27  | W | | Phenotypic plasticity | | | |
+11 | 9/29  | F | | Life history | | | |
+12 | 10/2  | M | | Examination I review | | Problem set I due | |
+13 | 10/4  | W | | Examination I | | | |
+14 | 10/6  | F | Population ecology | Population growth | | | |
+15 | 10/9  | M | | Population limitation | | | |
+16 | 10/11 | W | | Stage and age structured populations | | | |
+17 | 10/13 | F | | Metapopulations | | Paper critique II assigned | |
+   | 10/16 | M | | Fall recess (no class) | | | |
+18 | 10/18 | W | | Deterministic and stochastic dynamics | | | |
+19 | 10/20 | F | | Mutualism | | | |
+20 | 10/23 | M | | Competition | | | |
+21 | 10/25 | W | | Predator-prey | | Paper critique II due | |
+22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned | |
+23 | 10/30 | M | | Ecological epidemiology | | | |
+24 | 11/1  | W | | Coevolution | | | |
+25 | 11/3  | F | | Examination II review | | Problem set II due | |
+26 | 11/6  | M | | Examination II | | | |
+27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | |
+28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | Paper critique III assigned | |
+29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | | | |
+30 | 11/15 | W | | Community dynamics: metacommunities | | | |
+31 | 11/17 | F | | Macroecology | | | |
+32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) | | | |
+   | 11/22 | W | | Thanksgiving recess (no class) | | | |
+   | 11/24 | F | | Thanksgiving recess (no class) | | | |
+33 | 11/27 | M | | Energy flows | | | |
+34 | 11/29 | W | | Carbon cycling | | | |
+35 | 12/1  | F | | Nitrogen cycling | | | |
+36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | |
+37 | 12/6  | W | | Ecology in the Anthropocene | | | |
+38 | 12/8  | F | | Examination III review | | | |
+39 | 12/17 @ 6 PM | Su | | Examination III | | | |
 
 ### Academic integrity  <a id="Integrity"></a>
 Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community.  These values are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. If you are clear about course expectations, give credit to those whose work you rely on, and submit your best work, you are highly unlikely to commit an act of academic dishonesty.
