@@ -6,7 +6,7 @@ sidebar:
   nav: "introeco"
 ---
 
-This site is under development to be used for *Introduction to Ecology*, BI271, at Colby College for the fall semester of 2017.  The sidebar breaks the course into relevant content for both the Lecture and Laboratory that I teach, Lecture B and Lab C2.
+This site is to be used for *Introduction to Ecology*, BI271, at Colby College for the fall semester of 2017.  The sidebar breaks the course into relevant content for both the Lecture and Laboratory that I teach, Lecture B and Lab C2.
 
 |Instructor | Section   | Days of the week | Time               | Location    |
 |-----------|-----------|------------------|--------------------|-------------|
