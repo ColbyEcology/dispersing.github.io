@@ -97,7 +97,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 5  | 9/15  | F | | The ecological niche | | | |
 6  | 9/18  | M | | Physiological ecology: animals | | | |
 7  | 9/20  | W | | Physiological ecology: plants | | | |
-8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned | | Paper critique I due | |
+8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | Problem set I assigned | | Paper critique I due | |
 9  | 9/25  | M | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
 10 | 9/27  | W | | Phenotypic plasticity | | | |
 11 | 9/29  | F | | Life history | | | |
