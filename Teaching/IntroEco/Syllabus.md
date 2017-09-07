@@ -86,7 +86,7 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 examinations)  <a id="Schedule"></a>
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
-*CBH means we are reading from the textbook, Cain, Bowman, and Hacker
+*(1) CBH means we are reading from the textbook, Cain, Bowman, and Hacker (2) "Weekly reading" should be read the week before the Monday where it's listed. I will minimally have the readings posted one week before.
 
  Meeting  | Date | Day | Unit | Lecture | Weekly reading* | Assignments | Lecture material |
 :--------:|:----:|:---:|--------|---------|---------|-------------|:------:|
@@ -97,8 +97,8 @@ Colby College is supportive of the religious practices of its students, faculty,
 5  | 9/15  | F | | The ecological niche | | | |
 6  | 9/18  | M | | Physiological ecology: animals | | | |
 7  | 9/20  | W | | Physiological ecology: plants | | | |
-8  | 9/22  | F | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | Paper critique I due | |
-9  | 9/25  | M | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned | |
+8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Problem set I assigned | | Paper critique I due | |
+9  | 9/25  | M | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | |
 10 | 9/27  | W | | Phenotypic plasticity | | | |
 11 | 9/29  | F | | Life history | | | |
 12 | 10/2  | M | | Examination I review | | Problem set I due | |
