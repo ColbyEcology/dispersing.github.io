@@ -92,7 +92,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 :--------:|:----:|:---:|--------|---------|---------|-------------|:------:|
 1  | 9/6   | W | Course introduction | Course introduction | Syllabus, CBH: pp. 8--16 | |[pdf](LecturePDFs/Lecture_1_Introduction.pdf) |
 2  | 9/8   | F | Autecology | The domain of ecology | | | |
-3  | 9/11  | M | | Evolution | CBH: pp. 136--148, [http://science.sciencemag.org/content/323/5915/732.full](paper) | | |
+3  | 9/11  | M | | Evolution | CBH: pp. 136--148, [paper](http://science.sciencemag.org/content/323/5915/732.full) | | |
 4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned | |
 5  | 9/15  | F | | The ecological niche | | | |
 6  | 9/18  | M | | Physiological ecology: animals | | | |
