@@ -95,7 +95,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 3  | 9/11  | M | | Evolution | CBH: pp. 136--148, [paper](http://science.sciencemag.org/content/323/5915/732.full) | | |
 4  | 9/13  | W | | Evolutionary ecology | | Paper critique I assigned, [paper](http://www.journals.uchicago.edu/doi/full/10.1086/691536) | |
 5  | 9/15  | F | | The ecological niche | | | |
-6  | 9/18  | M | | Physiological ecology: animals | | | |
+6  | 9/18  | M | | Physiological ecology: animals | CBH: chs. 4,5 | | |
 7  | 9/20  | W | | Physiological ecology: plants | | | |
 8  | 9/22  | F | | Spatial distributions (e.g., Habitat selection, dispersal, geographic range) | | Paper critique I due | |
 9  | 9/25  | M | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | | Problem set I assigned | |
