@@ -72,13 +72,13 @@ Examination III     | 0.22                 | 0.32                            |
 
 Assignment              | Proportion of course | Proportion of laboratory (rounded) |
 :-----------------------|:---------------------|:-----------------------------------|
-Colby Bog               |                      |                                    |
-Intertidal zonation     |                      |                                    |
-Using R                 |                      |                                    |
-Edge effects experiment |                      |                                    |
-Biogeography experiment |                      |                                    |
-Demography              |                      |                                    |
-Research project        |                      |                                    |
+Bog Assignment          | 0.015                | 0.05                               |
+Coast Assignment        | 0.030                | 0.10                               |
+Leaf litter assignment  | 0.045                | 0.15                               |
+Edge effects lab report | 0.090                | 0.30                               |
+Demographics assignment | 0.030                | 0.10                               |
+Research project presentation | 0.075          | 0.25                               |
+Participation           | 0.015                | 0.05                               |
 
 ### Attendance  <a id="Attendance"></a>
 Role will not be taken, but regular attendance is necessary for you to succeed in this course.
