@@ -10,7 +10,7 @@ This site is to be used for *Introduction to Ecology*, BI271, at Colby College f
 
 |Instructor | Section   | Days of the week | Time               | Location    |
 |-----------|-----------|------------------|--------------------|-------------|
-Becknell    | Lecture A | MWF              | 8:00&#8212;8:50 AM | Olin        |
+Becknell    | Lecture A | MWF              | 8:00&#8212;8:50 AM | Olin 001    |
 Moore       | Lecture B | MWF              | 9:00&#8212;9:50 AM | Lovejoy 215 |
 Staffiere   | Lab A1    | T                | 1:00&#8212;4:50 PM | Olin 213    |
 Pearson     | Lab A2    | T                | 1:00&#8212;4:50 PM | Olin 223    |
