@@ -17,7 +17,7 @@ Congratulations---you've successfully navigated to BI271 Lab C2's homepage!  For
 
 Meeting | Date | Day | Laboratory exercise | Assignments |
 :------:|:----:|:---:|---------------------|-------------|
-1       | 9/14  | R  | Evolutionary ecology at the Colby-Marston Bog | [Handout](LabFiles/lab syllabus 2017.docx) |
+1       | 9/14  | R  | Evolutionary ecology at the Colby-Marston Bog | [Handout](LabFiles/Bog handout.pdf) |
 2       | 9/21  | R  | Interspecific Competition & Zonation in Coastal Habitats | |
 3       | 9/28  | R  | Data Analyses and Graphing in R | |
 4       | 10/5  | R  | Community Ecology of Leaf Litter Invertebrates Part I & Local Tree ID | |
