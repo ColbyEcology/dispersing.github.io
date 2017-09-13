@@ -70,7 +70,7 @@ Examination III     | 0.22                 | 0.32                            |
 
 #### Laboratory, 0.30 of the course grade
 
-Assignment              | Proportion of course | Proportion of laboratory (rounded) |
+Assignment              | Proportion of course | Proportion of laboratory           |
 :-----------------------|:---------------------|:-----------------------------------|
 Bog Assignment          | 0.015                | 0.05                               |
 Coast Assignment        | 0.030                | 0.10                               |
