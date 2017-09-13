@@ -86,7 +86,7 @@ Role will not be taken, but regular attendance is necessary for you to succeed i
 ### Lecture schedule (1 introduction, 32 lectures, 3 reviews, 3 examinations)  <a id="Schedule"></a>
 Colby College is supportive of the religious practices of its students, faculty, and staff and is committed to ensuring that all students are able to observe their religious beliefs without academic penalty.  If you observe a religious holiday that will impact your work in this course, please see me at the beginning of the term.  We will then work to find a reasonable accommodation that will allow you to complete the academic work.
 
-*(1) CBH means we are reading from the textbook, Cain, Bowman, and Hacker (2) "Weekly reading" should be read the week before the Monday where it's listed. I will minimally have the readings posted one week before.
+*(1) CBH means we are reading from the textbook, Cain, Bowman, and Hacker (2) "Weekly reading" should be read before the Monday where it's listed. I will have the readings posted one week before we begin covering the material, at the latest.
 
  Meeting  | Date | Day | Unit | Lecture | Weekly reading* | Assignments | Lecture material |
 :--------:|:----:|:---:|--------|---------|---------|-------------|:------:|
