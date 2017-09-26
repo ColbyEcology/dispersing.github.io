@@ -19,7 +19,7 @@ Meeting | Date | Day | Laboratory exercise | Assignments |
 :------:|:----:|:---:|---------------------|-------------|
 1       | 9/14  | R  | Evolutionary ecology at the Colby-Marston Bog | [Handout](LabFiles/Bog handout.pdf) |
 2       | 9/21  | R  | Interspecific Competition & Zonation in Coastal Habitats | [Handout](LabFiles/Reid State Park handout.pdf) |
-3       | 9/28  | R  | Data Analyses and Graphing in R | |
+3       | 9/28  | R  | Data Analyses and Graphing in R | [Assignment](https://drive.google.com/open?id=0B_q8y4usqw_XQ2JSRDhnaFEyM28) |
 4       | 10/5  | R  | Community Ecology of Leaf Litter Invertebrates Part I & Local Tree ID | |
 5       | 10/12 | R  | Edge Effects on Runnals Hill, Part I | |
 6       | 10/19 | R  | No Lab---Fall Break | |
