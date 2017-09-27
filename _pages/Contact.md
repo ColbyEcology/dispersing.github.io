@@ -25,7 +25,6 @@ Waterville, Maine 04901, United States
 
 ## Social media
 [Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)  
-![ResearchGate&#58;](https://upload.wikimedia.org/wikipedia/commons/a/aa/ResearchGate_Logo.png){:height="20%" width="20%"}
 
 
 ## Other
