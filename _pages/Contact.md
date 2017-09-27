@@ -11,7 +11,7 @@ cmmoore [the appropriate ending for a Colby College email address]
 
 ### Office
 Room: Olin 216  
-Phone:  207-859-5745
+Phone:  207-859-5746
 
 ### Labratory
 Room: Olin 214  
