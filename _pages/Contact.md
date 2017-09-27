@@ -25,7 +25,7 @@ Waterville, Maine 04901, United States
 
 ## Social media
 [Twitter&#58; @lifedispersing](https://twitter.com/lifedispersing)  
-[ResearchGate&#58; <img src="https://www.researchgate.net/apple-touch-icon-180x180.png" style="width: 400px;"/>](https://www.researchgate.net/profile/Christopher_Moore17)
+[REsearchGate&#58; <img src="https://www.researchgate.net/apple-touch-icon-180x180.png" style="width: 400px;"/>](https://www.researchgate.net/profile/Christopher_Moore17)
 
 ## Other
 [GitHub&#58; dispersing](http://github.com/dispersing)  
