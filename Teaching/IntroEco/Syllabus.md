@@ -98,7 +98,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 6  | 9/18  | M | | Physiological ecology: temperature | CBH: chs. 4,5 | | [pdf](LecturePDFs/Lecture_6_PhysiologicalEcology.pdf) |
 7  | 9/20  | W | | Physiological ecology: water | | | |
 8  | 9/22  | F | | <s>Spatial distributions</s> | | Paper critique I due | |
-9  | 9/25  | M | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | CBH: 186--199, ch. 7 | Problem set I assigned | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XSkYtcm00R0c0VG8) |
+9  | 9/25  | M | | Behavior: individual (e.g., foraging, communiation) and group (e.g., mating, sociality) | CBH: 186--199, ch. 7 | [Problem set I assigned](https://docs.google.com/a/colby.edu/document/d/17psh9Ivv4y8mVs2kqh_ypbcumKURcHTQsdoBfA4bmHM/edit?usp=sharing) | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XSkYtcm00R0c0VG8) |
 10 | 9/27  | W | | <s>Phenotypic plasticity</s> | | | |
 11 | 9/29  | F | | Life history | | | |
 12 | 10/2  | M | | Examination I review | | Problem set I due | |
