@@ -113,7 +113,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 20 | 10/23 | M | | Competition | | | |
 21 | 10/25 | W | | Predator-prey | | Paper critique II due | |
 22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned | |
-23 | 10/30 | M | | Ecological epidemiology | | | |
+23 | 10/30 | M | | Diesease ecology | | | |
 24 | 11/1  | W | | Coevolution | | | |
 25 | 11/3  | F | | Examination II review | | Problem set II due | |
 26 | 11/6  | M | | Examination II | | | |
