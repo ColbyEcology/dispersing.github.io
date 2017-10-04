@@ -20,7 +20,7 @@ Meeting | Date | Day | Laboratory exercise | Assignments |
 1       | 9/14  | R  | Evolutionary ecology at the Colby-Marston Bog | [Handout](LabFiles/Bog handout.pdf) |
 2       | 9/21  | R  | Interspecific Competition & Zonation in Coastal Habitats | [Handout](LabFiles/Reid State Park handout.pdf) |
 3       | 9/28  | R  | Data Analyses and Graphing in R | [Handout](https://drive.google.com/open?id=0B_q8y4usqw_XQ2JSRDhnaFEyM28), [Algae Data](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XWnRBUjdZcmowblE/view?usp=sharing), [Snail Data](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XOFpkYmJmbHFwTzA/view?usp=sharing), [Intro to R](https://drive.google.com/open?id=1uy9bE5duK3Dl2dtDA7KP1TkPsoq2UcfPauVe2uVyXpo), [Graphing in R](https://drive.google.com/open?id=13EpXXwY2I2CIXYjWvxkw1_bW05tvl45nd3GGf3yWRME) |
-4       | 10/5  | R  | Community Ecology of Leaf Litter Invertebrates Part I & Local Tree ID | |
+4       | 10/5  | R  | Community Ecology of Leaf Litter Invertebrates Part I & Local Tree ID | [Handout](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XTndWVnVXSlYtbFk/view?usp=sharing) |
 5       | 10/12 | R  | Edge Effects on Runnals Hill, Part I | |
 6       | 10/19 | R  | No Lab---Fall Break | |
 7       | 10/26 | R  | Edge Effects on Runnals Hill, Part II; Community Ecology of Leaf Litter Invertebrates, Part II | |
