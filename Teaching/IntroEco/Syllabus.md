@@ -103,7 +103,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 11 | 9/29  | F | | Life history | | | [pdf](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XTUpDV05oakhmZmc/view?usp=sharing) |
 12 | 10/2  | M | | Examination I review | No reading | Problem set I due, [Answers](https://drive.google.com/open?id=0B_q8y4usqw_XNUYtMjJXdjdNTU0) | |
 13 | 10/4  | W | | Examination I | | | [Results](https://drive.google.com/open?id=0B_q8y4usqw_XSFIzeTVnczByQkE) |
-14 | 10/6  | F | Population ecology | Population growth | | | |
+14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E) |
 15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | |
 16 | 10/11 | W | | Stage and age structured populations | | | |
 17 | 10/13 | F | | Metapopulations | | Paper critique II assigned | |
