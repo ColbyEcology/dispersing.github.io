@@ -106,7 +106,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E) |
 15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | |
 16 | 10/11 | W | | Stage and age structured populations | | | |
-17 | 10/13 | F | | Metapopulations | | Paper critique II assigned, (Problem set II, 1/2 assigned)[https://drive.google.com/open?id=1V67IKNxgqGwJZmiCKj5b75-9Y9ah4WBEOaJNQyrAqFs] | |
+17 | 10/13 | F | | Metapopulations | | Paper critique II assigned, [Problem set II, 1/2 assigned](https://drive.google.com/open?id=1V67IKNxgqGwJZmiCKj5b75-9Y9ah4WBEOaJNQyrAqFs) | |
    | 10/16 | M | | Fall recess (no class) | | | |
 18 | 10/18 | W | | Deterministic and stochastic dynamics | | | |
 19 | 10/20 | F | | Mutualism | | Problem set II, 1/2 due | |
