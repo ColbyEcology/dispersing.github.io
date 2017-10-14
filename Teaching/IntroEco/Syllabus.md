@@ -106,16 +106,16 @@ Colby College is supportive of the religious practices of its students, faculty,
 14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E) |
 15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | |
 16 | 10/11 | W | | Stage and age structured populations | | | |
-17 | 10/13 | F | | Metapopulations | | Paper critique II assigned | |
+17 | 10/13 | F | | Metapopulations | | Paper critique II assigned, Problem set II, 1/2 assigned | |
    | 10/16 | M | | Fall recess (no class) | | | |
 18 | 10/18 | W | | Deterministic and stochastic dynamics | | | |
-19 | 10/20 | F | | Mutualism | | | |
+19 | 10/20 | F | | Mutualism | | Problem set II, 1/2 due | |
 20 | 10/23 | M | | Competition | | | |
 21 | 10/25 | W | | Predator-prey | | Paper critique II due | |
-22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II assigned | |
+22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II, 2/2 assigned | |
 23 | 10/30 | M | | Diesease ecology | | | |
 24 | 11/1  | W | | Coevolution | | | |
-25 | 11/3  | F | | Examination II review | | Problem set II due | |
+25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due | |
 26 | 11/6  | M | | Examination II | | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | Paper critique III assigned | |
