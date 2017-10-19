@@ -106,13 +106,13 @@ Colby College is supportive of the religious practices of its students, faculty,
 14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E), [Use R to plot growth](https://drive.google.com/open?id=0B_q8y4usqw_Xd3pVNGZyck1LbDQ) |
 15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | |
 16 | 10/11 | W | | Stage and age structured populations | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XZXlOZ1o2U3NyNDQ) |
-17 | 10/13 | F | | Metapopulations | | [Paper critique II assigned](https://drive.google.com/open?id=1ZIQqwgBNKJxp_XOq3DVNhqgO91MEShbKcvmxA-CXrvc) and [the paper](https://drive.google.com/open?id=0B_q8y4usqw_XeXlhN29pRm9neWM), [Problem set II, 1/2 assigned](https://drive.google.com/open?id=1V67IKNxgqGwJZmiCKj5b75-9Y9ah4WBEOaJNQyrAqFs) | |
+17 | 10/13 | F | | Metapopulations | | [Paper critique II assigned](https://drive.google.com/open?id=1ZIQqwgBNKJxp_XOq3DVNhqgO91MEShbKcvmxA-CXrvc) and [the paper](https://drive.google.com/open?id=0B_q8y4usqw_XeXlhN29pRm9neWM); [Problem set II, 1/2 assigned](https://drive.google.com/open?id=1V67IKNxgqGwJZmiCKj5b75-9Y9ah4WBEOaJNQyrAqFs) | |
    | 10/16 | M | | Fall recess (no class) | No reading | | |
 18 | 10/18 | W | | Deterministic and stochastic dynamics | | | |
 19 | 10/20 | F | | Mutualism | | Problem set II, 1/2 due | |
-20 | 10/23 | M | | Competition | | | |
-21 | 10/25 | W | | Predator-prey | | Paper critique II due | |
-22 | 10/27 | F | | Plant-herbivore/host-parasite | | Problem set II, 2/2 assigned | |
+20 | 10/23 | M | | Competition |[Bronstein 2009](https://drive.google.com/open?id=0B_q8y4usqw_XcDU4a01lcENrVDA); CBH: 272--285; CBH: 292--296, 307--312 | | |
+21 | 10/25 | W | | Predator-prey | | | |
+22 | 10/27 | F | | <s>Plant-herbivore/host-parasite</s> | | Paper critique II due; Problem set II, 2/2 assigned | |
 23 | 10/30 | M | | Diesease ecology | | | |
 24 | 11/1  | W | | Coevolution | | | |
 25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due | |
