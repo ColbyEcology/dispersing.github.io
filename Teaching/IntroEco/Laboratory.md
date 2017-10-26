@@ -23,7 +23,7 @@ Meeting | Date | Day | Laboratory exercise | Assignments |
 4       | 10/5  | R  | Community Ecology of Leaf Litter Invertebrates Part I & Local Tree ID | [Handout](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XTndWVnVXSlYtbFk/view?usp=sharing) |
 5       | 10/12 | R  | Edge Effects on Runnals Hill, Part I | [Handout](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XVl9sN3NhQUt0YTg/view?usp=sharing), [reading](https://drive.google.com/open?id=0B6qyRitXtzQdRVphYTZaVmo4TGs), [data entry sheet for trees](https://drive.google.com/open?id=0B_q8y4usqw_XTnExYjBiSE9QSFU), [data entry sheet for understory](https://drive.google.com/open?id=0B_q8y4usqw_XcTE2cUgwWnlLRTg) |
 6       | 10/19 | R  | No Lab---Fall Break | |
-7       | 10/26 | R  | Edge Effects on Runnals Hill, Part II; Community Ecology of Leaf Litter Invertebrates, Part II | |
+7       | 10/26 | R  | Edge Effects on Runnals Hill, Part II; Community Ecology of Leaf Litter Invertebrates, Part II | [Plot data](https://drive.google.com/open?id=0B_q8y4usqw_XdUZUb29yN0NTZnc), [tree data](https://drive.google.com/open?id=0B_q8y4usqw_XbVE5V1V6VWhLY0k) |
 8       | 11/2  | R  | Community Ecology of Leaf Litter Invertebrates, Part III | |
 9       | 11/9  | R  | Cemetery Demography | |
 10      | 11/16 | R  | Research Project | |
