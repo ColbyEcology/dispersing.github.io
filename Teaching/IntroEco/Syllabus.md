@@ -113,8 +113,8 @@ Colby College is supportive of the religious practices of its students, faculty,
 20 | 10/23 | M | | Competition |[Bronstein 2009](https://drive.google.com/open?id=0B_q8y4usqw_XcDU4a01lcENrVDA); CBH: 272--285; CBH: 292--296, 307--312 | | [Mutualism vid.](https://drive.google.com/open?id=0B_q8y4usqw_XTmNYQzYxbmRqdlE),[Competition vid. 1](https://drive.google.com/open?id=0B_q8y4usqw_XTHJrVW5rdURFRlk),[Competition vid. 2](https://drive.google.com/open?id=0B_q8y4usqw_XSUYtWnpMdmJNYUE) |
 21 | 10/25 | W | | Predator-prey | | | |
 22 | 10/27 | F | | <s>Plant-herbivore/host-parasite</s> | | Paper critique II due; [Problem set II, 2/2 assigned](https://drive.google.com/open?id=1QfAldwUPTAehSVgjsc7Ac5KsK12U3a3IzwoI0tvboqQ) | |
-23 | 10/30 | M | | Diesease ecology | | | |
-24 | 11/1  | W | | Coevolution | | | |
+23 | 10/30 | M | | Diesease ecology | CBH: 326--333 | | |
+24 | 11/1  | W | | <s>Coevolution</s> | | | |
 25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due | |
 26 | 11/6  | M | | Examination II | | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | |
