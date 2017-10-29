@@ -110,7 +110,7 @@ Colby College is supportive of the religious practices of its students, faculty,
    | 10/16 | M | | Fall recess (no class) | No reading | | |
 18 | 10/18 | W | | Deterministic and stochastic dynamics | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XRF9nU28yeTNWeXc), [time series video](https://drive.google.com/open?id=0B_q8y4usqw_XN3RJeUpoMl9Ddmc), [state space video](https://drive.google.com/open?id=0B_q8y4usqw_XbWwyTTUtOFBCVkE) |
 19 | 10/20 | F | | Mutualism | | Problem set II, 1/2 due, [answers](https://drive.google.com/open?id=0B_q8y4usqw_XZHJ5RVRvSGE1NjQ) | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XZnd2Y3VmcXJOSEU) |
-20 | 10/23 | M | | Competition |[Bronstein 2009](https://drive.google.com/open?id=0B_q8y4usqw_XcDU4a01lcENrVDA); CBH: 272--285; CBH: 292--296, 307--312 | |  |
+20 | 10/23 | M | | Competition |[Bronstein 2009](https://drive.google.com/open?id=0B_q8y4usqw_XcDU4a01lcENrVDA); CBH: 272--285; CBH: 292--296, 307--312 | | [Mutualism vid.](https://drive.google.com/open?id=0B_q8y4usqw_XTmNYQzYxbmRqdlE),[Competition vid. 1](https://drive.google.com/open?id=0B_q8y4usqw_XTHJrVW5rdURFRlk),[Competition vid. 2](https://drive.google.com/open?id=0B_q8y4usqw_XSUYtWnpMdmJNYUE) |
 21 | 10/25 | W | | Predator-prey | | | |
 22 | 10/27 | F | | <s>Plant-herbivore/host-parasite</s> | | Paper critique II due; [Problem set II, 2/2 assigned](https://drive.google.com/open?id=1QfAldwUPTAehSVgjsc7Ac5KsK12U3a3IzwoI0tvboqQ) | |
 23 | 10/30 | M | | Diesease ecology | | | |
