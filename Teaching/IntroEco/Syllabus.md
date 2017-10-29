@@ -104,7 +104,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 12 | 10/2  | M | | Examination I review | No reading | Problem set I due, [Answers](https://drive.google.com/open?id=0B_q8y4usqw_XNUYtMjJXdjdNTU0) | |
 13 | 10/4  | W | | Examination I | | | [Results](https://drive.google.com/open?id=0B_q8y4usqw_XSFIzeTVnczByQkE), [Key](https://drive.google.com/open?id=0B_q8y4usqw_XeExYZmxSN2NVdVE) |
 14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E), [Use R to plot growth](https://drive.google.com/open?id=0B_q8y4usqw_Xd3pVNGZyck1LbDQ) |
-15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | [chaos video](https://drive.google.com/open?id=0B_q8y4usqw_XRldVR2VlMEF6LUE), [delay logistic video](https://drive.google.com/open?id=0B_q8y4usqw_Xb0drZ3RUQi1Va1E) |
+15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XRU9nRGFfQ1g1cEE), [chaos video](https://drive.google.com/open?id=0B_q8y4usqw_XRldVR2VlMEF6LUE), [delay logistic video](https://drive.google.com/open?id=0B_q8y4usqw_Xb0drZ3RUQi1Va1E) |
 16 | 10/11 | W | | Stage and age structured populations | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XZXlOZ1o2U3NyNDQ) |
 17 | 10/13 | F | | Metapopulations | | [Paper critique II assigned](https://drive.google.com/open?id=1ZIQqwgBNKJxp_XOq3DVNhqgO91MEShbKcvmxA-CXrvc) and [the paper](https://drive.google.com/open?id=0B_q8y4usqw_XeXlhN29pRm9neWM); [Problem set II, 1/2 assigned](https://drive.google.com/open?id=1V67IKNxgqGwJZmiCKj5b75-9Y9ah4WBEOaJNQyrAqFs) | |
    | 10/16 | M | | Fall recess (no class) | No reading | | |
