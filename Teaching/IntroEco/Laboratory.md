@@ -25,7 +25,7 @@ Meeting | Date | Day | Laboratory exercise | Assignments |
 6       | 10/19 | R  | No Lab---Fall Break | |
 7       | 10/26 | R  | Edge Effects on Runnals Hill, Part II; Community Ecology of Leaf Litter Invertebrates, Part II | [Plot data](https://drive.google.com/open?id=0B_q8y4usqw_XdUZUb29yN0NTZnc), [tree data](https://drive.google.com/open?id=0B_q8y4usqw_XbVE5V1V6VWhLY0k) |
 8       | 11/2  | R  | Community Ecology of Leaf Litter Invertebrates, Part III; Peer-edting of Edge Effects draft | Edge Effects draft due to me via email by 01 Nov. |
-9       | 11/9  | R  | Community Ecology of Leaf Litter Invertebrates, Part IV | |
+9       | 11/9  | R  | Community Ecology of Leaf Litter Invertebrates, Part IV | Edge Effects final paper due, Leaf Litter Assignment due in class |
 10      | 11/16 | R  | Research Project | |
 11      | 11/23 | R  | No Lab---Thanksgiving Break | |
 12      | 11/30 | R  | Research Project | |
