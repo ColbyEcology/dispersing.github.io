@@ -115,7 +115,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 22 | 10/27 | F | | <s>Plant-herbivore/host-parasite</s> | | Paper critique II due; [Problem set II, 2/2 assigned](https://drive.google.com/open?id=1QfAldwUPTAehSVgjsc7Ac5KsK12U3a3IzwoI0tvboqQ) | |
 23 | 10/30 | M | | Diesease ecology | CBH: 326--333 | | |
 24 | 11/1  | W | | <s>Coevolution</s> | | | |
-25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due | |
+25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due, answers: [1](https://drive.google.com/open?id=0B_q8y4usqw_XZ1VFTWpGbWd1WVk) and [2](https://drive.google.com/open?id=0B_q8y4usqw_XYVRyRGlyUkNIa28) | |
 26 | 11/6  | M | | Examination II | | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | | Paper critique III assigned | |
