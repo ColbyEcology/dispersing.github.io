@@ -75,9 +75,9 @@ Assignment              | Proportion of course | Proportion of laboratory       
 :-----------------------|:---------------------|:-----------------------------------|
 Bog Assignment          | 0.015                | 0.05                               |
 Coast Assignment        | 0.030                | 0.10                               |
-Leaf litter assignment  | <s>0.045</s>0.06     | <s>0.15</s>20                      |
-Edge effects lab report | <s>0.090</s>0.105    | <s>0.30</s>35                      |
-Demographics assignment | <s>0.030</s>0        | <s>0.10</s>0                       |
+Leaf litter assignment  | <s>0.045</s> 0.06    | <s>0.15</s> 20                     |
+Edge effects lab report | <s>0.090</s> 0.105   | <s>0.30</s> 35                     |
+Demographics assignment | <s>0.030</s> 0       | <s>0.10</s> 0                      |
 Research project presentation | 0.075          | 0.25                               |
 Participation           | 0.015                | 0.05                               |
 
