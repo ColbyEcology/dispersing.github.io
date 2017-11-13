@@ -118,7 +118,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due, answers: [1](https://drive.google.com/open?id=0B_q8y4usqw_XZ1VFTWpGbWd1WVk) and [2](https://drive.google.com/open?id=0B_q8y4usqw_XYVRyRGlyUkNIa28) | |
 26 | 11/6  | M | | Examination II | | | |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XQVJ3bU9vc3pkbVE) |
-28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | CBH: 359--366 | | |
+28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | CBH: 359--366 | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_Xc2RsNEgxSHVZLTA) |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | CBH: ch.17 | Paper critique III assigned | |
 30 | 11/15 | W | | Community dynamics: metacommunities | | | |
 31 | 11/17 | F | | Macroecology | [Ch. 1 in Pattern and Process in Macroecology](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.2810&rep=rep1&type=pdf) | | |
