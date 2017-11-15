@@ -130,9 +130,9 @@ Colby College is supportive of the religious practices of its students, faculty,
 34 | 11/29 | W | | Carbon cycling | | | |
 35 | 12/1  | F | | Nitrogen cycling | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | |
-37 | 12/6  | W | | Ecology in the Anthropocene | | | |
-38 | 12/8  | F | | Examination III review | | | |
-39 | 12/17 @ 6 PM | Su | | Examination III | | | |
+37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | | |
+38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | |
+39 | 12/17 @ 6 PM | Su | | <s>Examination III</s> | | | |
 
 ### Academic integrity  <a id="Integrity"></a>
 Honesty, integrity, and personal responsibility are cornerstones of a Colby education and provide the foundation for scholarly inquiry, intellectual discourse, and an open and welcoming campus community.  These values are articulated in the Colby Affirmation and are central to this course. You are expected to demonstrate academic honesty in all aspects of this course. If you are clear about course expectations, give credit to those whose work you rely on, and submit your best work, you are highly unlikely to commit an act of academic dishonesty.
