@@ -121,9 +121,9 @@ Colby College is supportive of the religious practices of its students, faculty,
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XQVJ3bU9vc3pkbVE) |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | CBH: 359--366 | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_Xc2RsNEgxSHVZLTA) |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | CBH: ch.17 | [Problem set III, 1/2 assigned](https://drive.google.com/open?id=1j-Ql7rQVWOi9nYiFbr6tk5ZSMw-C1RrzcqG-sVcXiqA) | |
-30 | 11/15 | W | | Community dynamics: metacommunities | | | |
+30 | 11/15 | W | | Community dynamics: metacommunities | | | [pdf](https://drive.google.com/open?id=17REbyF-wnKNJzGsbMHi87oj3ES6wioEj) |
 31 | 11/17 | F | | Macroecology | [Ch. 1 in Pattern and Process in Macroecology](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.473.2810&rep=rep1&type=pdf) | | [pdf](https://drive.google.com/open?id=1XTEfOc9HUcg_KEONlC4a94WdAo9LUb25) |
-32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) |CBH: 485--491 | | |
+32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) |CBH: 485--491 | | [pdf](https://drive.google.com/open?id=1C159grTiHji7TZK7mg72SvlqvFG6EGuw) |
    | 11/22 | W | | Thanksgiving recess (no class) | | | |
    | 11/24 | F | | Thanksgiving recess (no class) | | | |
 33 | 11/27 | M | | Energy flows | | | |
