@@ -126,11 +126,11 @@ Colby College is supportive of the religious practices of its students, faculty,
 32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) |CBH: 485--491 | | [pdf](https://drive.google.com/open?id=1sQRz8Zd4kata1UM_sn44GAulqmHxLG8w) |
    | 11/22 | W | | Thanksgiving recess (no class) | | | |
    | 11/24 | F | | Thanksgiving recess (no class) | | | |
-33 | 11/27 | M | | Energy flows | | | |
-34 | 11/29 | W | | Carbon cycling | | | Problem set III, 2/2 assigned |
+33 | 11/27 | M | | Energy flows | CBH: chs. 20, 21 | | |
+34 | 11/29 | W | | Carbon cycling | CBH: ch. 22 | Problem set III, 2/2 assigned | |
 35 | 12/1  | F | | Nitrogen cycling | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | |
-37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | | Problem set III, 2/2 due |
+37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | Problem set III, 2/2 due | |
 38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | |
 39 | 12/17 @ 6 PM | Su | | Exit interviews from 12/8--17 <s>Examination III</s> | | | |
 
