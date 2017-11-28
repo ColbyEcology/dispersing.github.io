@@ -126,7 +126,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 32 | 11/20 | M | | Trophic ecology (including food webs, top-down and bottom-up regulation) |CBH: 485--491 | Problem set III, 1/2 due, [answers](https://drive.google.com/open?id=1XLkymUcZNYBXilPsTn2yBTvTHtGLTV7B) | [pdf](https://drive.google.com/open?id=1sQRz8Zd4kata1UM_sn44GAulqmHxLG8w) |
    | 11/22 | W | | Thanksgiving recess (no class) | | | |
    | 11/24 | F | | Thanksgiving recess (no class) | | | |
-33 | 11/27 | M | | Production <s>Energy flows</s> | CBH: chs. 20, 21 | | |
+33 | 11/27 | M | | Production <s>Energy flows</s> | CBH: chs. 20, 21 | | [pdf](https://drive.google.com/open?id=1-ZoY_CEpJ1od6zKoEVrlSpXO2uyU8HJV), [LAI animation](https://drive.google.com/open?id=1_lu6cUKfgTbpVxY6Tj1AcLYAazxhfMzA), [Terrestrial NPP animation](https://drive.google.com/open?id=16aRq9hL68JxBVeo1NvEzHhB8oEnGnW_G), [Marine NPP animation](https://drive.google.com/open?id=1jGAX4-rhQ41fmjI8ltCzuXdSo9nSXtvY) |
 34 | 11/29 | W | | Energy flows <s>Carbon cycling</s> | CBH: ch. 22 | Problem set III, 2/2 assigned | |
 35 | 12/1  | F | | Nutrient supply and cycling <s>Nitrogen cycling</s> | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | |
