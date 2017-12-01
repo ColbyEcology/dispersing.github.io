@@ -9,7 +9,7 @@ author_profile: true
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
 | In revision | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecography  |  [bioRxiv](http://biorxiv.org/content/early/2017/03/24/120485) | [Preprint](/Publications/preprints/Dittel_et_al._RDSDM.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | | |
-| In print | Population dynamics of mutualism and intraspecific density dependence: how &theta;-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Ecological Modelling  |  [bioRxiv](http://biorxiv.org/content/early/2017/02/13/108175) | [Proof](/Publications/reprints/Moore_et_al._2017_proof.pdf), [Supp. Mat](/Publications/reprints/Moore_et_al._2017_SuppMat_proof.pdf)  | [Link](https://github.com/dispersing/Mutualism-NonlinearDensityDependence) | | |
+| In print | Population dynamics of mutualism and intraspecific density dependence: how &theta;-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Ecological Modelling  |  [bioRxiv preprint](http://biorxiv.org/content/early/2017/02/13/108175) | [Proofs](/Publications/reprints/Moore_et_al._2017_proof.pdf), [Supp. Mat. proofs](/Publications/reprints/Moore_et_al._2017_SuppMat_proof.pdf)  | [Link](https://github.com/dispersing/Mutualism-NonlinearDensityDependence) | | |
 
 ## Peer-reviewed publications
 
