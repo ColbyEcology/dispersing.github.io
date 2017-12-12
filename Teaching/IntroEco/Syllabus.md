@@ -127,7 +127,7 @@ Colby College is supportive of the religious practices of its students, faculty,
    | 11/22 | W | | Thanksgiving recess (no class) | | | |
    | 11/24 | F | | Thanksgiving recess (no class) | | | |
 33 | 11/27 | M | | Production <s>Energy flows</s> | CBH: chs. 20, 21 | | [pdf](https://drive.google.com/open?id=1-ZoY_CEpJ1od6zKoEVrlSpXO2uyU8HJV), [LAI animation](https://drive.google.com/open?id=1_lu6cUKfgTbpVxY6Tj1AcLYAazxhfMzA), [Terrestrial NPP animation](https://drive.google.com/open?id=16aRq9hL68JxBVeo1NvEzHhB8oEnGnW_G), [Marine NPP animation](https://drive.google.com/open?id=1jGAX4-rhQ41fmjI8ltCzuXdSo9nSXtvY) |
-34 | 11/29 | W | | Energy flows <s>Carbon cycling</s> | CBH: ch. 22 | [Problem set III, 2/2 assigned](https://drive.google.com/open?id=1ZkKlM4dKP82y-gy1AERXLV7oYmtboQwyHk2wb7VIr9s) | [pdf](https://drive.google.com/open?id=1Y0ozHJUFMZbEkvhKM2eCwBmH--W7Y66q) |
+34 | 11/29 | W | | Energy flows <s>Carbon cycling</s> | CBH: ch. 22 | [Problem set III, 2/2 assigned](https://drive.google.com/open?id=1ZkKlM4dKP82y-gy1AERXLV7oYmtboQwyHk2wb7VIr9s), [answers](https://drive.google.com/open?id=1M5jWiMfM9MTRNxPKwK1SEF6esqaOoji80BfUqi7fPaY) | [pdf](https://drive.google.com/open?id=1Y0ozHJUFMZbEkvhKM2eCwBmH--W7Y66q) |
 35 | 12/1  | F | | Nutrient supply and cycling <s>Nitrogen cycling</s> | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | [pdf](https://drive.google.com/open?id=1gsHvmvuNf7lrUttfj_gIUQQiQA_edra4) |
 37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | Problem set III, 2/2 due | |
