@@ -131,7 +131,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 35 | 12/1  | F | | Nutrient supply and cycling <s>Nitrogen cycling</s> | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | [pdf](https://drive.google.com/open?id=1gsHvmvuNf7lrUttfj_gIUQQiQA_edra4) |
 37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | Problem set III, 2/2 due | |
-38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | |
+38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | [Key](https://drive.google.com/open?id=1Ozc8sQQS-n4sRdryZ7-pzFZnqNSYHKBtqPIe90u3OqY), [Exam III histogram](https://drive.google.com/open?id=1i7ScjivMjj4uX0GMBFFTR-sqWIwYtW_h), [Exam III scores X section](https://drive.google.com/open?id=1K0YHMfjOyEkPsfOQ_wKrs40-Uxxp6dZc), [Exam III scores compared with I & II](https://drive.google.com/open?id=1wOPJHS7UEed8opZiighGnICSUcqs9C2z) |
 39 | 12/17 @ 6 PM | Su | | Exit interviews from 12/8--17 <s>Examination III</s> | | | |
 
 ### Academic integrity  <a id="Integrity"></a>
