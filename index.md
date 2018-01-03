@@ -10,7 +10,7 @@ Hello, and thank you for visiting my website! Its purpose is to serve as an inte
 * [a brief description of my research and research interests,](/Research)
 * [links to courses I have taught or organized,](/Teaching)
 * [publications, with links to the papers, reprints, code, and data,](/Publications)
-* [a blog/news feed,](/Blog)
+<!--- * [a blog/news feed,](/Blog) --->
 * [some photographic experiences in my work as an ecologist,](/Photos)
 * [some fun quotes I've collected over the years, and](/Quotes)
 * [my contact information](/Contact)
