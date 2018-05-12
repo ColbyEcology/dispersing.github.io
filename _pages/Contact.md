@@ -28,6 +28,7 @@ Waterville, Maine 04901, United States
 [ResearchGate&#58; <img src="https://www.researchgate.net/apple-touch-icon-180x180.png" style="width: 25px;"/>](https://www.researchgate.net/profile/Christopher_Moore17)
 
 ## Other
+[GitHub&#58; dispersing](http://github.com/ColbyEcology)  
 [GitHub&#58; dispersing](http://github.com/dispersing)  
 [Google Scholar&#58; <i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en)  
 [iNaturalist&#58; <i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/ecologistchris)
