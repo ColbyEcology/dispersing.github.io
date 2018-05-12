@@ -4,8 +4,6 @@ author_profile: true
 title: "Contact"
 permalink: /Contact/
 ---
-<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
-
 ## Mail
 
 ### Email
