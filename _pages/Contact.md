@@ -4,6 +4,9 @@ author_profile: true
 title: "Contact"
 permalink: /Contact/
 ---
+
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
 ## Mail
 
 ### Email
