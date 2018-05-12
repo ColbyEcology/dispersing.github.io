@@ -4,6 +4,8 @@ author_profile: true
 title: "Contact"
 permalink: /Contact/
 ---
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+
 ## Mail
 
 ### Email
@@ -31,7 +33,7 @@ Waterville, Maine 04901, United States
 [GitHub&#58; ColbyEcology](http://github.com/ColbyEcology)  
 [GitHub&#58; dispersing](http://github.com/dispersing)  
 [Google Scholar&#58; <i class="fa fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en)  
-[iNaturalist&#58; <i class="fa fa-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0001-5783-9833)
+[ORCID&#58; <i class="ai ai-orcid" aria-hidden="true"></i>](https://orcid.org/0000-0001-5783-9833)  
 [iNaturalist&#58; <i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/ecologistchris)
 
 ## Chris and Morro manzanita (*Actrostaphylos morroensis*) in 2011
