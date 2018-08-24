@@ -13,8 +13,9 @@ excerpt: "I study the ecology of species interactions, with a focus on both  pos
 ---
 
 [In construction]
-Name | Class | Period in the lab | Project(s) |
-|:---|:-----:|:------------------|:-----------|
+
+|Name | Class | Period in the lab | Project(s) |
+|:----|:-----:|:------------------|:-----------|
 Nate Dowd | '19 | Summer 2018 | Intrapolyp distribution of **Symbiodinium** |
 Mairead Farrell | '21 | Summer 2018 | Mutualism between coral and zooxanthellae |
 Jack Koskinen | '21 | Summer 2018 | Ant and aphid population dynamics |
