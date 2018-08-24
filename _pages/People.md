@@ -1,7 +1,7 @@
 ---
-title: "Research"
+title: "People"
 layout: single
-permalink: /Research/
+permalink: /People/
 author_profile: true
 
 header:
