@@ -8,7 +8,7 @@ author_profile: true
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-| In revision | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecography  |  [bioRxiv](http://biorxiv.org/content/early/2017/03/24/120485) | [Preprint](/Publications/preprints/Dittel_et_al._RDSDM.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | | |
+| Accepted | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecography  |  [bioRxiv](http://biorxiv.org/content/early/2017/03/24/120485) | [Preprint](/Publications/preprints/Dittel_et_al._RDSDM.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | | |
 
 ## Peer-reviewed publications
 
