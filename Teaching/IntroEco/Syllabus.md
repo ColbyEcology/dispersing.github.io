@@ -103,7 +103,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 10 | 9/27  | W | | <s>Phenotypic plasticity</s> | | | |
 11 | 9/29  | F | | Life history | | | [pdf](https://drive.google.com/a/colby.edu/file/d/0B_q8y4usqw_XTUpDV05oakhmZmc/view?usp=sharing) |
 12 | 10/2  | M | | Examination I review | No reading | Problem set I due, [Answers](https://drive.google.com/open?id=0B_q8y4usqw_XNUYtMjJXdjdNTU0) | |
-13 | 10/4  | W | | Examination I | | | [Results](https://drive.google.com/open?id=0B_q8y4usqw_XSFIzeTVnczByQkE), [Key](https://drive.google.com/open?id=0B_q8y4usqw_XeExYZmxSN2NVdVE) |
+13 | 10/4  | W | | Examination I | | | [Results](https://drive.google.com/open?id=0B_q8y4usqw_XSFIzeTVnczByQkE), Key |
 14 | 10/6  | F | Population ecology | Population growth | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XNktLX284MEJsS1E), [Use R to plot growth](https://drive.google.com/open?id=0B_q8y4usqw_Xd3pVNGZyck1LbDQ) |
 15 | 10/9  | M | | Population limitation | CBH: 236--245, CBH: 227--236, CBH: 263--266 | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XRU9nRGFfQ1g1cEE), [chaos video](https://drive.google.com/open?id=0B_q8y4usqw_XRldVR2VlMEF6LUE), [delay logistic video](https://drive.google.com/open?id=0B_q8y4usqw_Xb0drZ3RUQi1Va1E) |
 16 | 10/11 | W | | Stage and age structured populations | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XZXlOZ1o2U3NyNDQ) |
@@ -117,7 +117,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 23 | 10/30 | M | | Diesease ecology | CBH: 326--333 | | |
 24 | 11/1  | W | | <s>Coevolution</s> | | | |
 25 | 11/3  | F | | Examination II review | | Problem set II,2/2 due, answers: [1](https://drive.google.com/open?id=0B_q8y4usqw_XZ1VFTWpGbWd1WVk) and [2](https://drive.google.com/open?id=0B_q8y4usqw_XYVRyRGlyUkNIa28) | |
-26 | 11/6  | M | | Examination II | | | [Key](https://drive.google.com/open?id=0B_q8y4usqw_XUzN3U1NqblBRZDg), [Results](https://drive.google.com/open?id=0B_q8y4usqw_XT2ttYzlpNXE4VEE) |
+26 | 11/6  | M | | Examination II | | | Key, [Results](https://drive.google.com/open?id=0B_q8y4usqw_XT2ttYzlpNXE4VEE) |
 27 | 11/8  | W | Communities and ecosystems | Biodiversity (evolution, measurements, concepts, biogeography) | | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_XQVJ3bU9vc3pkbVE) |
 28 | 11/10 | F | | Community statics (e.g., measurement, definitions) | CBH: 359--366 | | [pdf](https://drive.google.com/open?id=0B_q8y4usqw_Xc2RsNEgxSHVZLTA) |
 29 | 11/13 | M | | Community dynamics: assembly (e.g., niche, neutral) | CBH: ch.17 | [Problem set III, 1/2 assigned](https://drive.google.com/open?id=1j-Ql7rQVWOi9nYiFbr6tk5ZSMw-C1RrzcqG-sVcXiqA) | [pdf](https://drive.google.com/open?id=17REbyF-wnKNJzGsbMHi87oj3ES6wioEj) |
@@ -131,7 +131,7 @@ Colby College is supportive of the religious practices of its students, faculty,
 35 | 12/1  | F | | Nutrient supply and cycling <s>Nitrogen cycling</s> | | | |
 36 | 12/4  | M | | Biodiversity and ecosystem functioning | | | [pdf](https://drive.google.com/open?id=1gsHvmvuNf7lrUttfj_gIUQQiQA_edra4) |
 37 | 12/6  | W | | Eamination III review <s>Ecology in the Anthropocene</s> | | Problem set III, 2/2 due | |
-38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | [Key](https://drive.google.com/open?id=1Ozc8sQQS-n4sRdryZ7-pzFZnqNSYHKBtqPIe90u3OqY), [Exam III histogram](https://drive.google.com/open?id=1i7ScjivMjj4uX0GMBFFTR-sqWIwYtW_h), [Exam III scores X section](https://drive.google.com/open?id=1K0YHMfjOyEkPsfOQ_wKrs40-Uxxp6dZc), [Exam III scores compared with I & II](https://drive.google.com/open?id=1wOPJHS7UEed8opZiighGnICSUcqs9C2z) |
+38 | 12/8  | F | | Examination III <s>Examination III review</s> | | | Key, [Exam III histogram](https://drive.google.com/open?id=1i7ScjivMjj4uX0GMBFFTR-sqWIwYtW_h), [Exam III scores X section](https://drive.google.com/open?id=1K0YHMfjOyEkPsfOQ_wKrs40-Uxxp6dZc), [Exam III scores compared with I & II](https://drive.google.com/open?id=1wOPJHS7UEed8opZiighGnICSUcqs9C2z) |
 39 | 12/17 @ 6 PM | Su | | Exit interviews from 12/8--17 <s>Examination III</s> | | | |
 
 ### Academic integrity  <a id="Integrity"></a>
