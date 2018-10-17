@@ -3,6 +3,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
 
 <div itemscope itemtype="http://schema.org/Person">
 
@@ -106,8 +107,9 @@
       {% if author.inaturalist %}
         <li><a href="http://www.inaturalist.org/people/{{ author.inaturalist }}"><i class="fa fa-fw fa-leaf" aria-hidden="true"></i> iNaturalist</a></li>
       {% endif %}
+      
       {% if author.orcid %}
-        <li><a href="https://orcid.org/{{ author.orcid }}"> ORCID</a></li>
+        <li><a href="https://orcid.org/{{ author.orcid }}">i class="ai ai-orcid" aria-hidden="true"></i> ORCID</a></li>
       {% endif %}
 
     </ul>
