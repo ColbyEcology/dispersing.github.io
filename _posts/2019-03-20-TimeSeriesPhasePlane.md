@@ -2,6 +2,10 @@
 title: Time Series and Phase Plane Animation in R
 ---
 
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 For my current position I've currently taught a course in ecology and ecological modeling. For both courses I cover population dynamics and species interactions. A tool commonly used for the qualitative analysis of two-dimensional systems—i.e., two-species interactions—is the [phase plane](https://en.wikipedia.org/wiki/Phase_plane).
 
 I introduce students to phase planes along with some differential equation analysis as tools to provide graphical and analytical examples to help students learn about different types of ecological interactions. The problem with this approach is that time series seems to be how many of use first think about these problems. Even the differential equations themselves are expressed as a rate of change: how populations change over time!
@@ -11,10 +15,10 @@ Graphically producing the time series results are important to show but not as u
 What I have done the past four semesters is first shown the differential equations describing neutral species interactions (i.e., logistic growth: $\mathrm{d}N_i/\mathrm{d}t = r_i N_i - \alpha _i N_i^2 ~ \text{for i = 1,2}$). Next, I show several time series for both species to show the four qualitative behaviors of both populations are below their equilibrium, both are above, one is above and the other below, and vice versa. Next, I will show what this would look like in a phase plane, with $N_1$ and $N_2$ on their own axes. Students will notice that they converge on a single point, and I'll ask what that means. Next, I will go back to the equations, set $\mathrm{d}N_i/\mathrm{d}t = 0$ to find the equations for the null clines, then plot them. That seems to click for most students. Ultimately, I will show, over and over by looping the video, for a given initial condition (i.e., $N_1$ and $N_2$ with specific values), how the populations change as a time series and how that corresponds to trajectories through a phase plane.
 
 Anyhow, I have posted the time series + phase plane animations a couple of times over the past two years, and it looks some people are interested in how I did this in R. Here's my pseudo code:
-> Step 1: load packages
-> Step 2: write a function for our numerical solver, `ode()`
-> Step 3: set initial conditions, parameter values, a sequence of time
-> Step 4: run `ode()`
+> Step 1: load packages   
+> Step 2: write a function for our numerical solver, `ode()`   
+> Step 3: set initial conditions, parameter values, a sequence of time   
+> Step 4: run `ode()`   
 > Step 5: run the animation function
 
 Note that you will need to install [ffmpeg](https://ffmpeg.org/) for the `animation` package to produce the .mp4. I wrote step-by-step instructions on how to run an animation on OSX a few years ago: [link](http://mutualismecology.com/DynamicHexagonsInR/).
