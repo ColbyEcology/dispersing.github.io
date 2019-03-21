@@ -1,10 +1,7 @@
 ---
 title: Time Series and Phase Plane Animation in R
+mathjax: true
 ---
-
-<script type="text/javascript" async
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
 
 For my current position I've currently taught a course in ecology and ecological modeling. For both courses I cover population dynamics and species interactions. A tool commonly used for the qualitative analysis of two-dimensional systems—i.e., two-species interactions—is the [phase plane](https://en.wikipedia.org/wiki/Phase_plane).
 
@@ -12,7 +9,7 @@ I introduce students to phase planes along with some differential equation analy
 
 Graphically producing the time series results are important to show but not as ultimately informative as phase planes. On phase planes one can plot a direction field, nullclines (i.e., zero-growth isoclines), initial-condition trajectories, and separatrices among other things. Collectively, these features can give one an understanding about ways to model and about the qualitative behavior of species interactions.
 
-What I have done the past four semesters is first shown the differential equations describing neutral species interactions (i.e., logistic growth: $\mathrm{d} N_i / \mathrm{d} t = r_i N_i - \alpha_i N_i^2$, for $i = 1,2$). Next, I show several time series for both species to show the four qualitative behaviors of both populations are below their equilibrium, both are above, one is above and the other below, and vice versa. Next, I will show what this would look like in a phase plane, with $N_1$ and $N_2$ on their own axes. Students will notice that they converge on a single point, and I'll ask what that means. Next, I will go back to the equations, set $\mathrm{d} N_i / \mathrm{d} t = 0$ to find the equations for the null clines, then plot them. That seems to click for most students. Ultimately, I will show, over and over by looping the video, for a given initial condition (i.e., $N_1$ and $N_2$ with specific values), how the populations change as a time series and how that corresponds to trajectories through a phase plane.
+What I have done the past four semesters is first shown the differential equations describing neutral species interactions (i.e., logistic growth: $$\mathrm{d} N_i / \mathrm{d} t = r_i N_i - \alpha_i N_i^2$$, for $$i = 1, 2$$). Next, I show several time series for both species to show the four qualitative behaviors of both populations are below their equilibrium, both are above, one is above and the other below, and vice versa. Next, I will show what this would look like in a phase plane, with $$N_1$$ and $$N_2$$ on their own axes. Students will notice that they converge on a single point, and I'll ask what that means. Next, I will go back to the equations, set $\mathrm{d} N_i / \mathrm{d} t = 0$ to find the equations for the null clines, then plot them. That seems to click for most students. Ultimately, I will show, over and over by looping the video, for a given initial condition (i.e., $$N_1$$ and $$N_2$$ with specific values), how the populations change as a time series and how that corresponds to trajectories through a phase plane.
 
 Anyhow, I have posted the time series + phase plane animations a couple of times over the past two years, and it looks some people are interested in how I did this in R. Here's my pseudo code:
 > Step 1: load packages   
