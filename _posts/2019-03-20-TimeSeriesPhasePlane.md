@@ -16,7 +16,11 @@ Anyhow, I have posted the time series + phase plane animations a couple of times
 > Step 2: write a function for our numerical solver, `ode()`   
 > Step 3: set initial conditions, parameter values, a sequence of time   
 > Step 4: run `ode()`   
-> Step 5: run the animation function
+> Step 5: run the animation function (`saveVideo()`)
+
+What is "animated" is a `for` loop, where I draw from the numerical results to plot from the first to the *i*<sup>th</sup> step for both the time series *and* the trajectory on the phase plane.
+
+There are more elegant and aesthetically-pleasing ways of doing this, but it's what I have to share for now.
 
 Note that you will need to install [ffmpeg](https://ffmpeg.org/) for the `animation` package to produce the .mp4. I wrote step-by-step instructions on how to run an animation on OSX a few years ago: [link](http://mutualismecology.com/DynamicHexagonsInR/).
 
