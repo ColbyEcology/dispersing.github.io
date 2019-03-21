@@ -64,7 +64,7 @@ Feel free to contact me with any questions!
       plot(x = crLV.out[1:i,1], y = crLV.out[1:i,2], lwd = 2, las = 1, xlab = "Time", ylab = "Density", type = "l", ylim = c(0, max(crLV.out[,c(2,3)])), xlim = c(0, max(crLV.out[,1])), col = "blue")
       lines(x = crLV.out[1:i,1], y= crLV.out[1:i,3], lwd = 2, col = "red")
 
-    # Phase plane
+   		# Phase plane
       flowField(deriv = cr.LV, xlim = c(-0.01, 7), ylim = c(-0.01, 7), parameters = parm.vals, add = F, points = 20, las = 1, xaxs = "i", yaxs = "i", state.names = c("R", "C"), ylab = "Consumer", xlab = "Rersource")
       nullclines(deriv = cr.LV, parameters = parm.vals, xlim = c(-0.01, 7), ylim = c(-0.01, 7), add = T, lwd = 2, col = c("blue", "red"), add.legend = F, state.names = c("R", "C"))
       points(x = crLV.out[i,2], y = crLV.out[i,3], pch = 16, cex = 1.5)
