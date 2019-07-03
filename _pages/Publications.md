@@ -7,8 +7,8 @@ author_profile: true
 ## Preprint, accepted, or in press
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
-|-----------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-||||||||||
+|-------------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
+| In review   | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology ||||||
 
 ## Peer-reviewed publications
 
