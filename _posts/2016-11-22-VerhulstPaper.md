@@ -3,11 +3,11 @@ title: Verhulst's original formulation of the logistic equation
 ---
 
 I was recently reading Verhulst's original paper in *Correspondance mathematique et physique, Vol. X* (1838), entitled *Notice sur la loi que la
-populations suit dans son accroissement*.  Here's the link to the paper on the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I referenced it to confirm that when he formulated the equation it did not include $$K$$, as often mis-cited in the ecological literature.  In the paper below, Verhulst bridges Malthusian growth, $$m$$ with a second-order (and higher) parameter that retards growth, $$\varphi p$$.<sup>2</sup>
+populations suit dans son accroissement*.  Here's the link to the paper on the GoogleBooks site: [link](https://books.google.com/books?id=8GsEAAAAYAAJ&pg=PA113#v=onepage&q&f=false).  In this paper, Verhulst first communicates the logistic equation.  I referenced it to confirm that when he formulated the equation it did not include $$K$$, as often mis-cited in the ecological literature.  In the paper below, Verhulst bridges Malthusian growth, $$m$$ with a second-order (and higher) parameter that retards growth, $$\varphi p$$. This is mostly from the Google book, Google Translate, and a translation by Vogels et al. (J. Biophys., 1975, v. 3, 183–192).<sup>2</sup>
 
 <hr>
 
-It is know that the celebrated Malthus established as a principle that the human population tens to increase according to geometric progression, so as to double after a certain period of time, for example, every twenty-five years.  This proposition is incontestable, if one neglects the ever increasing difficulty of procuring supplies when the population has acquired a certain degree of agglomeration, or the resources which the population uses in its growth, even when the society is still nascent, such as a greater division of labor, the existence of a regulation government and means of defense which insure the public tranquility, etc.
+It is know that the celebrated Malthus established as a principle that the human population tends to increase according to geometric progression, so as to double after a certain period of time, for example, every twenty-five years.  This proposition is incontestable, if one neglects the ever increasing difficulty of procuring supplies when the population has acquired a certain degree of agglomeration, or the resources which the population uses in its growth, even when the society is still nascent, such as a greater division of labor, the existence of a regulation government and means of defense which insure the public tranquility, etc.
 
 In effect, *all things being equal in other respects*, if a thousand souls have become two thousand after twenty-five years, these two thousand will become four thousand after the same lapse of time.
 
@@ -63,4 +63,4 @@ I will remark in passing that the table which concerns France seems to show that
 
 <sup>1</sup>*Essai de physique sociale*, tome 1<sup>er</sup>, p.277.
 
-<sup>2</sup>Tables not shown in this document; emphases are Verhulst's
+<sup>2</sup>Tables not shown in this document; emphases are Verhulst's.
