@@ -11,9 +11,8 @@ excerpt: "That learning process comes easiest to those of us who teach who also 
 ---
 
 ## Colby College
-* [BI271, Introduction to Ecology, Fall 2018](https://colbyecology.github.io)
-* [BI382, Ecological Modeling, Spring 2018](/Teaching/EcoMod/EcoMod)
-* [BI271, Introduction to Ecology, Fall 2017](/Teaching/IntroEco)
+* BI382, Ecological Modeling, Spring 2018, Spring 2019
+* BI271, Introduction to Ecology, [Fall 2019](https://colbyecology.github.io), Fall 2018, [Fall 2017](/Teaching/IntroEco)
 
 ## University of Nevada, Reno
 * BIOL 415, Evolution, Fall 2009-2014
