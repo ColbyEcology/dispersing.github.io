@@ -9,7 +9,7 @@ author_profile: true
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-------------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
 | Submitted   | On mutualism, models, and masting: the effects of seed-dispersing animals on the plants they disperse | C.M. Moore and J.W. Dittel | Journal of Ecology ||||||
-| In press    | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology ||||||
+| In press    | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology | [Link](https://link.springer.com/article/10.1007/s12080-019-00441-x) | [Reprint](/Publications/reprints/Abbott_et_al._2019.pdf) ||||
 
 ## Peer-reviewed publications
 
