@@ -4,11 +4,12 @@ title: "Publications"
 permalink: /Publications/
 author_profile: true
 ---
-## Preprint, accepted, or in press
+## Preprint, submitted, accepted, or in press
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-------------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-| In press   | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology ||||||
+| Submitted   | On mutualism, models, and masting: the effects of seed-dispersing animals on the plants they disperse | C.M. Moore and J.W. Dittel | Journal of Ecology ||||||
+| In press    | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology ||||||
 
 ## Peer-reviewed publications
 
