@@ -42,5 +42,3 @@ Video 4: Equilibrium on phase planes
 Video 5: Different ecological interactions and changing the strength of interactions
 
 <iframe src="https://drive.google.com/file/d/1rkMzYsiqNs7DrAOF5VFE6jAEeekFMXf8/preview" width="640" height="480"></iframe>
-
- and CS346 website (), when you mention the two at the top of the page?
