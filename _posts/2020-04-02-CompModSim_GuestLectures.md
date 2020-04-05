@@ -2,7 +2,7 @@
 title: Guest lecture in Computational Modeling and Simulation
 ---
 
-Hello all, here is a set of six videos I made in lieu of a guest lecture in Professor Eric Aaron's class in CS346, _Computational Modeling and Simulation_ (Eric's [homepage](https://cs.colby.edu/eaaron/): link; CS346 website: [link](https://cs.colby.edu/courses/S20/cs346/)). I am sorry to have missed it and I hope that you find these interesting!
+Hello all, here is a set of six videos I made in lieu of a guest lecture in Professor Eric Aaron's class in CS346, _Computational Modeling and Simulation_ (Eric's homepage: [link](https://cs.colby.edu/eaaron/); CS346 website: [link](https://cs.colby.edu/courses/S20/cs346/)). I am sorry to have missed it and I hope that you find these interesting!
 
 Video 0: Introduction to who I am (why did I make this so long? Please skip (^; )
 
