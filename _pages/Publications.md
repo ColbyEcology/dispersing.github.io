@@ -8,7 +8,7 @@ author_profile: true
 
 | **Status**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |-------------|------------|-------------|--------------|-----------|------------|-----------|-----------|------------|
-| Accepted   | On mutualism, models, and masting: the effects of seed-dispersing animals on the plants they disperse | C.M. Moore and J.W. Dittel | Journal of Ecology || [Preprint](/Publications/reprints/Abbott_et_al._2020.pdf)||||
+| Accepted   | On mutualism, models, and masting: the effects of seed-dispersing animals on the plants they disperse | C.M. Moore and J.W. Dittel | Journal of Ecology || [Preprint](/Publications/reprints/Moore_&_Dittel_2020.pdf)||||
 
 ## Peer-reviewed publications
 
