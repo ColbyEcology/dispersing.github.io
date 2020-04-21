@@ -12,9 +12,9 @@ author_profile: true
 
 ## Peer-reviewed publications
 
-| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint**  | **Code**  | **Data**  |
+| **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**     | **Reprint**  | **Code**  | **Data**  |
 |-----------|------------|----------------|--------------|--------------|-----------|-----------|-----------|
-| 2020 | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology | [Link](https://link.springer.com/article/10.1007/s12080-019-00441-x) | [Reprint](/Publications/reprints/Abbott_et_al._2020.pdf) ||||
+| 2020 | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, and C.M. Moore | Theoretical Ecology | [Link](https://link.springer.com/article/10.1007/s12080-019-00441-x) | [Reprint](/Publications/reprints/Abbott_et_al._2020.pdf) |||
 | 2019 | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, and S.B. Vander Wall | Ecography  |  [Link](https://onlinelibrary.wiley.com/doi/10.1111/ecog.03876) | [Reprint](/Publications/reprints/Dittel_et_al_2019.pdf)  | [Link](https://github.com/dispersing/SpatialRandomizations) | [Data](https://datadryad.org/resource/doi:10.5061/dryad.cp39t21) |
 | 2018 | Population dynamics of mutualism and intraspecific density dependence: how &theta;-logistic-like density dependence affects mutualistic positive feedback |  C.M. Moore, S.A. Catella, and K.C. Abbott | Ecological Modelling  | [Link](https://www.sciencedirect.com/science/article/pii/S0304380017304775) | [Reprint](/Publications/reprints/Moore_et_al._2018.pdf), [SuppMatt](/Publications/reprints/Moore_et_al._2018_SuppMat.pdf) | [Link](https://github.com/dispersing/Mutualism-NonlinearDensityDependence) | |
 | 2016 | QPot: An R Package for the Analysis of Two-Dimensional Stochastic Differential Equations   |  C.M. Moore, C.R. Stieha, B.C. Nolting, M.K. Cameron, and K.C. Abbott | The R Journal  |  [Link](https://journal.r-project.org/archive/2016-2/moore-stieha-nolting-etal.pdf) | [Reprint](/Publications/reprints/Moore_et_al._2016.pdf)  | [CRAN](https://cran.r-project.org/package=QPot), [GitHub](https://github.com/bmarkslash7/QPot)  |   |
